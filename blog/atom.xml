@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.mojaveexpressguide.com/blog</id>
+    <title>Mojave Express Guide Blog</title>
+    <updated>2023-10-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
+    <subtitle>Mojave Express Guide Blog</subtitle>
+    <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[17/10/2023 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/2023-10-17-Changelog</id>
+        <link href="https://www.mojaveexpressguide.com/blog/2023-10-17-Changelog"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mojave Express 3.0 is here!]]></summary>
+        <content type="html"><![CDATA[<p><strong>Mojave Express 3.0 is here!</strong></p><p>Massive update to the website. It should be faster, more mobile friendly, scalable, has a github and 16x the detail!</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---user-interface">MEG - User Interface<a href="#meg---user-interface" class="hash-link" aria-label="Direct link to MEG - User Interface" title="Direct link to MEG - User Interface">​</a></h3><ul><li><strong>Added:</strong> Contextual HUD</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---animations">MEG - Animations<a href="#meg---animations" class="hash-link" aria-label="Direct link to MEG - Animations" title="Direct link to MEG - Animations">​</a></h3><ul><li><strong>Removed:</strong> Hit's Locomotion  </li><li><strong>Added:</strong> Blended Locomotion - (Should be fixed now)  </li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---audio">MEG - Audio<a href="#meg---audio" class="hash-link" aria-label="Direct link to MEG - Audio" title="Direct link to MEG - Audio">​</a></h3><ul><li><strong>Removed:</strong> Bullet Snap Redux - Espless - (Cool mod but gets kinda annoying)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---visuals">MEG - Visuals<a href="#meg---visuals" class="hash-link" aria-label="Direct link to MEG - Visuals" title="Direct link to MEG - Visuals">​</a></h3><ul><li><strong>Replaced:</strong> Configurable Pip-Boy Light Color (Plugin) with Configurable Pip-Boy Light Color (No Plugin)  </li><li><strong>Added:</strong> PAVE - (looks a lot better than titans of steel)  </li><li><strong>Added:</strong> PAVE TOTNW Patch  </li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---gameplay">MEG - Gameplay<a href="#meg---gameplay" class="hash-link" aria-label="Direct link to MEG - Gameplay" title="Direct link to MEG - Gameplay">​</a></h3><ul><li><strong>Added:</strong> Melee Bash</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---locations">MEG - Locations<a href="#meg---locations" class="hash-link" aria-label="Direct link to MEG - Locations" title="Direct link to MEG - Locations">​</a></h3><ul><li><strong>Added:</strong> A Very Uncreative Collection of FPGE Patches</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches-and-extras">MEG - Patches and Extras<a href="#meg---patches-and-extras" class="hash-link" aria-label="Direct link to MEG - Patches and Extras" title="Direct link to MEG - Patches and Extras">​</a></h3><ul><li><strong>Updated:</strong> MEG - Navmesh Compatibility Patch  </li><li><strong>Updated:</strong> MEG - Patches  </li><li><strong>Updated:</strong> MEG - Tweaks  </li><li><strong>Updated:</strong> MEG - FNVLODGen Output  </li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---loadorder-updated">MEG - Loadorder Updated<a href="#meg---loadorder-updated" class="hash-link" aria-label="Direct link to MEG - Loadorder Updated" title="Direct link to MEG - Loadorder Updated">​</a></h3>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="October" term="October"/>
+    </entry>
+</feed>
