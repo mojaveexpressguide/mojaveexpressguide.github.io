@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Roboto+Slab:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+:root {
+  --ifm-font-family-base: Roboto, system-ui, -apple-system, BlinkMacSystemFont,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  --ifm-font-family-monospace: "JetBrainsMono NF", "JetBrains Mono",
+    SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
+  --ifm-color-primary: #b94d1a;
+  --ifm-color-primary-dark: #b20e56;
+  --ifm-color-primary-darker: #a80e51;
+  --ifm-color-primary-darkest: #8b0b43;
+  --ifm-color-primary-light: #da1269;
+  --ifm-color-primary-lighter: #e4126d;
+  --ifm-color-primary-lightest: #ee297e;
+  --ifm-background-color: #fcfcfc;
+  --ifm-background-surface-color: #f8f8f2;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+html[data-theme="dark"] {
+  --ifm-color-primary: #ed9a3f;
+  --ifm-color-primary-dark: #ea8c24;
+  --ifm-color-primary-darker: #e98416;
+  --ifm-color-primary-darkest: #c06d12;
+  --ifm-color-primary-light: #f0a85a;
+  --ifm-color-primary-lighter: #f1b068;
+  --ifm-color-primary-lightest: #f5c591;
+  --ifm-background-color: #171717;
+  --ifm-background-surface-color: #1F1F1F; 
+  --ifm-footer-background-color: #1F1F1F !important;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #1F1F1F;
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white);
+}
