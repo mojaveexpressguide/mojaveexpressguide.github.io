@@ -40,7 +40,7 @@ I would not recommend enb's as they can cause large performance drops and have o
 
 ### Can I install Reshade?
 
-Yes, firstly download a Reshade preset and place the ini file in your FNV root folder. I personally recommend [Vibrance](https://www.nexusmods.com/newvegas/mods/76715) or [Aura](https://salamand3r.fail/texture-guide).
+Yes, firstly download a Reshade preset and place the ini file in your FNV root folder. I personally recommend [Vibrance](https://www.nexusmods.com/newvegas/mods/76715) or [Aura](https://www.nexusmods.com/newvegas/mods/79839).
 
 Download "Reshade 5.9.0 with full add-on support" from here.
 

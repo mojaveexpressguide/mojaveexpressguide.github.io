@@ -78,4 +78,9 @@ A remake of tdx73's MTB Crate Truck mod using Qolore7's Mobile Truck Base Remast
 
 **Installation:**
 
-- **Main Files - Mobile Crate Truck Remastered**
+- **Main Files - Another Millenia**
+
+- **Update Files - hotfix 6**
+
+- **Optional Files - Another Millenia Knvse Pack**
+
