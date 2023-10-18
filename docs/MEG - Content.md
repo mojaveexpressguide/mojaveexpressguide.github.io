@@ -69,7 +69,12 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 **Installation:**
 
-- **Main Files - RAD - Overhaul**
+- **Main Files - Another Millenia**
+
+- **Update Files - hotfix 6**
+
+- **Optional Files - Another Millenia Knvse Pack**
+
 
 
 ### [Mobile Crate Truck Remastered](https://www.nexusmods.com/newvegas/mods/81058)
@@ -78,9 +83,6 @@ A remake of tdx73's MTB Crate Truck mod using Qolore7's Mobile Truck Base Remast
 
 **Installation:**
 
-- **Main Files - Another Millenia**
+- **Main Files - Mobile Crate Truck Remastered 1.6**
 
-- **Update Files - hotfix 6**
-
-- **Optional Files - Another Millenia Knvse Pack**
 
