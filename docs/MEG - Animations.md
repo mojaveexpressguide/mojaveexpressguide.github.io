@@ -8,7 +8,7 @@ sidebar_position: 10
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
-### [Diagonal Movement](https://www.nexusmods.com/newvegas/mods/48925)
+### [Diagonal Movement](https://www.nexusmods.com/newvegas/mods/64333)
 
 This mod, thanks to JazzIsParis magic, adds diagonal movement. Simple as that.
 
