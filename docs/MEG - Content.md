@@ -38,8 +38,6 @@ Adds a variety of clothing and armour to the game that npc's will wear.
 
 - **Main Files - Canvas Backpacks - FNV**
 
-- **Optional Files - ATTT Compatibility Files**
-
 :::info Double-click Canvas Backpacks - FNV - TTW in MO2:
 
 - Go to the **Optional ESPs** tab 

@@ -13,3 +13,5 @@ sidebar_position: 1
 **B42 Bows and KARPSOL:** - If you decide to add B42 Bows to the game, when an npc or yourself has both a bow and a poncho equipped the game will crash. 
 
 **Bullet time highlighting whilst ads with scopes looks weird:** - This is an issue between B42 Optics and JAM's bullet time highlighing. The only way to fix is to either disable JAM's bullet time or B42 Optics.
+
+**B42 Notify not working?** - On a new save B42 Notify may not work initially. All you need to do is save the game, exit and relaunch the game and save.
