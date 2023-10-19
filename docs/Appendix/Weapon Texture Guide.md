@@ -76,13 +76,22 @@ A WIP update for WTH.
 - **Main Files -  WTH V1_2 WIP**
 
 
-### [WTH - WRP Simplified Patch](https://drive.google.com/file/d/1F8u92Dsb2Ccxl9BlE9TuKKYf4kN0o8Oo/view?usp=sharing)
+### [WTH - WRP Simplified Patch](https://drive.google.com/file/d/1bIbI_IYnEor4C58S3sn9dsvS1Pq0obih/view?usp=sharing)
 
 A patch for WTH and WRP Simplified.
 
 **Installation:**
 
 - **Main Files - WTH - WRP Simplified Patch**
+
+
+### [BB Gun ReTexture](https://www.nexusmods.com/newvegas/mods/67445)
+
+This mod retexture BB Gun. 
+
+**Installation:**
+
+- **Main Files - BB Gun ReTexture for FNV**
 
 
 ### [Nail Gun Retexture](https://www.nexusmods.com/newvegas/mods/66086)
@@ -94,7 +103,25 @@ Adds a new complete re-texture of the F:NV H&H Tool Nail Gun.
 - **Main Files - Nail Gun Re-Texture**
 
 
-### [Shovel and Friend](https://drive.google.com/file/d/1F8u92Dsb2Ccxl9BlE9TuKKYf4kN0o8Oo/view?usp=sharing)
+### [Flare Gun Retexture](https://www.nexusmods.com/newvegas/mods/68580)
+
+Adds a complete re-texture of the F:NV Flare Gun.
+
+**Installation:**
+
+- **Main Files - Flare Gun Retexture 1.1**
+
+
+### [Euclid's C-Finder Retexture](https://www.nexusmods.com/newvegas/mods/68624)
+
+A retexture of the Euclid's C-Finder.
+
+**Installation:**
+
+- **Main Files - Euclid's C-Finder Retexture**
+
+
+### [Shovel and Friend](https://www.nexusmods.com/newvegas/mods/80846)
 
 For all your shovelry needs!
 
@@ -110,15 +137,6 @@ A re-texture of the Kitchen Knife.
 **Installation:**
 
 - **Main Files - Knife Re-Texture 2k**
-
-
-### [Flare Gun Retexture](https://www.nexusmods.com/newvegas/mods/68580)
-
-Adds a complete re-texture of the F:NV Flare Gun.
-
-**Installation:**
-
-- **Main Files - Flare Gun Retexture 1.1**
 
 
 ### [Throwing melee weapon retexture](https://www.nexusmods.com/newvegas/mods/63000)
@@ -203,15 +221,6 @@ high quality replacer for lever action shotgun.
 - **Main Files - WAP Lever Action Shotgun**
 
 
-### [WAP F4NV Laser Pistol and Pew-Pew](https://www.nexusmods.com/newvegas/mods/80600?tab=description)
-
-A F4NV replacer for the vanilla Laser Pistol (include GRA version) and PEW PEW.
-
-**Installation:**
-
-- **Main Files - WAP F4NV Laser Pistol**
-
-
 ### [WAP Sniper Rifle](https://www.nexusmods.com/newvegas/mods/81732?tab=description)
 
 WAP replacer for the sniper rifles and its uniques.
@@ -219,6 +228,41 @@ WAP replacer for the sniper rifles and its uniques.
 **Installation:**
 
 - **Main Files - WAP Sniper Rifle - Main file**
+
+
+### [WAP Single Shotgun](https://www.nexusmods.com/newvegas/mods/83112)
+
+Replaces single shotgun with new mesh and textures. 
+
+**Installation:**
+
+- **Main Files - WAP Single Shotgun**
+
+
+### [WAP 12.7 SMG Rebirth](https://www.nexusmods.com/newvegas/mods/73194)
+
+A new high quality custom mesh and texture as replacer for both version of the 12.7 SMG.
+
+**Installation:**
+
+- **Main Files - 12.7 SMG - 2K**
+
+- **Main Files - Reticle Texture fix**
+
+- **Main Files - [12.7 SMG Scriptrunner](https://www.nexusmods.com/newvegas/mods/79672?tab=files)**
+
+
+### [WAP Gauss Rifle](https://www.nexusmods.com/newvegas/mods/76421)
+
+Replacer for gauss rifle and ycs/186 with new high quality mesh and textures.
+
+**Installation:**
+
+- **Main Files - WAP Gauss Rifle - MAIN FILE**
+
+- **Main Files - WAP Gauss Rifle - YUP**
+
+- **Main Files - [Gauss Rifle Texture Tweak](https://www.nexusmods.com/newvegas/mods/79825/?tab=files)**
 
 
 ### [WAP F4NV Recharger Weaponry](https://www.nexusmods.com/newvegas/mods/82044?tab=description)
@@ -229,6 +273,33 @@ High quality replacer for the recharger weapons.
 
 - **Main Files - WAP F4NV Recharger Weaponry - Main file**
 
+
+### [WAP F4NV Laser Pistol and Pew-Pew](https://www.nexusmods.com/newvegas/mods/80600?tab=description)
+
+A F4NV replacer for the vanilla Laser Pistol (include GRA version) and PEW PEW.
+
+**Installation:**
+
+- **Main Files - WAP F4NV Laser Pistol**
+
+
+### [Laser Rifle Rebirth](https://www.nexusmods.com/newvegas/mods/72759)
+
+New mesh/textures for vanilla laser rifle and aer14 prototype.
+
+**Installation:**
+
+- **Main Files - Laser Rifle Replacer**
+
+- **Main Files - [Laser Rifle Rebirth - Esp-less implementation](https://www.nexusmods.com/newvegas/mods/81963?tab=files)**
+
+:::
+
+:::caution Important!
+
+If you have **Laser Weapon Iron Sights** installed. You will need to disable it for **Laser Rifle Rebirth** and **WAP F4NV Laser Pistol and Pew-Pew** to work!
+
+:::
 
 ## Patches and extras
 
