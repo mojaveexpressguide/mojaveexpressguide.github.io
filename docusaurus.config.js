@@ -207,4 +207,11 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  title: 'My site',
+  // ...
+  themes: ['@docusaurus/theme-search-algolia'],
+  themeConfig: {
+    // ...
+  },
+};
