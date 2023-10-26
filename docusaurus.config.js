@@ -105,6 +105,13 @@ const config = {
             label: "Appendix",
           },
           { to: "/blog", label: "Changelog", position: "left" },
+          {
+            href: "https://github.com/mojaveexpressguide/mojaveexpressguide.github.io",
+            //label: "GitHub",
+            position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
+          },
         ],
       },
       footer: {
