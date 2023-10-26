@@ -62,6 +62,22 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
+      algolia: {
+        appId: "C2T74REROO",
+        apiKey: "be135029bc04538979fa65ae5a782501",
+        indexName: "mojaveexpressguide",
+        contextualSearch: false,
+      },
+         // Image zoom plugin
+         zoom: {
+          selector: ".markdown :not(em) > img",
+          background: {
+            light: "rgba(0,0,0,0.3)",
+            dark: "rgba(0,0,0,0.5)",
+          },
+          config: {},
+      },
       colorMode: {
         defaultMode: "dark",
         respectPrefersColorScheme: false,
