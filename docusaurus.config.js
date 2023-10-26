@@ -208,7 +208,7 @@ const config = {
 };
 
 module.exports = {
-  title: 'My site',
+  title: 'Mojave Express Guide',
   // ...
   themes: ['@docusaurus/theme-search-algolia'],
   themeConfig: {
