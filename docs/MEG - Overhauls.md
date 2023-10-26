@@ -66,7 +66,7 @@ This mod does exactly what it says, it will remove the Pip-Boy when equipping a 
 - **Main Files - [Alternative Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636?tab=files)**
 
 
-### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![Difficulty](../static/img/Difficulty.png) ![Difficulty](../static/img/Difficulty.png) ![Difficulty Faded](../static/img/DifficultyFaded.png) 
+### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) 
 
 Overhaul of xax34hah's RAD mod.
 
@@ -75,7 +75,7 @@ Overhaul of xax34hah's RAD mod.
 - **Main Files - RAD - Overhaul**
 
 
-### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![Difficulty](../static/img/Difficulty.png) ![Difficulty Faded](../static/img/DifficultyFaded.png) ![Difficulty Faded](../static/img/DifficultyFaded.png) 
+### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
 Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
 
@@ -84,7 +84,7 @@ Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configura
 - **Main Files - Ghouls Inflict Radiation Damage**
 
 
-### [Hardcore Charisma](https://www.nexusmods.com/newvegas/mods/78448)  ![Difficulty](../static/img/Difficulty.png) ![Difficulty Faded](../static/img/DifficultyFaded.png) ![Difficulty Faded](../static/img/DifficultyFaded.png) 
+### [Hardcore Charisma](https://www.nexusmods.com/newvegas/mods/78448)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
 Aims to make Charisma more significant to gameplay by having it scale the amount of Reputation received when helping or harming a faction.
 
