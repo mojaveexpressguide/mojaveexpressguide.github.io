@@ -69,15 +69,6 @@ const config = {
         indexName: "mojaveexpressguide",
         contextualSearch: false,
       },
-         // Image zoom plugin
-         zoom: {
-          selector: ".markdown :not(em) > img",
-          background: {
-            light: "rgba(0,0,0,0.3)",
-            dark: "rgba(0,0,0,0.5)",
-          },
-          config: {},
-      },
       colorMode: {
         defaultMode: "dark",
         respectPrefersColorScheme: false,
