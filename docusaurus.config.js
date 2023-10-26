@@ -105,13 +105,6 @@ const config = {
             label: "Appendix",
           },
           { to: "/blog", label: "Changelog", position: "left" },
-          {
-            href: "https://github.com/mojaveexpressguide/mojaveexpressguide.github.io",
-            //label: "GitHub",
-            position: "right",
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
-          },
         ],
       },
       footer: {
@@ -198,12 +191,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  url: 'https://mojaveexpressguide.com/',
-  title: 'Mojave Express Guide',
-  // ...
-  themes: ['@docusaurus/theme-search-algolia'],
-  themeConfig: {
-    // ...
-  },
-};
+module.exports = config;
