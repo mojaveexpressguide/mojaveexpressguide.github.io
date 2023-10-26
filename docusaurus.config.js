@@ -199,6 +199,7 @@ const config = {
 };
 
 module.exports = {
+  url: 'https://mojaveexpressguide.com/',
   title: 'Mojave Express Guide',
   // ...
   themes: ['@docusaurus/theme-search-algolia'],
