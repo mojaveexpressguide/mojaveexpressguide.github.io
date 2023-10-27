@@ -79,12 +79,15 @@ If you do not have all of the selected mods or plan to add more please create yo
 
 ## MEG - LOD
 
-### [Mojave Express Guide - Resources](https://www.nexusmods.com/newvegas/mods/80444?tab=files)
+Below is pre-generated LOD for Mojave Express using all the mods in the guide with vanilla textures. You need to have have **[New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218?tab=files)** installed for this to work properly. You will need the below resources and their plugins as well. If you have downloaded Viva New Vegas with Wabbajack you should already have the resources, so you just need to disable the **FNVLODGen Output** you have in **MO2** and then download and install the **[Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**.
 
-For some of the mods in this guide generating LOD is recommended. Below is pre-generated LOD for Mojave Express using all the mods in the guide. You will need the below resources and their plugins as well. If you have downloaded Viva New Vegas with Wabbajack you should already have the resources and just need to download the **Mojave Express - FNVLODGen Output** and disable the **FNVLODGen Output** you have in **MO2**.
+:::tip Note: 
+
+If you have added additional mods that require LOD or use texture mods then it is highly recommended to generate your own LOD from [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) instead.
+
+:::
 
 **Installation:**
-
 
 - **Main Files - [FNVLODGen Resources](https://www.nexusmods.com/newvegas/mods/58562?tab=files)**
 
@@ -94,16 +97,9 @@ For some of the mods in this guide generating LOD is recommended. Below is pre-g
  
 - **Main Files - [More LODs Additions and fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)**
 
-- **Main FIles - [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316)**
+- **Main FIles - [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316?tab=files)**
 
-- **Optional Files - Mojave Express - FNVLODGen Output**
-
-
-:::tip Note: 
-
-If you have added additional mods that require LOD or use texture mods then it is highly recommended to generate your own LOD from [LOD Guide.](https://vivanewvegas.moddinglinked.com/lod.html)
-
-:::
+- **Optional Files - [Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 <br />
 
