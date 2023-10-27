@@ -24,7 +24,7 @@ Please read the mod pages before downloading any mods to give you an idea of wha
 
 :::tip Note:
 
-![D(../static/img/Difficulty.png) ![I](../static/img/DifficultyFaded.png) ![F](../static/img/DifficultyFaded.png)         **- Mods marked with this increase difficulty noticable, marked on a three point scale.**
+![D](../static/img/Difficulty.png) ![I](../static/img/DifficultyFaded.png) ![F](../static/img/DifficultyFaded.png)         **- Mods marked with this increase difficulty noticable, marked on a three point scale.**
 
 ![D](../static/img/Performance.png) ![I](../static/img/PerformanceFaded.png) ![F](../static/img/PerformanceFaded.png)      **- Mods marked with this have a noticable performance impact, marked on a three point scale.**
 
