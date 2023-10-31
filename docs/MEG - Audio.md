@@ -36,9 +36,9 @@ This Mod overhauls the music in both NV and TTW and expands both of the regions 
 
 :::info In the installer:
 
-[Patches]
+[Plugins]
 
-- New Vegas only
+- NV - no radio
 
 **> Install**
 
@@ -63,15 +63,17 @@ A patched version of TheKetzku's original Immersive Pickup Sounds mod that adds 
 - **Main Files - Immersive Pickup Sounds Patched**
 
 
-### [All Weapon Sounds Overhaul Modern Edition - AWSOME](https://www.nexusmods.com/newvegas/mods/77723)
+### [JSRS Sound Mod 2.0 for Fallout New Vegas](https://www.nexusmods.com/newvegas/mods/81585)
 
-AWSOME is a modern recreation of All Weapon Sounds Overhaul that offers improved compatibility and various enhancements and fixes.
+This mod adds 592 sounds for 101 different types of firearm weapons with interior/exterior gunfire sounds.
 
 **Installation:**
 
-- **Main Files - AWSOME**
+- **Main Files - JSRS Sound Mod 2.1 - Main File**
 
-- **Main Files - AWSOME Plugin**
+- **Optional Files - JSRS 2.0 Patch for FNV**
+
+- **Optional Files - JSRS 2.0 Patch for Another Millenia**
 
 
 ### [Aim Down Sights - Backpack - Jump Impact sound Effects](https://www.nexusmods.com/newvegas/mods/75334)

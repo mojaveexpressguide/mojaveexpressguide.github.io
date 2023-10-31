@@ -8,6 +8,8 @@ sidebar_position: 1
 
 ---
 
+**Desert Headscarf with Mask** - For some reason picking this item up off of the floor/from an npc will cause the game to crash. Seems to be related to B42 Loot (working on a fix). You can just disable then re-enable the mod.
+
 **KARPSOL armours clipping** - These have been fixed as best as possible but its not perfect, weapon based fNearDistance can help with this.
 
 **B42 Bows and KARPSOL:** - If you decide to add B42 Bows to the game, when an npc or yourself has both a bow and a poncho equipped the game will crash. 

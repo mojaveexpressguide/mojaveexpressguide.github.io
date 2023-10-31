@@ -65,8 +65,10 @@ This mod does exactly what it says, it will remove the Pip-Boy when equipping a 
 
 - **Main Files - [Alternative Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636?tab=files)**
 
+- **Main Files - [S6S Perks PAHP Patch](https://www.nexusmods.com/newvegas/mods/82973?tab=files)**
 
-### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![D](../static/img/Difficulty.png) ![I](../static/img/Difficulty.png) ![F](../static/img/DifficultyFaded.png) 
+
+### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) 
 
 Overhaul of xax34hah's RAD mod.
 
@@ -74,23 +76,26 @@ Overhaul of xax34hah's RAD mod.
 
 - **Main Files - RAD - Overhaul**
 
+- **Main Files - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077?tab=files)**
 
-### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![D](../static/img/Difficulty.png) ![I](../static/img/DifficultyFaded.png) ![F](../static/img/DifficultyFaded.png) 
+:::info In the installer:
+
+[Main]
+
+- New Vegas Ultimate Edition + YUP
+
+**> Install**
+
+:::
+
+
+### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
 Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
 
 **Installation:**
 
 - **Main Files - Ghouls Inflict Radiation Damage**
-
-
-### [Hardcore Charisma](https://www.nexusmods.com/newvegas/mods/78448)  ![D](../static/img/Difficulty.png) ![I](../static/img/DifficultyFaded.png) ![F](../static/img/DifficultyFaded.png) 
-
-Aims to make Charisma more significant to gameplay by having it scale the amount of Reputation received when helping or harming a faction.
-
-**Installation:**
-
-- **Main Files - Hardcore Charisma - Less Hardcore**
 
 
 ### [Character Expansions Revised](https://www.nexusmods.com/newvegas/mods/64862?tab=description)

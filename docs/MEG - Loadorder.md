@@ -6,7 +6,7 @@ sidebar_position: 14
 
 ---
 
-### [Mojave Express Guide - Resources](https://www.nexusmods.com/newvegas/mods/80444?tab=files)
+### [MEG - Loadorder](https://www.nexusmods.com/newvegas/mods/80444?tab=files)
 
 **Installation:**
 

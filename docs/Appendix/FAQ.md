@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### Why are there barely any texture mods?
 
-The problem is that there is not a large texture pack that covers everything in the game and fits everyones taste, you will need to download multiple texture mods which may clash in style and not fit the vanilla games aesthetics. If you want a texture guide follow [Salamand3r's texture guide](https://salamand3r.fail/texture-guide)
+The problem is that there is not a large texture pack that covers everything in the game and fits everyones taste, you will need to download multiple texture mods which may clash in style and not fit the vanilla games aesthetics. If you want a texture guide follow [Salamand3r's texture guide](https://salamand3r.fail/texture-guide). I can not provide support for this unfortunately.
 
 
 ### Is there a Wabbajack version avaliable?
@@ -30,7 +30,7 @@ If you know what you are doing then yes. You will need to be wary of mods that a
 
 ### Can I install additional animations?
 
-You can install as many knvse animations as you want. However .json files are prioritised alphabetically (Z will override A). Therefore if you have 2 mods that edit the animation of the same weapon you will need to hide/rename the files you want in order to get the animations to appear correctly. Alernatively you can use **[Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)** where you can change stuff in the FOMOD.
+You can install as many knvse animations as you want. However .json files are prioritised alphabetically (Z will override A). Therefore if you have 2 mods that edit the animation of the same weapon you will need to hide/rename the files you want in order to get the animations to appear correctly. Alternatively you can use **[Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)** which lets you configure your animation preferences in the FOMOD.
 
 
 ### Can I install an enb?

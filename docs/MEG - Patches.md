@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# MEG - Patches and Extras
+# MEG - Patches and Tweaks
 
 ---
 
@@ -35,13 +35,13 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 :::
 
-### [Mojave Express Guide - Resources](https://www.nexusmods.com/newvegas/mods/80444?tab=files)
+## MEG - Patches
 
-This is the resource page for the Mojave Express Guide.
+This will contain all the patches you need for the Mojave Express Guide.
 
 **Installation:**
 
-- **Main Files - MEG - Patches**
+- **Main Files - [MEG - Patches](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 :::info In the installer:
 
@@ -65,13 +65,51 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 <br />
 
-- **Main Files - MEG - Navmesh Compatibility Patch**
+
+## MEG - Tweaks
+
+My custom set of tweaks that I use.
+
+**Installation:**
+
+- **Main Files - [MEG - Tweaks](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
+
+:::info In the installer:
+
+Pick the **tweaks** that you would like and make sure to read the description of them in the FOMOD:
+
+**List of tweaks included in the installer:**
+
+- MEG - JIP LN NVSE Config
+
+- MEG - Stewie Tweaks Config
+
+- MEG - Iron Sights Aligned Config
+
+- ​MEG - Helmet Armor Rebalance (JIP)
+
+- MEG - JAM Config
+
+- MEG - Aim Down Sights Config
+
+- MEG - Contextual HUD Config
+
+**>Install**
+
+:::
+
+
+## MEG - Navmesh Compatibility Patch
+
+This is a premade Navmesh Compatibility Patch for Mojave Express. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements, New Vegas Killer, New Vegas Bounties, Lucky Jim's Cache, Mobile Crate Truck Remastered, Sweets Pain NV, Home and Safehouse Tweaks, Uncut Wasteland - NVInteriors Remastered Patch.
+
+**Installation:**
+
+- **Main Files - [MEG - Navmesh Compatibility Patch](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 :::tip Note:
 
 If you download this then disable **VNV Extended Navmesh Patch** and **YUP Navmesh Overhaul Patch** if you have them from **VNV**.
-
-This is a premade Navmesh Compatibility Patch for Mojave Express. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements, New Vegas Killer, New Vegas Bounties, Lucky Jim's Cache, Mobile Crate Truck Remastered, Sweets Pain NV, Home and Safehouse Tweaks, Uncut Wasteland - NVInteriors Remastered Patch.
 
 If you do not have all of the selected mods or plan to add more please create your own navmesh compatibility patch using the guide on this page: **[Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)**
 
@@ -79,7 +117,7 @@ If you do not have all of the selected mods or plan to add more please create yo
 
 ## MEG - LOD
 
-Below is pre-generated LOD for Mojave Express using all the mods in the guide with vanilla textures. You need to have have **[New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218?tab=files)** installed for this to work properly. You will need the below resources and their plugins as well. If you have downloaded Viva New Vegas with Wabbajack you should already have the resources, so you just need to disable the **FNVLODGen Output** you have in **MO2** and then download and install the **[Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**.
+This step is optional but below is pre-generated LOD for Mojave Express using all the mods in the guide with vanilla textures. You need to have have **[New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218?tab=files)** installed for this to work properly. You will need the below resources and their plugins as well. If you have downloaded Viva New Vegas with Wabbajack you should already have the resources, so you just need to disable the **FNVLODGen Output** you have in **MO2** and then download and install the **[Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**.
 
 :::tip Note: 
 

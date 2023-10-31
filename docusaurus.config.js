@@ -25,6 +25,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  plugins: ["docusaurus-plugin-image-zoom"],
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -68,6 +70,16 @@ const config = {
         apiKey: "be135029bc04538979fa65ae5a782501",
         indexName: "mojaveexpressguide",
         contextualSearch: false,
+      },
+            // Image zoom plugin
+      zoom: {
+        selector: ".markdown :not(em) > img",
+        background: {
+          light: "rgba(0,0,0,0.3)",
+          dark: "rgba(0,0,0,0.5)",
+        },
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        config: {},
       },
       colorMode: {
         defaultMode: "dark",
@@ -199,3 +211,4 @@ const config = {
 };
 
 module.exports = config;
+

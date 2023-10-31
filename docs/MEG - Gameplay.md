@@ -26,6 +26,15 @@ A mod that adds melee attacks for non-melee weapons, similar to melee hits and b
 - **Main Files - B42 Melee Bash**
 
 
+### [Bullet Time Improved - a JAM addon](https://www.nexusmods.com/newvegas/mods/78324)
+
+An addon for Just Assorted Mods that adds some new features for Just Bullet Time.
+
+**Installation:**
+
+- **Main Files - JBT Improved 1.01**
+
+
 ### [Cyberware 2281](https://mod.pub/falloutnv/15/files)
 
 Adds modern project nevada style cyberware.
@@ -106,4 +115,3 @@ The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly,
 - **Optional Files - NVB1Patch**
 
 - **Optional Files - S6S Perks Patches**
-

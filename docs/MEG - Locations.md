@@ -36,7 +36,7 @@ Adds crafting stations and additional containers to several vanilla player homes
 :::
 
 
-### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![P](../static/img/Performance.png) ![E](../static/img/Performance.png) ![R](../static/img/PerformanceFaded.png)
+### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png) ![](../static/img/Performance.png) ![](../static/img/PerformanceFaded.png)
 
 This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed.
 

@@ -41,8 +41,8 @@ const sidebars = {
     "MEG - Animations",
     "MEG - Audio",
     "MEG - Patches",
-    "MEG - Tweaks",
     "MEG - Loadorder",
+    "MEG - Post Install",
     {
       type: "category",
       label: "Appendix",

@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ### [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide)
 
-A comprehensive texture modding guide that works for both TTW and NV.
+A comprehensive texture modding guide that works for both TTW and NV. I can not provide support for this unfortunately.
 
 ### [Weapon Texture Guide](<Weapon Texture Guide>)
 

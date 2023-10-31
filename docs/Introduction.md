@@ -6,8 +6,10 @@ sidebar_position: 1
 
 ---
 
-The Mojave Express guide contains a **fully modular** list of mods that add depth and additional elements to **[Viva New Vegas](https://vivanewvegas.moddinglinked.com/)** whilst keeping your game fairly lore friendly and balanced.
+The Mojave Express guide is a curated **fully modular** list of mods that add depth and additional elements to **[Viva New Vegas](https://vivanewvegas.moddinglinked.com/)** whilst keeping your game fairly lore friendly and balanced.
 This guide has taken inspiration from the **[Wasteland Survival Guide](https://wastelandsurvivalguide.com/)** and my own picks for mods I use in my playthroughs. This guide is fully compatible with all VNV mods, and I have provided patches, loadorder and LOD to go with. You will require a working, stable Viva New Vegas setup before you can proceed with the guide! The format for the guide is very similar to Viva New Vegas and so shouldn't be too hard to follow.
+
+Heres a few of the mods present in this guide:
 
 <br />
 
@@ -24,9 +26,9 @@ Please read the mod pages before downloading any mods to give you an idea of wha
 
 :::tip Note:
 
-![D](../static/img/Difficulty.png) ![I](../static/img/DifficultyFaded.png) ![F](../static/img/DifficultyFaded.png)         **- Mods marked with this increase difficulty noticable, marked on a three point scale.**
+![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png)         **- Mods marked with this increase difficulty noticable, marked on a three point scale.**
 
-![D](../static/img/Performance.png) ![I](../static/img/PerformanceFaded.png) ![F](../static/img/PerformanceFaded.png)      **- Mods marked with this have a noticable performance impact, marked on a three point scale.**
+![](../static/img/Performance.png) ![](../static/img/PerformanceFaded.png) ![](../static/img/PerformanceFaded.png)      **- Mods marked with this have a noticable performance impact, marked on a three point scale.**
 
 :::
 

@@ -6,7 +6,7 @@ sidebar_position: 2
  
 ---
 
-As you did with **Viva New Vegas** create new separators for the above categories.
+As you did with **Viva New Vegas** create new separators for the above categories. Ensure this seperator is below the **Visuals** seperator previously created for VNV.
 
 ### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160)
 
@@ -15,6 +15,7 @@ NVSE plugin which adds new functions and allows modders to easily add new UI ele
 **Installation:**
 
 - **Main Files - SUP NVSE Plugin**
+
 
 ### [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
 
@@ -42,3 +43,11 @@ Allows you to set the custom fNearDistance based on a weapon to remove the clipp
 
 - **Main Files - Weapon Based fNearDistance ESPLess**
 
+
+### [Sound Extender](https://www.nexusmods.com/newvegas/mods/78637)
+
+An xNVSE engine plugin that adds support for dedicated interior/exterior weapon sounds, per-material collision sounds for bullet casings, and per-form collision sounds. 
+
+**Installation:**
+
+- **Main Files - Sound Extender**

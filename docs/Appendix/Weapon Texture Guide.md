@@ -193,6 +193,8 @@ A compilation pack of high quality gun replacers. Include unreleased (so far) we
 
 - **Main Files - WAP Year One and Bonus - scripted**
 
+- **Main Files - [Gauss Rifle Texture Tweak](https://www.nexusmods.com/newvegas/mods/79825/?tab=files)**
+
 
 ### [WAP Laser RCW](https://www.nexusmods.com/newvegas/mods/78373)
 
@@ -252,19 +254,6 @@ A new high quality custom mesh and texture as replacer for both version of the 1
 - **Main Files - [12.7 SMG Scriptrunner](https://www.nexusmods.com/newvegas/mods/79672?tab=files)**
 
 
-### [WAP Gauss Rifle](https://www.nexusmods.com/newvegas/mods/76421)
-
-Replacer for gauss rifle and ycs/186 with new high quality mesh and textures.
-
-**Installation:**
-
-- **Main Files - WAP Gauss Rifle - MAIN FILE**
-
-- **Main Files - WAP Gauss Rifle - YUP**
-
-- **Main Files - [Gauss Rifle Texture Tweak](https://www.nexusmods.com/newvegas/mods/79825/?tab=files)**
-
-
 ### [WAP F4NV Recharger Weaponry](https://www.nexusmods.com/newvegas/mods/82044?tab=description)
 
 High quality replacer for the recharger weapons.
@@ -281,6 +270,8 @@ A F4NV replacer for the vanilla Laser Pistol (include GRA version) and PEW PEW.
 **Installation:**
 
 - **Main Files - WAP F4NV Laser Pistol**
+
+- **Main Files - [Laser Pistol 3rd Person Latch animation fix](https://www.nexusmods.com/newvegas/mods/80657?tab=files)**
 
 
 ### [Laser Rifle Rebirth](https://www.nexusmods.com/newvegas/mods/72759)
