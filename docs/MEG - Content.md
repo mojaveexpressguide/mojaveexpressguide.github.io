@@ -17,15 +17,13 @@ Adds Seam Concealing Chains and Pendants to all NPC's throughout the wasteland.
 - **Main Files - Distributed Necklaces and Chains**
 
 
-### [Spice of Life - Variety Armor and Clothing](https://www.nexusmods.com/newvegas/mods/44476)
+### [Spice of Life - Vanilla Bodies Patched](https://drive.google.com/file/d/1znZsWWDl_o8HgXwjDmD1IXPXLG0jR2c2/view?usp=sharing)
 
 Adds a variety of clothing and armour to the game that npc's will wear.
 
 **Installation:**
 
-- **Main Files - NivSpiceofLife-V 1_2**
-
-- **Main Files - [Spice of Life Vanilla Bodies Patched](https://drive.google.com/file/d/1FaDjdlibKwBb1ijmrlBNcS4zA2ji3OXc/view?usp=sharing)**
+- **Main Files - Spice of Life Vanilla Bodies Patched.7z**
 
 - **Main Files - [KARPSOL - Kabyi Armor Replacement Plugin Spice Of Life](https://www.nexusmods.com/newvegas/mods/75618?tab=files)**
 
