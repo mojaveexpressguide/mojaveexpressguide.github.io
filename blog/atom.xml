@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Guide Blog</title>
-    <updated>2023-10-17T00:00:00.000Z</updated>
+    <updated>2023-11-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Guide Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[01/11/2023 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/2023-11-01-Changelog</id>
+        <link href="https://www.mojaveexpressguide.com/blog/2023-11-01-Changelog"/>
+        <updated>2023-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mojave Express 3.1 update]]></summary>
+        <content type="html"><![CDATA[<p><strong>Mojave Express 3.1 update</strong></p><p>I've updated the website a little bit.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---utilities">MEG - Utilities<a href="#meg---utilities" class="hash-link" aria-label="Direct link to MEG - Utilities" title="Direct link to MEG - Utilities">​</a></h3><ul><li><strong>Added:</strong> Sound Extender</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---gameplay">MEG - Gameplay<a href="#meg---gameplay" class="hash-link" aria-label="Direct link to MEG - Gameplay" title="Direct link to MEG - Gameplay">​</a></h3><ul><li><strong>Added:</strong> Bullet Time Improved - a JAM addon</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---content">MEG - Content<a href="#meg---content" class="hash-link" aria-label="Direct link to MEG - Content" title="Direct link to MEG - Content">​</a></h3><ul><li><strong>Updated:</strong> Spice of Life Vanilla Bodies Patched (Fixed a mesh that caused crashes with b42 thanks to NoBark + inthegrave) also repacked loose files into a bsa.</li><li><strong>Removed:</strong> Spice of Life - Variety Armor and Clothing Robert Breeze Type3 (The original is no longer needed now)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---overhauls">MEG - Overhauls<a href="#meg---overhauls" class="hash-link" aria-label="Direct link to MEG - Overhauls" title="Direct link to MEG - Overhauls">​</a></h3><ul><li><strong>Added:</strong> S6S Perks PAHP Patch</li><li><strong>Added:</strong> RAD - Radiation (is) Actually Dangerous - Overhaul - with Injection Fix</li><li><strong>Removed:</strong> Hardcore Charisma - Preventing future skill issues</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---audio">MEG - Audio<a href="#meg---audio" class="hash-link" aria-label="Direct link to MEG - Audio" title="Direct link to MEG - Audio">​</a></h3><ul><li><strong>Removed:</strong> AWSOME - I realised JSRS is just way better</li><li><strong>Added:</strong> JSRS 2.0</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches">MEG - Patches<a href="#meg---patches" class="hash-link" aria-label="Direct link to MEG - Patches" title="Direct link to MEG - Patches">​</a></h3><p><strong>Updated:</strong> FPGE - New Vegas Landscape Overhaul Re-Remastered Patch.esp - Thanks to Trooper</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---tweaks">MEG - Tweaks<a href="#meg---tweaks" class="hash-link" aria-label="Direct link to MEG - Tweaks" title="Direct link to MEG - Tweaks">​</a></h3><ul><li><strong>Added:</strong> MEG - JAM Config</li><li><strong>Added:</strong> MEG - Contextual HUD Config</li><li><strong>Updated:</strong> MEG - Iron Sight Aligned Config</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---loadorder">MEG - Loadorder<a href="#meg---loadorder" class="hash-link" aria-label="Direct link to MEG - Loadorder" title="Direct link to MEG - Loadorder">​</a></h3><ul><li><strong>Updated:</strong> loadorder to account for vnv update.</li></ul>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="November" term="November"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17/10/2023 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/2023-10-17-Changelog</id>
