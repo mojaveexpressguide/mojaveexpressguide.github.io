@@ -283,8 +283,6 @@ New mesh/textures for vanilla laser rifle and aer14 prototype.
 
 - **Main Files - [Laser Rifle Rebirth - Esp-less implementation](https://www.nexusmods.com/newvegas/mods/81963?tab=files)**
 
-:::
-
 :::caution Important!
 
 If you have **Laser Weapon Iron Sights** installed. You will need to disable it for **Laser Rifle Rebirth** and **WAP F4NV Laser Pistol and Pew-Pew** to work!
@@ -315,8 +313,6 @@ Pixel perfect iron sight alignment for the animation pack of your choice. Covers
 Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 **>Install**
-
-:::
 
 :::tip You may still need to adjust your iron sight alignment in some cases.
 

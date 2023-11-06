@@ -99,7 +99,7 @@ AVCCA - is a replacer of a model of classic helmets with an animated visor.
 
 :::info In the installer:
 
-[Select the below]
+**[Select the below]**
 
 - Main
 
