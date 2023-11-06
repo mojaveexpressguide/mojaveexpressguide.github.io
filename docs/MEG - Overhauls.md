@@ -67,25 +67,24 @@ This mod does exactly what it says, it will remove the Pip-Boy when equipping a 
 
 - **Main Files - [S6S Perks PAHP Patch](https://www.nexusmods.com/newvegas/mods/82973?tab=files)**
 
+### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985) ![](../static/img/Difficulty.png) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) 
 
-### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
-
-Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
-
-**Installation:**
-
-- **Main Files - Ghouls Inflict Radiation Damage**
-
-
-### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985)
-
-Adds the Implants from Cyberware 2281 to Famine's blacklist. 
+A simple and comprehensive loot scarcity mod using event-based scripting. Trust us. Bring a magazine.
 
 **Installation:**
 
 - **Main Files - Famine**
 
 - **Main Files - [Famine - Cyberware Patch](https://www.nexusmods.com/newvegas/mods/80989?tab=files)**
+
+
+### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
+
+Overhaul of xax34hah's RAD mod. Rewrote the entire UI portion, major changes to the script including rebalancing, bugfixes and compatibility patches.
+
+**Installation:**
+
+- **Main Files - RAD - Overhaul**
 
 
 ### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
