@@ -38,13 +38,13 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 
 :::info In the installer:
 
-[Visual Pack]
+**[Visual Pack]**
 
 - Legacy
 
 **> Next**
 
-[Sprint Animation Addon]
+**[Sprint Animation Addon]**
 
 - JAM - Just Assorted Mods
 
@@ -68,25 +68,24 @@ This mod does exactly what it says, it will remove the Pip-Boy when equipping a 
 - **Main Files - [S6S Perks PAHP Patch](https://www.nexusmods.com/newvegas/mods/82973?tab=files)**
 
 
-### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) 
+### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
-Overhaul of xax34hah's RAD mod.
+Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
 
 **Installation:**
 
-- **Main Files - RAD - Overhaul**
+- **Main Files - Ghouls Inflict Radiation Damage**
 
-- **Main Files - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077?tab=files)**
 
-:::info In the installer:
+### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985)
 
-[Main]
+Adds the Implants from Cyberware 2281 to Famine's blacklist. 
 
-- New Vegas Ultimate Edition + YUP
+**Installation:**
 
-**> Install**
+- **Main Files - Famine**
 
-:::
+- **Main Files - [Famine - Cyberware Patch](https://www.nexusmods.com/newvegas/mods/80989?tab=files)**
 
 
 ### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 

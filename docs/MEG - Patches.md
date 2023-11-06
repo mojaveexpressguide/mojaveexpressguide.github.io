@@ -29,9 +29,11 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 :::info In the installer:
 
-[Consistent Pip-Boy Icons - Mod Patches]
+**[Consistent Pip-Boy Icons - Mod Patches]**
 
 - Keep the default boxes checked
+
+**> Install**
 
 :::
 
@@ -90,6 +92,8 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 - MEG - JAM Config
 
+- MEG - B42 True Leaning Config
+
 - MEG - Aim Down Sights Config
 
 - MEG - Contextual HUD Config
@@ -117,11 +121,11 @@ If you do not have all of the selected mods or plan to add more please create yo
 
 ## MEG - LOD
 
-This step is optional but below is pre-generated LOD for Mojave Express using all the mods in the guide with vanilla textures. You need to have have **[New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218?tab=files)** installed for this to work properly. You will need the below resources and their plugins as well. If you have downloaded Viva New Vegas with Wabbajack you should already have the resources, so you just need to disable the **FNVLODGen Output** you have in **MO2** and then download and install the **[Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**.
+I highly recommend that you generate your own LOD at this point, particularly if you installed **[New Vegas Landscape Overhaul Re-Remastered](https://mojaveexpressguide.com/docs/MEG%20-%20Locations#new-vegas-landscape-overhaul-re-remastered---)**. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html). If you have downloaded Viva New Vegas with Wabbajack you will already have the resources listed on that page and so all you need to do is disable the **FNVLODGen Output** mod you have in **MO2** then follow the linked [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) from the FNVLODGen section onwards. When it comes to naming your LOD **Output** just call it **MEG - FNVLODGen Output**.
 
 :::tip Note: 
 
-If you have added additional mods that require LOD or use texture mods then it is highly recommended to generate your own LOD from [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) instead.
+Alternatively you can download pregenerated LOD which I generated with all of the mods in VNV + MEG using vanilla textures. You will still need to download the below mods in and install them in the order presented.
 
 :::
 
@@ -137,11 +141,11 @@ If you have added additional mods that require LOD or use texture mods then it i
 
 - **Main FIles - [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316?tab=files)**
 
-- **Optional Files - [Mojave Express - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
+- **Optional Files - [MEG - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 <br />
 
-```ini title="To increase LOD Draw Distance add these settings to falloutcustom.ini:"
+```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:"
 
 [TerrainManager]
 ; Increases the maximum distance of LOD  

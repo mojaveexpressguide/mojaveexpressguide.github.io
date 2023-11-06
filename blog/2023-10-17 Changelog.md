@@ -36,4 +36,5 @@ Massive update to the website. It should be faster, more mobile friendly, scalab
 - **Updated:** MEG - Tweaks  
 - **Updated:** MEG - FNVLODGen Output  
 
-### MEG - Loadorder Updated
+### MEG - Loadorder
+- **Updated:** loadorder to account for new mods

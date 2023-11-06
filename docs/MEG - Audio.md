@@ -36,7 +36,7 @@ This Mod overhauls the music in both NV and TTW and expands both of the regions 
 
 :::info In the installer:
 
-[Plugins]
+**[Plugins]**
 
 - NV - no radio
 

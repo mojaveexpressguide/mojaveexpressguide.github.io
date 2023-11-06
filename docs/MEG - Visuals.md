@@ -47,7 +47,7 @@ Patches B42 Dropmag for various New Vegas mods.
 
 :::info In the installer:
 
-[New Vegas Mods]
+**[New Vegas Mods]**
 
 - New Vegas Bounties I LE
 
@@ -61,6 +61,10 @@ Patches B42 Dropmag for various New Vegas mods.
 
 
 ### [Power Armor Visual Enhancement (PAVE)](https://www.nexusmods.com/newvegas/mods/74786)
+
+Custom high resolution textures for all the power armors in NV and TTW/F3. 
+
+**Installation:**
 
 - **Main Files - Power Armor Visual Enhancement (PAVE)**
 

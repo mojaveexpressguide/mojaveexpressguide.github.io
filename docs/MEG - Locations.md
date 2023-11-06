@@ -27,7 +27,7 @@ Adds crafting stations and additional containers to several vanilla player homes
 
 :::info In the installer:
 
-[Patches]
+**[Patches]**
 
 - YUP Patch
 
@@ -91,7 +91,7 @@ A collection of compatibility patches.
 
 :::info In the installer:
 
-[Patches]
+**[Patches]**
 
 - A World of (Less) Pain - A Lore Friendly AWOP Revision
 

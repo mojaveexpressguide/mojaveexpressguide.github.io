@@ -4,8 +4,7 @@
 
 ---
 
-This is a temporary clothing & armour texture guide I have made as many have been requesting for one. This will stay up until Salamand3r releases his guide as i'm sure it will be much better. This has only been made with FNV in mind. I do not know how well this will work with TTW. I would recommend installing in the order the mods are listed!
-
+This is an archived weapon texture guide that I had made as many have been requesting for one. This was created before Salamand3r's new texture guide. This has only been made with FNV in mind. I do not know how well this will work with TTW. I would recommend installing in the order the mods are listed!
 
 ### [Weapon Retexture from EVE](https://www.nexusmods.com/newvegas/mods/76606)
 

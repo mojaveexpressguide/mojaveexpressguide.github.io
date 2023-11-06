@@ -26,6 +26,34 @@ A mod that adds melee attacks for non-melee weapons, similar to melee hits and b
 - **Main Files - B42 Melee Bash**
 
 
+### [B42 True Leaning - Contextual - ESPless](https://www.nexusmods.com/newvegas/mods/81872)
+
+Allows you to lean.
+
+**Installation:**
+
+- **Main Files - B42 True Leaning**
+
+
+### [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
+
+A collection of useful mods, merged for convenience. 
+
+**Installation:**
+
+- **Main Files - Just Assorted Mods**
+
+- **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
+
+- **Optional Files - Clean Just Assorted Mods - Companion Wheel**
+
+:::info On the left pane in MO2:
+
+Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
+
+:::
+
+
 ### [Bullet Time Improved - a JAM addon](https://www.nexusmods.com/newvegas/mods/78324)
 
 An addon for Just Assorted Mods that adds some new features for Just Bullet Time.
@@ -59,15 +87,6 @@ Integrates Cyberware 2281 and Just Assorted Mods.
 - **Main Files - CyberJAM**
 
 
-### [Famine - Cyberware 2281 compatibility patch](https://www.nexusmods.com/newvegas/mods/80989)
-
-Adds the Implants from Cyberware 2281 to Famine's blacklist.
-
-**Installation:**
-
-- **Main Files - Famine - Cyberware Patch**
-
-
 ### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
 
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
@@ -78,13 +97,13 @@ Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 :::info In the installer:
 
-[Texture Size]
+**[Texture Size]**
 
 - Pick based on your screen size
 
 **> Next**
 
-[Texture Pre-Loading]
+**[Texture Pre-Loading]**
 
 - Pick based on your hardware
 
@@ -102,6 +121,15 @@ Adds the Super Mutant Suicider enemies from Fallout 4.
 - **Main Files -  Super Mutant Suiciders**
 
 
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
+
+Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
+
+**Installation:**
+
+- **Main Files -  Supplemental Ammo Crafting NV**
+
+
 ### [Sweet 6 Shooter Perks - TTW - NV](https://www.nexusmods.com/newvegas/mods/73438)
 
 The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly, immersive way.
@@ -109,8 +137,6 @@ The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly,
 **Installation:**
 
 - **Main Files - Sweet 6 Shooter Perk Pack NV Version**
-
-- **Optional Files - JSUE Patch**
 
 - **Optional Files - NVB1Patch**
 

@@ -17,17 +17,6 @@ This mod, thanks to JazzIsParis magic, adds diagonal movement. Simple as that.
 - **Main Files - Diagonal Movement 0.6b**
 
 
-### [WAR MiX](https://www.nexusmods.com/newvegas/mods/72460)
-
-Introduces variations to gun animations and movement. No more cloned animations! Everyone moves differently.
-
-**Installation:**
-
-- **Main Files - WAR Mix**
-
-- **Main Files - [Titan of War MIX fix](https://www.nexusmods.com/newvegas/mods/79439?tab=files)**
-
-
 ### [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456)
 
 Modern replacer for stagger (aka crippling) animations made via motion capture.
@@ -118,10 +107,18 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - [FNV Clean Animations - Part 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
 
-- **Main Files - [No TTW - Mojave Raiders - Edited](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
+- **Main Files - [No TTW - Mojave Raiders](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
 - **Update Files - Update 1.1.2 - HOTFIX**
 
+:::info Double-click FNV Clean Animations - Part 3 in MO2:
+
+- Go to the **Optional ESPs** tab 
+- Select **DoubleBarrelShotgun (MojaveRaidersPatch).esp**
+- Select **Rockbiter_SOSGTextureFix.esp**
+- click the ⬅️ arrow to move it under **Optional ESPs**
+
+:::
 
 ### [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295)
 
