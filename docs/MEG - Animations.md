@@ -76,8 +76,6 @@ Plays animations when interacting with objects, opening/closing doors and pickin
 
 - **Main Files - [Hit - B42 Inject Animation Pack - Season 1](https://www.nexusmods.com/newvegas/mods/80531?tab=files)**
 
-- **Optional Files - Hit - B42 Inject Anim Pack - Season 1 - JSawyer Ultimate Patch**
-
 
 ### [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245?tab=description)
 
@@ -107,14 +105,14 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - [FNV Clean Animations - Part 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
 
-- **Main Files - [No TTW - Mojave Raiders](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
+- **Main Files - [No TTW](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
 - **Update Files - Update 1.1.2 - HOTFIX**
 
 :::info Double-click FNV Clean Animations - Part 3 in MO2:
 
 - Go to the **Optional ESPs** tab 
-- Select **DoubleBarrelShotgun (MojaveRaidersPatch).esp**
+- Select **DoubleBarrelShotgun.esp**
 - Select **Rockbiter_SOSGTextureFix.esp**
 - click the ⬅️ arrow to move it under **Optional ESPs**
 
