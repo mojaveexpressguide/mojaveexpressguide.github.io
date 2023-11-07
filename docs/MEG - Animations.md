@@ -105,7 +105,7 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - [FNV Clean Animations - Part 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
 
-- **Main Files - [No TTW](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
+- **Main Files - [3. No TTW](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
 - **Update Files - Update 1.1.2 - HOTFIX**
 
@@ -113,7 +113,6 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - Go to the **Optional ESPs** tab 
 - Select **DoubleBarrelShotgun.esp**
-- Select **Rockbiter_SOSGTextureFix.esp**
 - click the ⬅️ arrow to move it under **Optional ESPs**
 
 :::
