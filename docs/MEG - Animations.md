@@ -105,7 +105,7 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - [FNV Clean Animations - Part 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
 
-- **Main Files - [3. No TTW](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
+- **Main Files - [4. No TTW - Edited](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
 - **Update Files - Update 1.1.2 - HOTFIX**
 
