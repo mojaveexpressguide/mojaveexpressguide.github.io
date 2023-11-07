@@ -8,15 +8,6 @@ sidebar_position: 7
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
-### [Misc Content Restoration](https://www.nexusmods.com/newvegas/mods/81530)
-
-This mod restores a lot of little things that make a big difference.
-
-**Installation:**
-
-- **Main Files - Misc Content Restoration - NV**
-
-
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
 Adds crafting stations and additional containers to several vanilla player homes.
