@@ -86,6 +86,8 @@ Overhaul of xax34hah's RAD mod. Rewrote the entire UI portion, major changes to 
 
 - **Main Files - RAD - Overhaul**
 
+- **Main Files - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077?tab=files)**
+
 
 ### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
