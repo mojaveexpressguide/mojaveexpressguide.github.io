@@ -1,6 +1,6 @@
 # Clothing & Armour Texture Guide
 
-#### A temporary clothing & armour retexture guide
+#### A temporary clothing & armour retexture guide (Archived)
 
 ---
 
