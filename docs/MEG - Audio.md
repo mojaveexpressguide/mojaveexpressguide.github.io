@@ -71,10 +71,6 @@ This mod adds 592 sounds for 101 different types of firearm weapons with interio
 
 - **Main Files - JSRS Sound Mod 2.1 - Main File**
 
-- **Optional Files - JSRS 2.0 Patch for FNV**
-
-- **Optional Files - JSRS 2.0 Patch for Another Millenia**
-
 
 ### [Aim Down Sights - Backpack - Jump Impact sound Effects](https://www.nexusmods.com/newvegas/mods/75334)
 
