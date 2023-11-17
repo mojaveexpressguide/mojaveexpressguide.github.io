@@ -75,32 +75,6 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 :::
 
 
-### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
-
-Introducing the new version of "Consistent Pip-Boy Icons"! This update features meticulously hand-drawn Item icons, ensuring a visually consistent and immersive experience.
-
-**Installation:**
-
-- **Main Files - Consistent Pip-Boy Icons v5 - Items**
-
-- **Main Files - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740?tab=files)**
-
-- **Main Files - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248?tab=files)**
-
-- **Main Files - [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432?tab=files)**
-
-
-### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476)
-
-Introducing the new version of "Consistent Pip-Boy Icons"! This update features meticulously hand-drawn Item icons, ensuring a visually consistent and immersive experience.
-
-**Installation:**
-
-- **Main Files - Weapon Hotkey Icons**
-
-- **Main Files - [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575?tab=files)**
-
-
 ### [MAPMO - Main and Pause Menus Overhaul](https://www.nexusmods.com/newvegas/mods/74365)
 
 Adds a bunch of features to the Main and Pause menus. Fully customizable.

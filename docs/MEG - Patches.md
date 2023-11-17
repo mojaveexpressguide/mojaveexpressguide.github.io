@@ -55,11 +55,21 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 - Uncut Wasteland
 
-- B42 Dropmag
-
 - Character Expansions Revised
 
 - FPGE Patches
+
+- B42 Dropmag
+
+- Famine Cyberware Patch - Credit to PlasticPotatoes on nexus
+
+- RAD - Radiation (is) Actually Dangerous - Overhaul - with Injection Fix - Credit to Nechigawara on nexus
+
+- S6S Perks PAHP Patch - Credit to Omnigma on nexus
+
+- JSRS 2.0 FNV + Another Millenia Sound Patch - Credit to MesserAR on nexus
+
+
 
 **>Install**
 

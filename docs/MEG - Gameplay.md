@@ -45,11 +45,28 @@ A collection of useful mods, merged for convenience.
 
 - **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
 
-- **Optional Files - Clean Just Assorted Mods - Companion Wheel**
-
 :::info On the left pane in MO2:
 
 Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
+
+:::
+
+
+### [Just Sprint Plus - Expansion for JAM and JVS](https://www.nexusmods.com/newvegas/mods/83797)
+
+Addon package for JAM/JVS that includes new features, animations, gameplay options, and 360 movement support. 
+
+**Installation:**
+
+- **Main Files - Just Sprint Plus - Expansion for JAM and JVS**
+
+:::info In the installer:
+
+**[Install For:]**
+
+- JAM - Just Assorted Mods
+
+**> Install**
 
 :::
 
@@ -77,14 +94,7 @@ Adds modern project nevada style cyberware.
 
 :::
 
-
-### [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655)
-
-Integrates Cyberware 2281 and Just Assorted Mods.
-
-**Installation:**
-
-- **Main Files - CyberJAM**
+- **Main Files - [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655?tab=files)**
 
 
 ### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
@@ -111,14 +121,33 @@ Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 :::
 
+### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
-### [Fallout 4 Super Mutant Suiciders](https://www.nexusmods.com/newvegas/mods/70256)
+Simple kNVSE implementation of combat sprinting for melee NPCs 
+
+**Installation:**
+
+- **Main Files -  NPCs Sprint kNVSE - ESPless**
+
+- **Optional Files -  Titans of The New West Patch**
+
+
+### [Fallout 4 Super Mutant Suiciders](https://www.nexusmods.com/newvegas/mods/70256) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
 
 Adds the Super Mutant Suicider enemies from Fallout 4. 
 
 **Installation:**
 
 - **Main Files -  Super Mutant Suiciders**
+
+
+### [Explodable Ghost People's Gas Bombs ESPless](https://www.nexusmods.com/newvegas/mods/82425)
+
+Allows you to explode the Ghost People's gas bombs by shooting them. This was mentioned by Dean Domino but wasn't actually possible in the game. Until now!
+
+**Installation:**
+
+- **Main Files -  Explodable Ghost People's Gas Bombs**
 
 
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)

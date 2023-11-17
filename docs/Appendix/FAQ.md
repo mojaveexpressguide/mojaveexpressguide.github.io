@@ -13,7 +13,7 @@ sidebar_position: 2
 The problem is that there is not a large texture pack that covers everything in the game and fits everyones taste, you will need to download multiple texture mods which may clash in style and not fit the vanilla games aesthetics. If you want a texture guide follow [Salamand3r's texture guide](https://salamand3r.fail/texture-guide). I can not provide support for this unfortunately.
 
 
-### Is there a Wabbajack version avaliable?
+### Is there a Wabbajack version available?
 
 Currently there is not a Wabbajack version and there are no plans to make one. I am only one man so maintaining both and producing mods at the same time isn't viable.
 
@@ -70,7 +70,7 @@ Not advised since the player's save file is essentially an ESP that is loaded la
 
 ### Can I remove mods mid-game?
 
-If the mod does not contain an .esp/esm plugin then it is generally fine to remove mid game. Mods that contain only textures & meshes, knvse files, xnvse plugins should be ok. If the mod has a plugin then:
+If the mod does not contain an .esp/esm plugin then it is generally fine to remove mid game. Mods that contain only textures & meshes, knvse files, xnvse plugins should be ok. If the mod has a plugin then:  
 ​
 This is not an intended scenario and will almost always result in all kinds of weird issues. There are cases where the changes or additions in a plugin are safe to disable, but that would require knowing everything the plugin does and how that affects the game. Better to avoid at all times unless you know what you are doing or if you are debugging something.
 

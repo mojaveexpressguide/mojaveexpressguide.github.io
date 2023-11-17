@@ -34,30 +34,16 @@ Touch things, shake doors, boop terminals, rip and tear - you decide.
 
 - **Main Files - B42 Interact**
 
-
-### [Hit - B42 Interact Animation Pack](https://www.nexusmods.com/newvegas/mods/83096?tab=description)
-
-Animations for B42 Interact focusing on quest items!
-
-**Installation:**
-
-- **Main Files - Hit - B42 Interact Animation Pack**
+- **Main Files - [Hit - B42 Interact Animation Pack](https://www.nexusmods.com/newvegas/mods/83096?tab=files)**
 
 - **Optional Files - Hit - B42 Interact - New Vegas Bounties I LE**
 
-
-### [Hit - B42 Interact Skinning](https://www.nexusmods.com/newvegas/mods/83161?tab=description)
-
-A pack of animations for B42 Interact that adds skinning and robot disassembly animations to creatures and robots.
-
-**Installation:**
-
-- **Main Files - Hit - B42 Interact Skinning**
+- **Main Files - [B42 Interact Skinning](https://www.nexusmods.com/newvegas/mods/83161?tab=files)**
 
 - **Optional Files - Hit - B42 Interact Skinning - Human Addon**
 
 
-### [B42 Loot - Animated Physical Item Pickup - ESPless](https://www.nexusmods.com/newvegas/mods/82369?tab=description)
+### [B42 Loot - Animated Physical Item Pickup - ESPless](http s://www.nexusmods.com/newvegas/mods/82369?tab=description)
 
 Extensible Animated Aid Items Framework.
 

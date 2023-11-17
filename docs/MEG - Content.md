@@ -19,7 +19,7 @@ Adds Seam Concealing Chains and Pendants to all NPC's throughout the wasteland.
 
 ### [Spice of Life - Vanilla Bodies Patched](https://drive.google.com/file/d/1znZsWWDl_o8HgXwjDmD1IXPXLG0jR2c2/view?usp=sharing)
 
-Adds a variety of clothing and armour to the game that npc's will wear.
+A custom fixed vanilla body version of Spice of Life which adds a variety of clothing and armour to the game that will be distributed to various NPC's.
 
 **Installation:**
 
@@ -28,34 +28,21 @@ Adds a variety of clothing and armour to the game that npc's will wear.
 - **Main Files - [KARPSOL - Kabyi Armor Replacement Plugin Spice Of Life](https://www.nexusmods.com/newvegas/mods/75618?tab=files)**
 
 
-### [Canvas Backpacks - FNV - TTW](https://www.nexusmods.com/newvegas/mods/71510)
+### [CIBS - Customizable Integrated Backpack System](https://www.nexusmods.com/newvegas/mods/75218)
 
-21 new backpacks.
+This mod adds integrated backpacks into New Vegas and distributes them to NPC's, Vendors and throughout the world. You will also need to download **Canvas Backpacks - FNV - TTW** below.
 
 **Installation:**
 
-- **Main Files - Canvas Backpacks - FNV**
+- **Main Files - CIBS - Customizable Integrated Backpack System**
+
+- **Main Files [Canvas Backpacks - FNV - TTW](https://www.nexusmods.com/newvegas/mods/71510)**
 
 :::info Double-click Canvas Backpacks - FNV - TTW in MO2:
 
 - Go to the **Optional ESPs** tab 
 - Select **QwibNewBackpacks.esp**  
 - click the ⬅️ arrow to move it under **Optional ESPs**
-
-:::
-
-
-### [CIBS - Customizable Integrated Backpack System](https://www.nexusmods.com/newvegas/mods/75218)
-
-This mod adds an integrated backpack system into New Vegas that distributes it throughout the game world.
-
-**Installation:**
-
-- **Main Files - CIBS - Customizable Integrated Backpack System**
-
-:::tip Note:
-
-You will need to download the above mod **Canvas Backpacks - FNV - TTW** as this mod uses its assets!
 
 :::
 

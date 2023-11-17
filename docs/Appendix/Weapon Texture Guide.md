@@ -1,6 +1,6 @@
 # Weapon Texture Guide
 
-#### A temporary weapon retexture guide
+#### A temporary weapon retexture guide (Archived)
 
 ---
 
