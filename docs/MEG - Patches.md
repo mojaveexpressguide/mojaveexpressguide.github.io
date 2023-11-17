@@ -92,17 +92,23 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 **List of tweaks included in the installer:**
 
+- MEG - Iron Sights Aligned Config
+
 - MEG - JIP LN NVSE Config
 
 - MEG - Stewie Tweaks Config
 
-- MEG - Iron Sights Aligned Config
-
 - ​MEG - Helmet Armor Rebalance (JIP)
+
+- MEG - Vigor Carryweight Config
 
 - MEG - JAM Config
 
 - MEG - B42 True Leaning Config
+
+- MEG - B42 Optics Config
+
+- MEG - Bullet Trails Config
 
 - MEG - Aim Down Sights Config
 

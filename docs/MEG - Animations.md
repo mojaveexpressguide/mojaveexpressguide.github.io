@@ -43,7 +43,7 @@ Touch things, shake doors, boop terminals, rip and tear - you decide.
 - **Optional Files - Hit - B42 Interact Skinning - Human Addon**
 
 
-### [B42 Loot - Animated Physical Item Pickup - ESPless](http s://www.nexusmods.com/newvegas/mods/82369?tab=description)
+### [B42 Loot - Animated Physical Item Pickup - ESPless](https://www.nexusmods.com/newvegas/mods/82369?tab=description)
 
 Extensible Animated Aid Items Framework.
 

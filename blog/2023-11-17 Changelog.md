@@ -40,7 +40,7 @@ These mods are perfectly fine but theres so many files for no reason and I don't
 
 ### MEG - Tweaks
 
-- **Added:** MEG - B42 Optics Config - 
+- **Added:** MEG - B42 Optics Config - Doubled resolution to 1024 and enabled DOF
 - **Added:** MEG - Bullet Trails Config - Halves bullet trail fade duration and is fully configurable
 - **Added:** MEG - Vigor Carryweight Config - Allows for easy adjustment of your players carryweight
 - **Updated:** MEG - JAM Config - Added project nevada bullet time sounds

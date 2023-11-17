@@ -62,14 +62,7 @@ Brings many new interiors. You need to download the mod below as well.
 
 - **Main Files - NVInteriors Core v2.1.1**
 
-
-### [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228)
-
-Complete overhaul of chucksteel's fantastic NV Interiors mod. You need the mod above as well.
-
-**Installation:**
-
-- **Main Files - NV Interiors Remastered**
+- **Main Files - [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228?tab=files)**
 
 
 ### [A Very Uncreative Collection of Mod Patches](https://www.nexusmods.com/newvegas/mods/78465)
