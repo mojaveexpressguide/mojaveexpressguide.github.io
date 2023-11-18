@@ -31,7 +31,7 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 ### [Clean Vanilla Hud](https://www.nexusmods.com/newvegas/mods/70001)
 
-This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks around 3600 icons.
+Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 
 **Installation:**
 
@@ -54,7 +54,7 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
-This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks around 3600 icons.
+"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV. 
 
 **Installation:**
 
