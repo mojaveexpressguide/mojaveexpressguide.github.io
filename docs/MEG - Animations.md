@@ -62,6 +62,8 @@ Plays animations when interacting with objects, opening/closing doors and pickin
 
 - **Main Files - [Hit - B42 Inject Animation Pack - Season 1](https://www.nexusmods.com/newvegas/mods/80531?tab=files)**
 
+- **Optional Files - Hit - B42 Inject Anim Pack - Season 1 - SawyerBatty Patch**
+
 
 ### [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245?tab=description)
 

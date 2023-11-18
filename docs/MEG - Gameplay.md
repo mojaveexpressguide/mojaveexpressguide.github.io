@@ -168,5 +168,3 @@ The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly,
 - **Main Files - Sweet 6 Shooter Perk Pack NV Version**
 
 - **Optional Files - NVB1Patch**
-
-- **Optional Files - S6S Perks Patches**
