@@ -30,7 +30,7 @@ If you know what you are doing then yes. You will need to be wary of mods that a
 
 ### Can I install additional animations?
 
-You can install as many knvse animations as you want. However .json files are prioritised alphabetically (Z will override A). Therefore if you have 2 mods that edit the animation of the same weapon you will need to hide/rename the files you want in order to get the animations to appear correctly. Alternatively you can use **[Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)** which lets you configure your animation preferences in the FOMOD.
+You can install as many knvse animations as you want. However .json files are prioritised alphabetically (Z will override A). Therefore if you have 2 mods that edit the animation of the same weapon you will need to hide/rename the files you want in order to get the animations to appear correctly. My suggestion would be to use **[Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)** which lets you configure your animation preferences easily in the FOMOD.
 
 
 ### Can I install an enb?

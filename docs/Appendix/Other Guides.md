@@ -19,6 +19,10 @@ Best guide for modding TTW.
 
 Wall's based performance guide that everyone should follow.
 
+### [Decompression Guide](https://vivanewvegas.moddinglinked.com/decompress.html)
+
+Guide on how to easily remove the compression flag from plugins to improve performance.
+
 ### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 
 Guide on how to generate Object and Terrain LOD with xLODgen. 
