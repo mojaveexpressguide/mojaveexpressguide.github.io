@@ -1,5 +1,5 @@
 ---
-slug: 2023-11-17-Changelog
+slug: 2023-11-07-Changelog
 title: 07/11/2023 Update
 authors: Biggie404
 tags: [November]
