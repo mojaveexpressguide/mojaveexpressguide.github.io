@@ -8,13 +8,24 @@ sidebar_position: 7
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
+
+Adds crafting stations and additional containers to several vanilla player homes. 
+
+**Installation:**
+
+- **Main Files - Home and Safehouse Tweaks**
+
+- **Main Files - Home and Safehouse Tweaks INI File**
+
+
 ### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png)
 
 This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed.
 
 **Installation:**
 
-- **New Vegas Landscape Overhaul Re-Remastered**
+- **Main Files - New Vegas Landscape Overhaul Re-Remastered**
 
 
 ### [The N.V. Interiors Project](https://www.nexusmods.com/newvegas/mods/43534)
