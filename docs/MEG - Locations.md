@@ -47,13 +47,11 @@ This is the master file required for all of Someguy2000's quest mods. The remast
 
 - **Main Files - Someguy Series 2 dot 0**
 
-- **Main Files - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/71228?tab=files)**
+- **Main Files - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108?tab=files)**
 
 - **Main Files - [SSB](https://www.nexusmods.com/newvegas/mods/79556?tab=files)**
 
-- **Main Files - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/71228?tab=files)**
-
-- **Main Files - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/78427?tab=files)**
+- **Main Files - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427?tab=files)**
 
 
 ### [Lucky Jim's Cache](https://www.nexusmods.com/newvegas/mods/81121)
