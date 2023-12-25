@@ -74,15 +74,6 @@ Replaces the vanilla FNV Souvenir Rocket with the brilliant F4NV recreation by S
 - **Optional Files - F4NV Repconn Souvenir Rocket -1k textures**
 
 
-### [Coffee Kettle - Replacer by zzjay](https://www.nexusmods.com/newvegas/mods/73682) ![](../static/img/Performance.png)
-
-New model and new textures for the "coffee kettle" for Fallout NV ( and FO3).
-
-**Installation:**
-
-- **Optional Files - 03 - Coffee Kettle - Clean - 1k**
-
-
 ### [Physically Based Kitchenware](https://www.nexusmods.com/newvegas/mods/79541) ![](../static/img/Performance.png)
 
 Another compilation to start the year off, now with incredible but unnecessary detailed spoons, sporks, and forks... 

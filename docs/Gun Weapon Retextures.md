@@ -83,7 +83,7 @@ An HD 2K weapon retexture pack that aims to update all of the weapon textures of
 - **Main Files - WTH - Weapon Textures from Heaven 2k**
 
 
-### [WTH - WRP Simplified Patch](https://drive.google.com/file/d/1bIbI_IYnEor4C58S3sn9dsvS1Pq0obih/view?usp=sharing)
+### [WTH - WRP Simplified Patch](https://drive.google.com/file/d/1YgbFFXyTXZMsp1jaV1ZTNO3PgqwOS-sj/view?usp=sharing)
 
 A patch for WTH and WRP Simplified.
 

@@ -142,8 +142,6 @@ Replaces ugly vanilla metal armor (which was hard to look at) with a proper Clas
 
 - **Main Files - Classic Fallout Metal Armor - NVSE Replacer**
 
-- **[Classic Fallout Metal Armor Icon Fix](https://drive.google.com/file/d/1M--IJLgQ60pE-voxKeUlMeimiC10FwYt/view?usp=sharing)**
-
 
 ### [Classic Combat Armor Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658) ![](../static/img/Performance.png)
 
