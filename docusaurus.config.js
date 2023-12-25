@@ -86,6 +86,8 @@ const config = {
         respectPrefersColorScheme: false,
       },
       docs: {
+
+        
         sidebar: {
           hideable: true,
         },
@@ -100,13 +102,25 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "Introduction",
+            docId: "Overview",
             position: "left",
             label: "Guide",
           },
           {
+            type: 'docSidebar',
+            position: 'left',
+            sidebarId: 'textureguide',
+            label: 'Texture Guide',
+          },
+          {
             type: "doc",
-            docId: "Appendix/FAQ",
+            docId: "Benchmarks",
+            position: "left",
+            label: "Benchmarks",
+          },
+          {
+            type: "doc",
+            docId: "FAQ",
             position: "left",
             label: "FAQ",
           },

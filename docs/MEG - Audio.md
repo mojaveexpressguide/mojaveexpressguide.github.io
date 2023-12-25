@@ -45,6 +45,24 @@ This Mod overhauls the music in both NV and TTW and expands both of the regions 
 :::
 
 
+### [F4NV - Main Menu Music Replacer](https://www.nexusmods.com/newvegas/mods/67779)
+
+Replaces the menu music with the main theme from project Fallout 4: New Vegas. 
+
+**Installation:**
+
+- **Main Files - F4NV Main Theme Replacer**
+
+
+### [Platinum Radio - A New Radio for New Vegas](https://www.nexusmods.com/newvegas/mods/63951)
+
+The best radio for New Vegas has been updated!
+
+**Installation:**
+
+- **Main Files - Platinum Radio - Final**
+
+
 ### [Juicier Gore Sounds](https://www.nexusmods.com/newvegas/mods/78552)
 
 Replaces the original gore sounds with much juicier ones.
@@ -61,6 +79,15 @@ A patched version of TheKetzku's original Immersive Pickup Sounds mod that adds 
 **Installation:**
 
 - **Main Files - Immersive Pickup Sounds Patched**
+
+
+### [Project Reality Footsteps](https://www.nexusmods.com/newvegas/mods/68430)
+
+Replaces the vanilla footstep sounds with way more realistic sounding ones, as well as adding over 60 additional sounds and fixing some game bugs.
+
+**Installation:**
+
+- **Main Files - Project Reality Footsteps FNV v2.1**
 
 
 ### [JSRS Sound Mod 2.0 for Fallout New Vegas](https://www.nexusmods.com/newvegas/mods/81585)
@@ -83,19 +110,5 @@ EFT/Stalker inspired ADS weapon rattle, player jumping sound effects, and improv
 - **Main Files - [ADS - Backpack - Jump Sound Effects MONO](https://www.nexusmods.com/newvegas/mods/76526?tab=files)**
 
 
-### [Project Reality Footsteps](https://www.nexusmods.com/newvegas/mods/68430)
-
-Replaces the vanilla footstep sounds with way more realistic sounding ones, as well as adding over 60 additional sounds and fixing some game bugs.
-
-**Installation:**
-
-- **Main Files - Project Reality Footsteps FNV v2.1**
 
 
-### [Platinum Radio - A New Radio for New Vegas](https://www.nexusmods.com/newvegas/mods/63951)
-
-The best radio for New Vegas has been updated!
-
-**Installation:**
-
-- **Main Files - Platinum Radio - Final**

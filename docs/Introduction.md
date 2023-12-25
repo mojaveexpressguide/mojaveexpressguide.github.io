@@ -6,11 +6,6 @@ sidebar_position: 1
 
 ---
 
-The Mojave Express guide is a curated **fully modular** list of mods that add depth and additional elements to **[Viva New Vegas](https://vivanewvegas.moddinglinked.com/)** whilst keeping your game fairly lore friendly and balanced.
-This guide has taken inspiration from the **[Wasteland Survival Guide](https://wastelandsurvivalguide.com/)** and my own picks for mods I use in my playthroughs. This guide is fully compatible with all VNV mods, and I have provided patches, loadorder and LOD to go with. You will require a working, stable Viva New Vegas setup before you can proceed with the guide! The format for the guide is very similar to Viva New Vegas and so shouldn't be too hard to follow.
-
-<br />
-
 :::caution Important:
 
 You will need at least base **VNV** and to have done so using **MO2**. Although it is recommended to have most of the mods from **VNV Extended** to get the full experience. If you have used another guide or mod manager support will not be given. 
@@ -45,5 +40,5 @@ Profile > Manage > Viva New Vegas > Copy > Name Mojave Express
 :::
 
 
-![MO2 Profile Select](../static/img/mo2profileselect.webp)
+![MO2 Profile Select](../static/img/MO2NewProfile.png)
 

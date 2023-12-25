@@ -25,6 +25,12 @@ A custom fixed vanilla body version of Spice of Life which adds a variety of clo
 
 - **Main Files - Spice of Life Vanilla Bodies Patched.7z**
 
+:::info Installation:
+
+- Download and install manually in **MO2**
+
+:::
+
 - **Main Files - [KARPSOL - Kabyi Armor Replacement Plugin Spice Of Life](https://www.nexusmods.com/newvegas/mods/75618?tab=files)**
 
 
@@ -54,18 +60,46 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 - **Main Files - Another Millenia**
 
-- **Update Files - hotfix 6**
 
-- **Optional Files - Another Millenia Knvse Pack**
+### [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237)
 
-
-
-### [Mobile Crate Truck Remastered](https://www.nexusmods.com/newvegas/mods/81058)
-
-A remake of tdx73's MTB Crate Truck mod using Qolore7's Mobile Truck Base Remastered as its base.
+15+ ghoul variations to make your wasteland experience more varied and exciting! Now with Dt/Dr bonuses!
 
 **Installation:**
 
-- **Main Files - Mobile Crate Truck Remastered 1.6**
+- **Main Files - Another Ghoul Variation Mod FNV**
 
 
+### [Fallout 4 Super Mutant Suiciders](https://www.nexusmods.com/newvegas/mods/70256) ![](../static/img/Difficulty.png)
+
+Adds the Super Mutant Suicider enemies from Fallout 4. 
+
+**Installation:**
+
+- **Main Files -  Super Mutant Suiciders**
+
+
+### [Cyberware 2281](https://mod.pub/falloutnv/15/files)
+
+Adds modern project nevada style cyberware.
+
+**Installation:**
+
+- **Main Files - Cyberware 2281 1.3.3**
+
+:::info Installation:
+
+- Download and install manually in **MO2**
+
+:::
+
+- **Main Files - [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655?tab=files)**
+
+
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
+
+Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
+
+**Installation:**
+
+- **Main Files -  Supplemental Ammo Crafting NV**

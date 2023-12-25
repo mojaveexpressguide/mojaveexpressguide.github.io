@@ -26,6 +26,26 @@ Modern replacer for stagger (aka crippling) animations made via motion capture.
 - **Main Files - Modern Stagger**
 
 
+### [Different PipBoy Animations](https://www.nexusmods.com/newvegas/mods/75420)
+
+New fresh pipboy animations. Choose male or female depending on what you play.
+
+**Installation:**
+
+- **Main Files - Female Anim A**
+
+- **Main Files - Male Anim A**
+
+
+### [FPS Weapon Lowering](https://www.nexusmods.com/newvegas/mods/80995)
+
+Proper weapon lowering mechanic! 3 different lowering modes.
+
+**Installation:**
+
+- **Main Files - FPS Lowering Weapons**
+
+
 ### [B42 Interact - Animated Items and Interactions Framework - ESPless](https://www.nexusmods.com/newvegas/mods/83119)
 
 Touch things, shake doors, boop terminals, rip and tear - you decide.
@@ -91,11 +111,15 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - FNV Clean Animations - Part 1 (R)**
 
-- **Main Files - [FNV Clean Animations - Part 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
+- **Main Files - [FNV Clean Animations - Part 2 (no mesh changes)](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
 
 - **Main Files - [4. No TTW - Edited](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
 - **Update Files - Update 1.1.2 - HOTFIX**
+
+- **Main Files - [FNV Clean Animations - Grenades Pack](https://www.nexusmods.com/newvegas/mods/83735?tab=files)**
+
+- **Update Files - Update 1.1.1**
 
 :::info Double-click FNV Clean Animations - Part 3 in MO2:
 
@@ -104,16 +128,6 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 - click the ⬅️ arrow to move it under **Optional ESPs**
 
 :::
-
-### [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295)
-
-New movement anims by Hit.
-
-**Installation:**
-
-- **Main Files - Blended - Locomotion**
-
-- **Optional Files - Blended Locomotion - Alternate Crippled Locomotion**
 
 
 ### [Combined Melee Animation Pack](https://www.nexusmods.com/newvegas/mods/80756)

@@ -40,7 +40,7 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 
 **[Visual Pack]**
 
-- Legacy
+- Titans of Steel
 
 **> Next**
 
@@ -53,9 +53,38 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 :::
 
 
+### [Power Armor Visual Enhancement (PAVE)](https://www.nexusmods.com/newvegas/mods/74786)
+
+Custom high resolution textures for all the power armors in NV and TTW/F3. 
+
+**Installation:**
+
+- **Main Files - Power Armor Visual Enhancement 2K**
+
+- **Update Files - PAVE Compatibility Plugins**
+
+- **Main Files - [PAVE TOTNW PatchTitans of Steel Version](https://www.nexusmods.com/newvegas/mods/74174?tab=files)**
+
+:::info Double-click Power Armor Visual Enhancement 2K:
+
+- Go to the **Optional ESPs** tab 
+- Select **PAVE_NV_TTW.esp**  
+- click the ⬅️ arrow to move it under **Optional ESPs**
+
+:::
+
+:::info Double-click PAVE Compatibility Plugins:
+
+- Go to the **Optional ESPs** tab 
+- Select **PAVE_NV_TTW.esp**  
+- click the ⬅️ arrow to move it under **Optional ESPs**
+
+:::
+
+
 ### [No PipBoy in Power Armor](https://www.nexusmods.com/newvegas/mods/66916)
 
-This mod does exactly what it says, it will remove the Pip-Boy when equipping a Power Armor and restore it when using any other armor!
+New pip-boy hud using the West Tek Holographic Control Panel to navigate menu when in power armour.
 
 **Installation:**
 
@@ -65,8 +94,19 @@ This mod does exactly what it says, it will remove the Pip-Boy when equipping a 
 
 - **Main Files - [Alternative Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636?tab=files)**
 
+- **Main Files - [Hit - Power Armor Pip-Boy Anim](https://www.nexusmods.com/newvegas/mods/84046?tab=files)**
 
-### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985) ![](../static/img/Difficulty.png) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) 
+
+### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745) ![](../static/img/Difficulty.png)
+
+Simple kNVSE implementation of combat sprinting for melee NPCs 
+
+**Installation:**
+
+- **Main Files -  NPCs Sprint kNVSE - ESPless (TOTNW2.0)**
+
+
+### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985) ![](../static/img/Difficulty.png)
 
 A simple and comprehensive loot scarcity mod using event-based scripting. Trust us. Bring a magazine.
 
@@ -75,7 +115,7 @@ A simple and comprehensive loot scarcity mod using event-based scripting. Trust 
 - **Main Files - Famine**
 
 
-### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
+### [RAD - Radiation (is) Actually Dangerous - Overhaul](https://www.nexusmods.com/newvegas/mods/71541)  ![](../static/img/Difficulty.png)
 
 Overhaul of xax34hah's RAD mod. Rewrote the entire UI portion, major changes to the script including rebalancing, bugfixes and compatibility patches.
 
@@ -84,7 +124,7 @@ Overhaul of xax34hah's RAD mod. Rewrote the entire UI portion, major changes to 
 - **Main Files - RAD - Overhaul**
 
 
-### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
+### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png)
 
 Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
 

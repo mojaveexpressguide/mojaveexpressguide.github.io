@@ -80,23 +80,6 @@ An addon for Just Assorted Mods that adds some new features for Just Bullet Time
 - **Main Files - JBT Improved 1.01**
 
 
-### [Cyberware 2281](https://mod.pub/falloutnv/15/files)
-
-Adds modern project nevada style cyberware.
-
-**Installation:**
-
-- **Main Files - Cyberware 2281 1.3.3**
-
-:::info Installation:
-
-- Download and install manually in **MO2**
-
-:::
-
-- **Main Files - [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655?tab=files)**
-
-
 ### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
 
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
@@ -121,25 +104,6 @@ Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 :::
 
-### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
-
-Simple kNVSE implementation of combat sprinting for melee NPCs 
-
-**Installation:**
-
-- **Main Files -  NPCs Sprint kNVSE - ESPless**
-
-- **Optional Files -  Titans of The New West Patch**
-
-
-### [Fallout 4 Super Mutant Suiciders](https://www.nexusmods.com/newvegas/mods/70256) ![](../static/img/Difficulty.png) ![](../static/img/DifficultyFaded.png) ![](../static/img/DifficultyFaded.png) 
-
-Adds the Super Mutant Suicider enemies from Fallout 4. 
-
-**Installation:**
-
-- **Main Files -  Super Mutant Suiciders**
-
 
 ### [Explodable Ghost People's Gas Bombs ESPless](https://www.nexusmods.com/newvegas/mods/82425)
 
@@ -150,21 +114,3 @@ Allows you to explode the Ghost People's gas bombs by shooting them. This was me
 - **Main Files -  Explodable Ghost People's Gas Bombs**
 
 
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
-
-Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
-
-**Installation:**
-
-- **Main Files -  Supplemental Ammo Crafting NV**
-
-
-### [Sweet 6 Shooter Perks - TTW - NV](https://www.nexusmods.com/newvegas/mods/73438)
-
-The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly, immersive way.
-
-**Installation:**
-
-- **Main Files - Sweet 6 Shooter Perk Pack NV Version**
-
-- **Optional Files - NVB1Patch**

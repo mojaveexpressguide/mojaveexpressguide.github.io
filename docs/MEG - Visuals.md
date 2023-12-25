@@ -8,13 +8,24 @@ sidebar_position: 9
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
-### [Weapon DOF and Blur Effects](https://www.nexusmods.com/newvegas/mods/76064)
+### [Dynamic Depth-Of-Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796)
 
-Adds options for a light radial blur effect when aiming down sights, and subtle close DOF on the equipped weapon. 
+Scriptrunner which adds a smooth, physically simulated depth-of-field effect when aiming down the sights. 
 
 **Installation:**
 
-- **Main Files - Weapon DOF and Blur Effects**
+- **Main Files - Dynamic Depth-Of-Field - ESPless - Reloads**
+
+
+### [IMPACT](https://www.nexusmods.com/newvegas/mods/57113)
+
+Professional quality Ballistic VFX overhaul. Bullet Holes match ammo, casings match ammo, new custom particle effects impacts.
+
+**Installation:**
+
+- **Main Files - IMPACT - The Gaming Rig**
+
+- **Main Files - [IMPACT Compatibility 2](https://www.nexusmods.com/newvegas/mods/62050?tab=files)**
 
 
 ### [Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)
@@ -59,34 +70,6 @@ Patches B42 Dropmag for various New Vegas mods.
 
 - **Main Files - [B42 Dropmag Another Millenia Patch](https://www.nexusmods.com/newvegas/mods/79678?tab=files)**
 
-
-### [Power Armor Visual Enhancement (PAVE)](https://www.nexusmods.com/newvegas/mods/74786)
-
-Custom high resolution textures for all the power armors in NV and TTW/F3. 
-
-**Installation:**
-
-- **Main Files - Power Armor Visual Enhancement (PAVE)**
-
-:::info Double-click Power Armor Visual Enhancement 2K:
-
-- Go to the **Optional ESPs** tab 
-- Select **PAVE_NV_TTW.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
-
-:::
-
-- **Update Files - PAVE Compatibility Plugins**
-
-:::info Double-click PAVE Compatibility Plugins:
-
-- Go to the **Optional ESPs** tab 
-- Select **PAVE_NV_TTW.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
-
-:::
-
-- **Main Files - [PAVE TOTNW Patch](https://www.nexusmods.com/newvegas/mods/74174?tab=files)**
 
 ### [Configurable Pip-Boy Light Color](https://www.nexusmods.com/newvegas/mods/73792)
 
