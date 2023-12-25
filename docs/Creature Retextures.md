@@ -67,7 +67,7 @@ A nice and creepy Ghost People retexture.
 
 ### [Securitron HD](https://drive.google.com/file/d/1ci3O7sX-e4YOk0y2_-4Jd2IlDC30hBJf/view?usp=sharing)
 
-A nice and creepy Ghost People retexture. 
+A Securitron retexture by macintroll. 
 
 **Installation:**
 
