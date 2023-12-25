@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Guide Blog</title>
-    <updated>2023-11-17T00:00:00.000Z</updated>
+    <updated>2023-12-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Guide Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[25/12/2023 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/2023-12-25-Changelog</id>
+        <link href="https://www.mojaveexpressguide.com/blog/2023-12-25-Changelog"/>
+        <updated>2023-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mojave Express 3.5 update]]></summary>
+        <content type="html"><![CDATA[<p><strong>Mojave Express 3.5 update</strong></p><p>Merry christmas nerds and virgins. I guess you could say this is part 1 of the update.</p><ul><li><strong>Added:</strong> Texture Guide</li><li><strong>Restructured:</strong> website again and moved a couple mods around into different separators</li><li><strong>Merged:</strong> Quests Separator into MEG Locations &amp; Quests</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---user-interface">MEG - User Interface<a href="#meg---user-interface" class="hash-link" aria-label="Direct link to MEG - User Interface" title="Direct link to MEG - User Interface">​</a></h3><ul><li><strong>Added:</strong> Shuddup and SayThis</li><li><strong>Added:</strong> Colourful Inventory Ycons</li><li><strong>Added:</strong> Clean Pip-Boy 2022</li><li><strong>Added:</strong> Simple Maps</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---gameplay">MEG - Gameplay<a href="#meg---gameplay" class="hash-link" aria-label="Direct link to MEG - Gameplay" title="Direct link to MEG - Gameplay">​</a></h3><ul><li><strong>Removed:</strong> S6S Perks - (I'm happy with the vanilla perks)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---overhauls">MEG - Overhauls<a href="#meg---overhauls" class="hash-link" aria-label="Direct link to MEG - Overhauls" title="Direct link to MEG - Overhauls">​</a></h3><ul><li><strong>Added:</strong> Hit - Power Armor Pip-Boy Anim</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---content">MEG - Content<a href="#meg---content" class="hash-link" aria-label="Direct link to MEG - Content" title="Direct link to MEG - Content">​</a></h3><ul><li><strong>Removed:</strong> Mobile Crate Truck Remastered - (I don't think its necessary for most people)</li><li><strong>Added:</strong> Another Ghoul Variant Mod</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---animations">MEG - Animations<a href="#meg---animations" class="hash-link" aria-label="Direct link to MEG - Animations" title="Direct link to MEG - Animations">​</a></h3><ul><li><strong>Removed:</strong> Blended Locomotion - (Has issues like all the locomotions do)</li><li><strong>Added:</strong> Different PipBoy Animations</li><li><strong>Added:</strong> FPS Weapon Lowering</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---visuals">MEG - Visuals<a href="#meg---visuals" class="hash-link" aria-label="Direct link to MEG - Visuals" title="Direct link to MEG - Visuals">​</a></h3><ul><li><strong>Removed:</strong> Weapon DOF and Blur Effects - (Replaced by Dynamic Depth-Of-Field - ESPless)</li><li><strong>Removed:</strong> Configurable Pip-Boy Light Color - (I doubt anyone actually configured it anyway)</li><li><strong>Added:</strong> Dynamic Depth-Of-Field - ESPless</li><li><strong>Added:</strong> IMPACT</li><li><strong>Added:</strong> FNV Clean Animations - Grenades Pack</li><li><strong>Added:</strong> Sweets Pain NV (Fixed)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---audio">MEG - Audio<a href="#meg---audio" class="hash-link" aria-label="Direct link to MEG - Audio" title="Direct link to MEG - Audio">​</a></h3><ul><li><strong>Added:</strong> F4NV - Main Menu Music Replacer</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches--tweaks">MEG - Patches &amp; Tweaks<a href="#meg---patches--tweaks" class="hash-link" aria-label="Direct link to MEG - Patches &amp; Tweaks" title="Direct link to MEG - Patches &amp; Tweaks">​</a></h3><ul><li><strong>Updated:</strong> MEG - Patches</li><li><strong>Updated:</strong> MEG - Tweaks</li><li><strong>Updated:</strong> MEG - Loadorder</li></ul><p><strong>You can safely add the new mods mid save. However do not remove S6S Perks mid save.</strong></p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="December" term="December"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17/11/2023 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/2023-11-17-Changelog</id>
