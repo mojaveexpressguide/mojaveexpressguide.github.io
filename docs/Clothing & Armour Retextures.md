@@ -86,7 +86,7 @@ New retexture in 2k for the gross bag headgear raiders use.
 
 **Installation:**
 
-- **Main Files - Heaviin's Desperado Cowboyhat Retextured**
+- **Main Files - wastehound helmet 2k**
 
 
 ### [Dandadern's Welding Helmet Retexture - 2k](https://www.nexusmods.com/newvegas/mods/79070)
