@@ -20,7 +20,7 @@ New scratch made textures for street signs.
 - **Main Files - Street Signs HD**
 
 
-### [HD Signs Overhaul - Part 2](https://www.nexusmods.com/newvegas/mods/73824)
+### [HD Signs Overhaul - Part 2](https://www.nexusmods.com/newvegas/mods/82770)
 
 Another bunch of retextured signs.
 
@@ -65,7 +65,7 @@ New Vegas Medical Clinic sign remade from scratch.
 - **Main Files - Clinic Sign**
 
 
-### [Cottonwood Cove Sign](https://www.nexusmods.com/newvegas/mods/73824)
+### [Cottonwood Cove Sign](https://www.nexusmods.com/newvegas/mods/82694)
 
 Brand new textures for the Cottonwood Cove sign. 
 

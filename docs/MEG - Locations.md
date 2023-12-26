@@ -18,6 +18,16 @@ Adds crafting stations and additional containers to several vanilla player homes
 
 - **Main Files - Home and Safehouse Tweaks INI File**
 
+:::info In the installer:
+
+**[Patches]**
+
+- YUP Patch
+
+**> Install**
+
+:::
+
 
 ### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png)
 

@@ -8,11 +8,6 @@ sidebar_position: 2
 
 ---
 
-### Why are there barely any texture mods?
-
-The problem is that there is not a large texture pack that covers everything in the game and fits everyones taste, you will need to download multiple texture mods which may clash in style and not fit the vanilla games aesthetics. If you want a texture guide follow [Salamand3r's texture guide](https://salamand3r.fail/texture-guide). I can not provide support for this unfortunately.
-
-
 ### Is there a Wabbajack version available?
 
 Currently there is not a Wabbajack version and there are no plans to make one. I am only one man so maintaining both and producing mods at the same time isn't viable.
