@@ -69,7 +69,7 @@ For all your shovelry needs!
 
 ### [Hatchet Remade](https://www.nexusmods.com/newvegas/mods/80352)
 
-For all your shovelry needs!
+A completely new model for the vanilla hatchet. No ESP 
 
 **Installation:**
 

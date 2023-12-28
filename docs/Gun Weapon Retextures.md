@@ -2,8 +2,6 @@
 
 ---
 
-This is an archived weapon texture guide that I had made as many have been requesting for one. This was created before Salamand3r's new texture guide. This has only been made with FNV in mind. I do not know how well this will work with TTW. I would recommend installing in the order the mods are listed!
-
 ### [Weapon Retexture from EVE](https://www.nexusmods.com/newvegas/mods/76606)
 
 Textures for Vanilla/WMIM/TTW taken from the EVE. Fixed some missing textures for modifications.
@@ -39,7 +37,7 @@ Select the **Filetree** tab and find the folder `meshes\weapons\2handhandle` the
 
 ### [Weapon Enhancement Pack](https://www.nexusmods.com/fallout3/mods/21245)
 
-Texture replacement pack for several weapons and some uniques.
+Texture replacement pack for several weapons and some uniques. Works well for Fallout: New Vegas.
 
 **Installation:**
 
@@ -130,7 +128,7 @@ Adds a new complete re-texture of the F:NV H&H Tool Nail Gun.
 
 ### [DKS and Friends](https://www.nexusmods.com/newvegas/mods/79689) ![](../static/img/Performance.png)
 
-Mesh and texture replacer for the sniper rifle and unique that are found in FNV and Tale of Two Wastelands mod. 
+Mesh and texture replacer for the sniper rifle and uniques.
 
 **Installation:**
 
@@ -139,7 +137,7 @@ Mesh and texture replacer for the sniper rifle and unique that are found in FNV 
 
 ### [Type II's Replacer Project](https://www.nexusmods.com/newvegas/mods/69830) ![](../static/img/Performance.png)
 
-Mesh and texture replacer for the sniper rifle and unique that are found in FNV and Tale of Two Wastelands mod. 
+HQ replacer for Grenade Rifle.
 
 **Installation:**
 
@@ -152,7 +150,7 @@ HQ models and textures ported with permission from ShoeBurglar.
 
 **Installation:**
 
-- **Optional Files - Grenade Launcher Redux**
+- **Main Files - Grenade Launcher Redux**
 
 :::info Double-click Grenade Launcher Redux - FO4 HQ Replacer:
 

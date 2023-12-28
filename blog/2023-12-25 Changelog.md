@@ -37,15 +37,13 @@ Merry christmas nerds and virgins. I guess you could say this is part 1 of the u
 - **Removed:** Blended Locomotion - (Has issues like all the locomotions do)
 - **Added:** Different PipBoy Animations
 - **Added:** FPS Weapon Lowering
+- **Added:** FNV Clean Animations - Grenades Pack
 
 
 ### MEG - Visuals
 - **Removed:** Weapon DOF and Blur Effects - (Replaced by Dynamic Depth-Of-Field - ESPless)
-- **Removed:** Configurable Pip-Boy Light Color - (I doubt anyone actually configured it anyway)
 - **Added:** Dynamic Depth-Of-Field - ESPless
 - **Added:** IMPACT
-- **Added:** FNV Clean Animations - Grenades Pack
-- **Added:** Sweets Pain NV (Fixed)
 
 
 ### MEG - Audio

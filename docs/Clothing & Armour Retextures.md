@@ -61,6 +61,18 @@ Three textures for three combat armors.
 
 - **Main Files - Combat Armor Retextures**
 
+:::info In the installer:
+
+Double-click **Combat Armor Retextures** then right click **Data** and select **Set as < data > directory**.
+
+![The Gruntening Installation](../static/img/TheGrunteningInstallation.png)
+  
+It should then look like the below. Press **OK**.
+  
+![The Gruntening Installation Fixed](../static/img/TheGrunteningInstallationFixed.png)
+
+:::
+
 
 ### [Improved Desperado Hat](https://www.nexusmods.com/newvegas/mods/73301)
 

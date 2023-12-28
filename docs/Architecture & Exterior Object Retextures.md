@@ -103,6 +103,22 @@ Lore friendly NCR flag retextures.
 
 - **Main Files - NCR Flag Retex**
 
+:::info In the installer:
+
+**[Torn and dirty]**
+
+- 1K
+
+**> Next**
+
+**[Torn / Torn and Dirty]**
+
+- 1K
+
+**> Install**
+
+:::
+
 
 ### [Textures Over Time](https://www.nexusmods.com/newvegas/mods/41101)
 
