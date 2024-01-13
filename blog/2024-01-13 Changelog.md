@@ -5,7 +5,7 @@ authors: Biggie404
 tags: [December]
 ---
 
-### Mojave Express 3.6 update
+### MEG 3.6 update
 
 Changed instructions to hide plugins rather than move to optional ESPs. Easier from my pov.
 
@@ -28,7 +28,7 @@ Changed instructions to hide plugins rather than move to optional ESPs. Easier f
 
 <br/>
 
-### METG - Texture Guide Update 1.1
+### METG - 1.1 Update
 
 Changed instructions to hide plugins rather than move to optional ESPs. Easier from my pov.
 Streamlined guide even more. Options and redundancies removed. 

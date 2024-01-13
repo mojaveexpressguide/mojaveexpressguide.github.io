@@ -42,7 +42,7 @@ This mod adds integrated backpacks into New Vegas and distributes them to NPC's,
 
 - **Main Files - CIBS - Customizable Integrated Backpack System**
 
-- **Main Files [Canvas Backpacks - FNV - TTW](https://www.nexusmods.com/newvegas/mods/71510)**
+- **Main Files [Canvas Backpacks - FNV](https://www.nexusmods.com/newvegas/mods/71510)**
 
 :::info Double-click Canvas Backpacks - FNV - TTW in MO2:
 
