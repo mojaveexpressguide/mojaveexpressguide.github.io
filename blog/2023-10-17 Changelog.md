@@ -5,7 +5,7 @@ authors: Biggie404
 tags: [October]
 ---
 
-**Mojave Express 3.0 is here!**
+### Mojave Express 3.0 is here!
 
 Massive update to the website. It should be faster, more mobile friendly, scalable, has a github and 16x the detail!
 

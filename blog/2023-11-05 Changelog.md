@@ -5,7 +5,7 @@ authors: Biggie404
 tags: [November]
 ---
 
-**Mojave Express 3.2 update**
+### Mojave Express 3.2 update
 
 Updated the guide to be in line with the recent VNV update.
 

@@ -8,7 +8,7 @@ This will contain various patches for the textures in this guide.
 
 **Installation:**
 
-- **Optional Files - [MEG - Texture Guide Patches](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
+- **Optional Files - [METG - Patches](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 :::info In the installer:
 
@@ -50,7 +50,7 @@ Use this patch if you downloaded the WAP retextures and have B42 Optics.
 - **Main Files - [WAP B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81731?tab=files)**
 
 
-### MEG - Texture Guide LOD Generation
+### METG - LOD Generation
 
 I highly recommend that you generate your own **Object & Terrain LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html). Ensure that you do not install **Wasted LOD - Cliffs of Mojave** if you would like to have custom rock textures.  
   
@@ -101,7 +101,7 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
 
 :::info Important:
 
-You will also need to move **Aqua Performa - Strip Performance Fix** below the **MEG - Texture Guide FNVLODGen Output** above.
+You will also need to move **Aqua Performa - Strip Performance Fix** below the **METG - FNVLODGen Output** above.
 
 ```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:"
 

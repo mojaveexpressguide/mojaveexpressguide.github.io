@@ -5,7 +5,7 @@ authors: Biggie404
 tags: [November]
 ---
 
-**Mojave Express 3.1 update**
+### Mojave Express 3.1 update
 
 I've updated the website a little bit.
 
