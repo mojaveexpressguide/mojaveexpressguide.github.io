@@ -1,4 +1,4 @@
-# Gun Weapon Retextures
+# METG - Gun Weapon Retextures
 
 ---
 
@@ -32,9 +32,6 @@ Select the **Filetree** tab and find the folder `meshes\weapons\2handhandle` the
 :::
 
 
-- **Main Files - [Red Targeting Lens](https://www.nexusmods.com/newvegas/mods/79027?tab=files)**
-
-
 ### [Weapon Enhancement Pack](https://www.nexusmods.com/fallout3/mods/21245)
 
 Texture replacement pack for several weapons and some uniques. Works well for Fallout: New Vegas.
@@ -42,34 +39,6 @@ Texture replacement pack for several weapons and some uniques. Works well for Fa
 **Installation:**
 
 - **Main Files - Weapon Enhancement Pack**
-
-
-### [Simplified Weapon Retexture Project - WRP](https://www.nexusmods.com/newvegas/mods/73675)
-
-Small mod to streamline the WRP file structure and meshes to no longer require an ESP, as well as some minor bug fixes, patches, and optional extras.
-
-**Installation:**
-
-- **Main Files -  Simplified Weapon Retexture Project**
-
-:::info Double-click Simplified Weapon Retexture Project - WRP in MO2:
-
-Select the **Filetree** tab and find the folder `nvse` then right click and select **Hide**.
-
-```
-  📁nvse    ⟵ right click and select Hide
-```
-
-:::
-
-
-### [Rigged Shotgun (Single Shotgun) Texture UV Map Fix for SWRP](https://www.nexusmods.com/newvegas/mods/77942)
-
-Fixes bad textures on the Single Shotgun model used by the Rigged Shotgun trap when SWRP is loaded.
-
-**Installation:**
-
-- **Main Files - SWRP Rigged Shotgun Fix - Mesh Replacer**
 
 
 ### [WTH - Weapon Textures from Heaven](https://www.nexusmods.com/newvegas/mods/69837)
@@ -81,13 +50,13 @@ An HD 2K weapon retexture pack that aims to update all of the weapon textures of
 - **Main Files - WTH - Weapon Textures from Heaven 2k**
 
 
-### [WTH - WRP Simplified Patch](https://drive.google.com/file/d/1YgbFFXyTXZMsp1jaV1ZTNO3PgqwOS-sj/view?usp=sharing)
+### [WTH - Weapon Textures From Heaven V 1.2 WIP](https://drive.google.com/file/d/1F8u92Dsb2Ccxl9BlE9TuKKYf4kN0o8Oo/view)
 
-A patch for WTH and WRP Simplified.
+A WIP release from the mod author for WTH.
 
 **Installation:**
 
-- **Main Files - WTH - WRP Simplified Patch**
+- **Main Files - WTH V1_2 WIP.rar**
 
 
 ### [Euclid's C-Finder Retexture](https://www.nexusmods.com/newvegas/mods/68624)
@@ -97,15 +66,6 @@ A retexture of the Euclid's C-Finder.
 **Installation:**
 
 - **Main Files - Euclid's C-Finder Retexture**
-
-
-### [Fallout 3 Hirezd](https://www.nexusmods.com/fallout3/mods/19931)
-
-A compilation of high resolution and highly detailed weapon and creature textures. 
-
-**Installation:**
-
-- **Main Files - Flamer**
 
 
 ### [Flare Gun Retexture](https://www.nexusmods.com/newvegas/mods/68580)
@@ -154,9 +114,11 @@ HQ models and textures ported with permission from ShoeBurglar.
 
 :::info Double-click Grenade Launcher Redux - FO4 HQ Replacer:
 
-- Go to the **Optional ESPs** tab 
-- Select **ChinaLakeRedux.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `ChinaLakeRedux.esp` then right click and select **Hide**.
+
+```
+📄 ChinaLakeRedux.esp  ⟵ right click and select Hide
+```
 
 :::
 
@@ -171,9 +133,11 @@ With Shoeburglar's permission, the definitive rendition of Dead Money's iconic H
 
 :::info Double-click Holorifle Redux - FO4 HQ Replacer:
 
-- Go to the **Optional ESPs** tab 
-- Select **HoloRedux.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `HoloRedux.esp` then right click and select **Hide**.
+
+```
+📄 HoloRedux.esp  ⟵ right click and select Hide
+```
 
 :::
 
@@ -251,9 +215,11 @@ A new high quality custom mesh and texture as replacer for both version of the 1
 
 :::info Double-click WAP 12.7 SMG Rebirth:
 
-- Go to the **Optional ESPs** tab 
-- Select **127 SMG Rebirth.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `127 SMG Rebirth.esp` then right click and select **Hide**.
+
+```
+📄 127 SMG Rebirth.esp  ⟵ right click and select Hide
+```
 
 :::
 
@@ -268,9 +234,11 @@ New mesh/textures for vanilla laser rifle and aer14 prototype.
 
 :::info Double-click Laser Rifle Rebirth:
 
-- Go to the **Optional ESPs** tab 
-- Select **LaserRifleReplacer.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `LaserRifleReplacer.esp` then right click and select **Hide**.
+
+```
+📄 LaserRifleReplacer.esp  ⟵ right click and select Hide
+```
 
 :::
 

@@ -10,7 +10,7 @@ As you did with **Viva New Vegas** create new separators for the above categorie
 
 ### [NV Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
 
-A skeleton with compatibility for the latest mods. This needs to be placed under all your other mods.
+A skeleton with compatibility for the latest mods. You would have installed this from VNV in under the Visuals seperator.
 
 :::info On the left pane in MO2:
 
@@ -51,8 +51,6 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 **List of mods with patches included in the installer:**
 
-- MEG - Iron Sights Aligned Patch
-
 - Vanilla Enhancements
 
 - Uncut Wasteland
@@ -63,15 +61,13 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 - B42 Dropmag
 
-- Sweet Pain NV Crashfix
-
 - Famine Cyberware Patch - Credit to PlasticPotatoes on nexus
 
 - RAD - Radiation (is) Actually Dangerous - Overhaul - with Injection Fix - Credit to Nechigawara on nexus
 
-- S6S Perks PAHP Patch - Credit to Omnigma on nexus
-
 - JSRS 2.0 FNV + Another Millenia Sound Patch - Credit to MesserAR on nexus
+
+- Iron Sight Alignment Config
 
 **>Install**
 
@@ -100,7 +96,7 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 - ​MEG - Helmet Armor Rebalance (JIP)
 
-- MEG - Vigor Carryweight Config
+- MEG - Simple Vigor Config
 
 - MEG - JAM Config
 
@@ -121,7 +117,7 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 ### MEG - Navmesh Compatibility Patch
 
-This is a premade Navmesh Compatibility Patch for Mojave Express. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements, New Vegas Killer, New Vegas Bounties, Lucky Jim's Cache, Mobile Crate Truck Remastered, Sweets Pain NV, Home and Safehouse Tweaks, Uncut Wasteland - NVInteriors Remastered Patch.
+This is a premade **Navmesh Compatibility Patch** for MEG. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements, New Vegas Killer, New Vegas Bounties, Lucky Jim's Cache, Sweets Pain NV, Home and Safehouse Tweaks, Uncut Wasteland - NVInteriors Remastered Patch.
 
 **Installation:**
 
@@ -135,11 +131,12 @@ If you do not have all of the selected mods or plan to add more please create yo
 
 :::
 
+
 ### MEG - LOD Generation
 
-I highly recommend that you generate your own **Object LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
+I highly recommend that you generate your own **Object LOD** at this point unless you plan on following **METG** or adding your own textures. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
   
-If you have downloaded **Viva New Vegas** with **Wabbajack** you will already have the resources listed on that page and so all you need to do is disable the **FNVLODGen Output** mod that you have in **MO2**, then follow the linked [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) from the FNVLODGen section onwards. When it comes to naming your LOD **Output** just call it **Custom FNVLODGen Output**.
+If you have downloaded **Viva New Vegas** with **Wabbajack** you will already have the resources listed on that page and so all you need to do is disable the **FNVLODGen Output** mod that you have in **MO2**, then follow the linked [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) from the **FNVLODGen** section onwards. When it comes to naming your LOD **Output** just call it **Custom FNVLODGen Output**.
 
 :::tip Note: 
 
@@ -165,9 +162,25 @@ Alternatively you can download pregenerated LOD which I generated with all of th
 
 - **Main Files - [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316?tab=files)**
 
+- **Optional Files - [LODIFY FNV Wall_SoGB Editon](https://www.nexusmods.com/newvegas/mods/84165?tab=files)**
+
 - **Optional Files - [MEG - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 <br />
+
+:::info Double-click Lod Additions and Improvements in MO2:
+
+Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents\dlcanchtentcornerchb.nif` then right click and **Rename** to `dlcanchtentcornerchb_lod.nif`.
+
+```
+  📁meshes 
+   └📁dlcanch 
+     └📁architecture
+        └📁tents 
+          └📁dlcanchtentcornerchb.nif   ⟵ right click and Rename to "dlcanchtentcornerchb_lod.nif"
+```
+
+:::
 
 ```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:"
 

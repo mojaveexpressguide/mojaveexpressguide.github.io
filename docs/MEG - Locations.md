@@ -96,10 +96,6 @@ A collection of compatibility patches.
 
 **[Patches]**
 
-- Better Brotherhood
-
-- A World of (Less) Pain - A Lore Friendly AWOP Revision
-
 - NV Interiors Remastered
 
 **> Install**

@@ -1,4 +1,4 @@
-# FX & Extra Retextures
+# METG - FX & Extra Retextures
 
 ---
 
@@ -52,15 +52,6 @@ Its time for an upgrade on this beautiful mod. Original release date 2014 March 
 - **Main Files - Strings of New Vegas**
 
 
-### [Gore overhaul](https://www.nexusmods.com/newvegas/mods/67666)
-
-A hyper realistic retexture of the gore assets in the beloved game we mod more then play Fallout New Vegas! 
-
-**Installation:**
-
-- **Main Files - Gore Overhaul v2**
-
-
 ### [Nut Water Overhaul](https://www.nexusmods.com/newvegas/mods/75995)
 
 Overhauls the visuals for main bodies of water in New Vegas. TTW compatible. 
@@ -86,6 +77,15 @@ A modestly AI generated loadscreen pack that replaces all loading screens in the
 **Installation:**
 
 - **Main Files - Minimal Atmospheric Loadscreens**
+
+
+### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
+
+Replaces the vanilla loading wheel with your choice of a more simple, minimally designed one.
+
+**Installation:**
+
+- **Main Files - Roulette Loadwheel**
 
 
 ### [Elegant Lockpick Retexture](https://www.nexusmods.com/newvegas/mods/75670)
@@ -153,15 +153,8 @@ Vibrance is a ReShade preset that enhances the colours and adds more vibrance (h
 
 :::
 
-### [New Vegas Reloaded](https://discord.gg/ZJQdmMr49t)
+:::info If you installed Special K from the [performance guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters) and are getting a black screen:
 
-Go to the **#nightly-builds** channel and download the latest published version. Install the mod with MO2 manually.
-
-:::caution Important:
-
-This mod is very experimental and in active development. Whilst it can provide significantly increased visual fidelity it does so at a large performance cost. 
-You may experience some bugs, crashes and compatibility issues when running this mod. You should also check out the **[NVR Wiki](https://dlpnd.github.io/nvr-wiki/docs/intro)**
+Run the reshade installer you used and uninstall reshade. Then go to C:\ProgramData\Reshade and copy ReShade32.dll and put it in your FNV root folder.
 
 :::
-
-- **Main Files - [Main In Motion - New Vegas Only](https://www.nexusmods.com/newvegas/mods/82266?tab=files)**

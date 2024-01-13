@@ -1,4 +1,4 @@
-# Melee Weapon Retextures
+# METG - Melee Weapon Retextures
 
 ---
 
@@ -86,9 +86,10 @@ Complete model and texture replacement for Super Sledge & Super Sledge Unique (O
 
 :::info Double-click WJS's Super Sledge Ported:
 
-- Go to the **Optional ESPs** tab 
-- Select **SuperSledgebyWJS_Collection.esp**
-- Select **SuperSledgebyWJS_Replacer.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the files `SuperSledgebyWJS_Collection.esp` & `SuperSledgebyWJS_Replacer.esp` then right click and select **Hide**.
+
+```
+📄 LaserRifleReplacer.esp  ⟵ right click and select Hide
+```
 
 :::

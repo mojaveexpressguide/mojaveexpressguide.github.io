@@ -1,15 +1,6 @@
-# Clutter Retextures
+# METG - Clutter Retextures
 
 ---
-
-### [Audley's Miscellanous Textures](https://www.nexusmods.com/newvegas/mods/58318)
-
-A compilation of my older textures left up for those who want them.
-
-**Installation:**
-
-- **Main Files - Audley's Misc Textures**
-
 
 ### [Blackwolf24s HD Clutter pack](https://www.nexusmods.com/newvegas/mods/70035)
 

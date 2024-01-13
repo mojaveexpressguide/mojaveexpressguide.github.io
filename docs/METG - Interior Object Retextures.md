@@ -1,4 +1,4 @@
-# Interior Object Retextures
+# METG - Interior Object Retextures
 
 ---
 
@@ -137,6 +137,15 @@ Simple and quick mod, the vanilla auto doc bothered me endless so I decided to r
 **Installation:**
 
 - **Main Files - F4NV Auto Doc**
+
+
+### [Physically Based Terminals](https://www.nexusmods.com/newvegas/mods/84386) ![](../static/img/Performance.png)
+
+Replaces Terminal Models.
+
+**Installation:**
+
+- **Main Files - Physically Based Terminals**
 
 
 ### [Physically Based Wood Crates](https://www.nexusmods.com/newvegas/mods/76089) ![](../static/img/Performance.png)

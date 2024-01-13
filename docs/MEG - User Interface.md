@@ -66,7 +66,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 - **Main Files - [Clean Companion Wheel 512x512 Edition](https://www.nexusmods.com/newvegas/mods/70486?tab=files)**
 
-- **Main Files - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)**
+- **Main Files - [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)**
 
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)

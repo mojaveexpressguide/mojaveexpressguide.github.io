@@ -1,4 +1,4 @@
-# Creature Retextures
+# METG - Creature Retextures
 
 ---
 

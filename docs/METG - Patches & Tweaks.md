@@ -1,14 +1,14 @@
-# Texture Guide Patches
+# METG - Patches
 
 ---
 
-### MEG - Texture Guide Patches and Tweaks
+### METG - Patches & Tweaks
 
 This will contain various patches for the textures in this guide.
 
 **Installation:**
 
-- **Main Files - [MEG - Texture Guide Patches](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
+- **Optional Files - [MEG - Texture Guide Patches](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 :::info In the installer:
 
@@ -78,9 +78,26 @@ Alternatively you can download pregenerated LOD which I generated with all of th
  
 - **Main Files - [More LODs Additions and fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)**
 
-- **Optional Files - [MEG - Texture Guide FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
+- **Optional Files - [LODIFY FNV Wall_SoGB Editon](https://www.nexusmods.com/newvegas/mods/84165?tab=files)**
+
+- **Optional Files - [METG - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 <br />
+
+:::info Double-click Lod Additions and Improvements in MO2:
+
+Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents\dlcanchtentcornerchb.nif` then right click and **Rename** to `dlcanchtentcornerchb_lod.nif`.
+
+```
+  📁meshes 
+   └📁dlcanch 
+     └📁architecture
+        └📁tents 
+          └📁dlcanchtentcornerchb.nif   ⟵ right click and Rename to "dlcanchtentcornerchb_lod.nif"
+```
+
+:::
+
 
 :::info Important:
 

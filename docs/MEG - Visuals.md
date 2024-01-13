@@ -47,14 +47,7 @@ Drop empty and/or partial magazines on reload.
 
 - **Main Files - B42 Dropmag**
 
-
-### [B42 Dropmag NV Patches](https://www.nexusmods.com/newvegas/mods/79039)
-
-Patches B42 Dropmag for various New Vegas mods.
-
-**Installation:**
-
-- **Main Files - B42 Dropmag NV Patches**
+- **Main Files - [B42 Dropmag NV Patches](https://www.nexusmods.com/newvegas/mods/79039?tab=files)**
 
 :::info In the installer:
 

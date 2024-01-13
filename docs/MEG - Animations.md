@@ -115,7 +115,7 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 - **Main Files - [4. No TTW - Edited](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
 
-- **Update Files - Update 1.1.2 - HOTFIX**
+- **Update Files - Update 1.1.3**
 
 - **Main Files - [FNV Clean Animations - Grenades Pack](https://www.nexusmods.com/newvegas/mods/83735?tab=files)**
 
@@ -123,9 +123,11 @@ FNV Clean Animations. Smooth with vanilla-ish timings & balance.
 
 :::info Double-click FNV Clean Animations - Part 3 in MO2:
 
-- Go to the **Optional ESPs** tab 
-- Select **DoubleBarrelShotgun.esp**
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `DoubleBarrelShotgun.esp` then right click and select **Hide**.
+
+```
+📄 DoubleBarrelShotgun.esp  ⟵ right click and select Hide
+```
 
 :::
 

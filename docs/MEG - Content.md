@@ -46,11 +46,14 @@ This mod adds integrated backpacks into New Vegas and distributes them to NPC's,
 
 :::info Double-click Canvas Backpacks - FNV - TTW in MO2:
 
-- Go to the **Optional ESPs** tab 
-- Select **QwibNewBackpacks.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `QwibNewBackpacks.esp` then right click and select **Hide**.
+
+```
+📄 QwibNewBackpacks.esp  ⟵ right click and select Hide
+```
 
 :::
+
 
 ### [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133)
 
@@ -59,6 +62,8 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 **Installation:**
 
 - **Main Files - Another Millenia 2.4**
+
+- **Update Files - Hotfix 2**
 
 
 ### [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237)

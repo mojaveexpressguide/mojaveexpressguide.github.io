@@ -1,4 +1,4 @@
-# Architecture & Exterior Object Retextures
+# METG - Architecture & Exterior Object Retextures
 
 ---
 
@@ -84,15 +84,6 @@ A less cartoonish, realistic retexture for the Old World Blues crystals.
 **Installation:**
 
 - **Main Files - Fractal Crystals**
-
-
-### [Gun Runners Kiosk Glass Fix](https://www.nexusmods.com/newvegas/mods/70293)
-
-A small mod to fix the glass texture in the Gun Runners' kiosk.
-
-**Installation:**
-
-- **Optional Files - Gun Runners Kiosk Glass Fix Alternate Version B**
 
 
 ### [NCR Flag Retex](https://www.nexusmods.com/newvegas/mods/79717)

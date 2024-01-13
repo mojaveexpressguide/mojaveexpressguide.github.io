@@ -67,17 +67,21 @@ Custom high resolution textures for all the power armors in NV and TTW/F3.
 
 :::info Double-click Power Armor Visual Enhancement 2K:
 
-- Go to the **Optional ESPs** tab 
-- Select **PAVE_NV_TTW.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `PAVE_NV_TTW.esp` then right click and select **Hide**.
+
+```
+📄 PAVE_NV_TTW.esp  ⟵ right click and select Hide
+```
 
 :::
 
 :::info Double-click PAVE Compatibility Plugins:
 
-- Go to the **Optional ESPs** tab 
-- Select **PAVE_NV_TTW.esp**  
-- click the ⬅️ arrow to move it under **Optional ESPs**
+Select the **Filetree** tab and find the file `PAVE_NV_TTW.esp` then right click and select **Hide**.
+
+```
+📄 PAVE_NV_TTW.esp  ⟵ right click and select Hide
+```
 
 :::
 

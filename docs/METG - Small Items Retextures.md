@@ -1,33 +1,6 @@
-# Small Items Retextures
+# METG - Small Items Retextures
 
 ---
-
-### [Minimod - High Res Clutter Battery Cigarette Pack and Carton](https://www.nexusmods.com/newvegas/mods/37709)
-
-Gives three clutter items a high resolution texture: the fission battery, cigarette pack and cigarette carton.
-
-**Installation:**
-
-- **Main Files - HiRes Clutter Pack 1**
-
-
-### [Urban Food Re-Tex](https://www.nexusmods.com/newvegas/mods/43919)
-
-This mod re-textures all Urban Food Items to be more visually appealing and more realistic. 
-
-**Installation:**
-
-- **Main Files - Urban Food Re-tex**
-
-
-### [High Res Vanilla Water Bottle Textures and Meshes](https://www.nexusmods.com/newvegas/mods/64686)
-
-Higher resolution water bottle textures and meshes, four times the pixels and twice the vertices.
-
-**Installation:**
-
-- **Main Files - High Res Water**
-
 
 ### [PM's Med-Textures - HD Chems and Venoms](https://www.nexusmods.com/newvegas/mods/62946)
 

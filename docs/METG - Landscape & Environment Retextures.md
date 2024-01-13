@@ -1,4 +1,4 @@
-# Landscape & Environment Retextures
+# METG - Landscape & Environment Retextures
 
 ---
 
@@ -48,6 +48,15 @@ Makes the non-cliff rocks of New Vegas and Zion higher poly, without sacrificing
 - **Main Files - Higher Poly Rocks 1.2 Micro Update**
 
 
+### [Remastered Quarries](https://www.nexusmods.com/newvegas/mods/76632) ![](../static/img/Performance.png)
+
+This mod gives all quarries in New Vegas a complete and total facelift with working LODs, new meshes, and landscape repaints.
+
+**Installation:**
+
+- **Main Files - Remastered Quarries 2K - 1K Mix (Authors Choice)**
+
+
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
 A simple upscaling of the vanilla grass atlas from its low-quality 1k resolution to either your choice of 2k or 4k. 
@@ -55,15 +64,6 @@ A simple upscaling of the vanilla grass atlas from its low-quality 1k resolution
 **Installation:**
 
 - **Main Files - Simply Upscaled Grass - Vanilla Style - 2k**
-
-
-### [New Vegas Palm Trees Enhanced](https://www.nexusmods.com/newvegas/mods/83261)
-
-Replaces the ugly palm trees on the Strip with improved models.
-
-**Installation:**
-
-- **Main Files - New Vegas Palm Trees Enhanced**
 
 
 ### [Vurt's Improved Plants](https://www.nexusmods.com/newvegas/mods/66898)
@@ -90,10 +90,21 @@ Replaces a lot of the smaller objects that other packs don't cover.
 - **Update Files - Optimized Joshua Trees v1.2**
 
 
-### [Remastered Quarries](https://www.nexusmods.com/newvegas/mods/76632) ![](../static/img/Performance.png)
+### [Wasted Pines](https://www.nexusmods.com/newvegas/mods/84471)
 
-This mod gives all quarries in New Vegas a complete and total facelift with working LODs, new meshes, and landscape repaints.
+Brand new and brand shiny pine-tree replacer for the Jacobstown area. 
 
 **Installation:**
 
-- **Main Files - Remastered Quarries 2K - 1K Mix (Authors Choice)**
+- **Main Files - Kekw**
+
+- **Update Files - 2.1**
+
+
+### [New Vegas Palm Trees Enhanced](https://www.nexusmods.com/newvegas/mods/83261)
+
+Replaces the ugly palm trees on the Strip with improved models.
+
+**Installation:**
+
+- **Main Files - New Vegas Palm Trees Enhanced**
