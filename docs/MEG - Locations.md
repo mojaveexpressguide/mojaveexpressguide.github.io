@@ -22,7 +22,7 @@ Adds crafting stations and additional containers to several vanilla player homes
 
 **[Patches]**
 
-- YUP Patch
+> - [x] YUP Patch
 
 **> Install**
 
@@ -96,7 +96,7 @@ A collection of compatibility patches.
 
 **[Patches]**
 
-- NV Interiors Remastered
+> - [x] NV Interiors Remastered
 
 **> Install**
 

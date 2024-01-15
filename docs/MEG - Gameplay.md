@@ -47,7 +47,7 @@ A collection of useful mods, merged for convenience.
 
 :::info On the left pane in MO2:
 
-Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
+> Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
 
 :::
 
@@ -64,7 +64,7 @@ Addon package for JAM/JVS that includes new features, animations, gameplay optio
 
 **[Install For:]**
 
-- JAM - Just Assorted Mods
+> - [x] JAM - Just Assorted Mods
 
 **> Install**
 
@@ -92,13 +92,13 @@ Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 **[Texture Size]**
 
-- Pick based on your screen size
+> - [x] Pick based on your screen size
 
 **> Next**
 
 **[Texture Pre-Loading]**
 
-- Pick based on your hardware
+> - [x] Pick based on your hardware
 
 **> Install**
 

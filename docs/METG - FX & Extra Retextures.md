@@ -143,11 +143,11 @@ Vibrance is a ReShade preset that enhances the colours and adds more vibrance (h
 
 **> Next**
 
-- Select **DirectX 9**. Unless you installed DXVK then select **Vulkan**.
+> - [x]  Select **DirectX 9**. Unless you installed DXVK then select **Vulkan**.
 
 **> Next**
 
-- Click browse and select your reshade preset file ini that you placed in your FNV root folder.
+> - [x]  Click browse and select your reshade preset file ini that you placed in your FNV root folder.
 
 **> Finish**
 

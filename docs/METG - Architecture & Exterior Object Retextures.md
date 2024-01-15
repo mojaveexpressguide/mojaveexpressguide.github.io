@@ -98,13 +98,13 @@ Lore friendly NCR flag retextures.
 
 **[Torn and dirty]**
 
-- 1K
+> - [x] 1K
 
 **> Next**
 
 **[Torn / Torn and Dirty]**
 
-- 1K
+> - [x] 1K
 
 **> Install**
 

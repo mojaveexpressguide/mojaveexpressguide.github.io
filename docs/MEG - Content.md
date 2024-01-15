@@ -27,7 +27,7 @@ A custom fixed vanilla body version of Spice of Life which adds a variety of clo
 
 :::info Installation:
 
-- Download and install manually in **MO2**
+> Download and install manually in **MO2**
 
 :::
 
@@ -94,7 +94,7 @@ Adds modern project nevada style cyberware.
 
 :::info Installation:
 
-- Download and install manually in **MO2**
+> Download and install manually in **MO2**
 
 :::
 

@@ -8,7 +8,8 @@ sidebar_position: 1
 
 :::caution Important:
 
-You will need at least base **VNV** and to have done so using **MO2**. Although it is recommended to have most of the mods from **VNV Extended** to get the full experience. If you have used another guide or mod manager support will not be given. 
+You will need at least base **VNV** and to have done so using **MO2**. Although this guide has been made with the full **VNV Extended** modlist and is recommended to get the full experience. If you have used another guide or mod manager support will not be given. 
+
 :::
 
 If you are new to Fallout New Vegas and modding in general, I recommend sticking to just **Viva New Vegas** as this guide will substantially change the game and alter your experience.
@@ -35,7 +36,7 @@ Unless stated otherwise every mod should be downloaded with **MO2** using the **
 
 :::info Create an additional profile for Mojave Express:
 
-Profile > Manage > Viva New Vegas > Copy > Name Mojave Express
+> Profile > Manage > Viva New Vegas > Copy > Name Mojave Express
 
 :::
 

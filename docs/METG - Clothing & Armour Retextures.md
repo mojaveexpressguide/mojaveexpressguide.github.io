@@ -11,76 +11,27 @@ Due to gracious permission from macintroll, Wasteland Clothing HD (removed from 
 - **Main Files - Wasteland Clothing HD V1-3 FULL PACK**
 
 
-### [Clothes HD - Workers](https://www.nexusmods.com/newvegas/mods/84411)
+### Clothes HD
 
-A HD improvement of the worker New Vegas clothing. 
-
-**Installation:**
-
-- **Main Files - Clothes HD - Workers 2K**
-
-
-### [Clothes HD - Wasteland](https://www.nexusmods.com/newvegas/mods/84418)
-
-A HD improvement of Wasteland New Vegas clothing. 
+A HD improvement of various clothing.
 
 **Installation:**
 
-- **Main Files - Clothes HD - Wasteland 2K**
+- **Main Files - [Clothes HD - Workers 2K](https://www.nexusmods.com/newvegas/mods/84411?tab=files)**
 
+- **Main Files - [Clothes HD - Wasteland 2K](https://www.nexusmods.com/newvegas/mods/84418?tab=files)**
 
-### [Clothes HD - Kings](https://www.nexusmods.com/newvegas/mods/84429)
+- **Main Files - [Clothes HD - Kings 2K](https://www.nexusmods.com/newvegas/mods/84429?tab=files)**
 
-A HD improvement of clothing used by The Kings gang. 
+- **Main Files - [Clothes HD - Gamblers 2K](https://www.nexusmods.com/newvegas/mods/84445?tab=files)**
 
-**Installation:**
+- **Main Files - [Clothes HD - Prewar 2K](https://www.nexusmods.com/newvegas/mods/84460?tab=files)**
 
-- **Main Files - Clothes HD - Kings 2K**
+- **Main Files - [Clothes HD - Great Khans 2K](https://www.nexusmods.com/newvegas/mods/84476?tab=files)**
 
+- **Main Files - [Clothes HD - Powder Gangers 2K](https://www.nexusmods.com/newvegas/mods/84483?tab=files)**
 
-### [Clothes HD - Gamblers](https://www.nexusmods.com/newvegas/mods/84445)
-
-A HD improvement of clothing used by the Strip gamblers.
-
-**Installation:**
-
-- **Main Files - Clothes HD - Gamblers 2K**
-
-
-### [Clothes HD - Prewar](https://www.nexusmods.com/newvegas/mods/84460)
-
-A HD improvement of pre-war clothing found all around New Vegas. 
-
-**Installation:**
-
-- **Main Files - Clothes HD - Prewar 2K**
-
-
-### [Clothes HD - Great Khans](https://www.nexusmods.com/newvegas/mods/84476)
-
-A HD improvement of clothing used by Great Khans. 
-
-**Installation:**
-
-- **Main Files - Clothes HD - Great Khans 2K**
-
-
-### [Clothes HD - Powder Gangers](https://www.nexusmods.com/newvegas/mods/84483)
-
-A HD improvement of clothing used by the Powder Gangers. 
-
-**Installation:**
-
-- **Main Files - Clothes HD - Powder Gangers 2K**
-
-
-### [Clothes HD - Doctors](https://www.nexusmods.com/newvegas/mods/84497)
-
-A HD improvement of clothing used by doctors and scientists. 
-
-**Installation:**
-
-- **Main Files - Clothes HD - Doctors 2K**
+- **Main Files - [Clothes HD - Doctors 2K](https://www.nexusmods.com/newvegas/mods/84497?tab=files)**
 
 
 ### [Atompunk Leather Armor - HD Retexture](https://www.nexusmods.com/newvegas/mods/83048)
@@ -256,9 +207,9 @@ AVCCA - is a replacer of a model of classic helmets with an animated visor.
 
 **[Select the below]**
 
-- Main
+> - [x] Main
 
-- Classic Combat Armor Replacer Redux
+> - [x] Classic Combat Armor Replacer Redux
 
 :::
 

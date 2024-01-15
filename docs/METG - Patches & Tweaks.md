@@ -1,8 +1,8 @@
-# METG - Patches
+# METG - Patches & Tweaks
 
 ---
 
-### METG - Patches & Tweaks
+### METG - Patches
 
 This will contain various patches for the textures in this guide.
 
@@ -14,7 +14,8 @@ This will contain various patches for the textures in this guide.
 
 Pick the **patches** that are relevant to you. Read the requirements carefully.
 
-**List of mods with patches included in the installer:**
+<details>
+<summary> List of mods with patches included in the installer: </summary>
 
 - SSTRemasteredQuarries (ESMified)
 
@@ -37,6 +38,8 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 - MEG - Iron Sight Alignment WAP Patch
 
 **>Install**
+
+</details>
 
 :::
 
@@ -104,7 +107,6 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
 You will also need to move **Aqua Performa - Strip Performance Fix** below the **METG - FNVLODGen Output** above.
 
 ```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:"
-
 [TerrainManager]
 ; Increases the maximum distance of LOD  
 fBlockLoadDistanceLow=100000  
@@ -113,5 +115,4 @@ fBlockLoadDistance=250000
 [SpeedTree]
 ; Makes flora use the full objects instead of LOD, this negates pop-in  
 bForceFullLOD=1  
-
 ```

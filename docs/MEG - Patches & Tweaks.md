@@ -14,7 +14,7 @@ A skeleton with compatibility for the latest mods. You would have installed this
 
 :::info On the left pane in MO2:
 
-Drag **NV Compatibility Skeleton** installed previously from **Viva New Vegas** below the newly created separator. This mod should be as low as possible in your modlist.
+> Drag **NV Compatibility Skeleton** installed previously from **Viva New Vegas** below the newly created separator. This mod should be as low as possible in your modlist.
 
 :::
 
@@ -31,7 +31,7 @@ You will need to download the below now as it needs to be below all your other m
 
 **[Consistent Pip-Boy Icons - Mod Patches]**
 
-- Keep the default boxes checked
+> - [x] Keep the default boxes checked
 
 **> Install**
 
@@ -49,17 +49,24 @@ This will contain all the patches you need for the Mojave Express Guide.
 
 Pick the **patches** that are relevant to you. Read the requirements carefully.
 
-**List of mods with patches included in the installer:**
+<details>
+<summary> List of mods with patches included in the installer: </summary>
 
-- Vanilla Enhancements
+- Landscape Texture Improvements - NVLORR Patch
 
-- Uncut Wasteland
+- Landscape Texture Improvements - AWOLP Patch
 
-- Character Expansions Revised
+- EVEM - Another Millenia Patch
 
-- FPGE Patches
+- EVEM - Supplemental Ammo Patch
 
-- B42 Dropmag
+- Uncut Wasteland - NV Interiors Remastered Patch
+
+- FPGE - New Vegas Landscape Overhaul Re-Remastered Patch
+
+- Character Expansions Revised Patches
+
+- B42 Dropmag Fixed Meshes Patch
 
 - Famine Cyberware Patch - Credit to PlasticPotatoes on nexus
 
@@ -67,18 +74,19 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 - JSRS 2.0 FNV + Another Millenia Sound Patch - Credit to MesserAR on nexus
 
-- Iron Sight Alignment Config
+- Iron Sight Alignment Patch
 
 **>Install**
+
+</details>
 
 :::
 
 <br />
 
-
 ### MEG - Tweaks
 
-My custom set of tweaks that I use.
+My custom set of tweaks that I use designed for Mojave Express Guide.
 
 **Installation:**
 
@@ -88,7 +96,8 @@ My custom set of tweaks that I use.
 
 Pick the **tweaks** that you would like and make sure to read the description of them in the FOMOD:
 
-**List of tweaks included in the installer:**
+<details>
+<summary> List of tweaks included in the installer: </summary>
 
 - MEG - JIP LN NVSE Config
 
@@ -111,6 +120,8 @@ Pick the **tweaks** that you would like and make sure to read the description of
 - MEG - Contextual HUD Config
 
 **>Install**
+
+</details>
 
 :::
 
@@ -140,7 +151,7 @@ If you have downloaded **Viva New Vegas** with **Wabbajack** you will already ha
 
 :::tip Note: 
 
-Alternatively you can download pregenerated LOD which I generated with all of the mods in VNV + MEG using the texture guide. You will still need to download and install the below mods in the order presented!
+> Alternatively you can download pregenerated LOD which I generated with all of the mods in VNV + MEG using the texture guide. You will still need to download and install the below mods in the order presented!
 
 :::
 
@@ -182,7 +193,8 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
 
 :::
 
-```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:"
+
+```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:" showLineNumbers
 
 [TerrainManager]
 ; Increases the maximum distance of LOD  

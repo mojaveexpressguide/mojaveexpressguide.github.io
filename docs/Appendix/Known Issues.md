@@ -14,7 +14,7 @@ sidebar_position: 1
 
 **B42 Notify not working?** - On a new save B42 Notify will not work initially this is because the B42 script only works on game load. All you need to do is save the game, restart and then load the save. 
 
-## Added Mod Issues:
+### Added Additional Mod Issues:
 
 **B42 Bows and KARPSOL:** - If you decide to add B42 Bows to the game, when an npc or yourself has both a bow and a poncho equipped the game will crash. 
 

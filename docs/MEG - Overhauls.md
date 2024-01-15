@@ -40,13 +40,13 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 
 **[Visual Pack]**
 
-- Titans of Steel
+> - [x] Titans of Steel
 
 **> Next**
 
 **[Sprint Animation Addon]**
 
-- Do Not Install
+> - [x] Do Not Install
 
 **> Install**
 
@@ -149,6 +149,6 @@ Visual overhaul of characters' faces, vanilla aesthetics.
 
 :::tip Note:
 
-- Do not download the patches on these pages. They are already covered in **MEG - Patches** later on in the guide.
+> Do not download the patches on these pages. They are already covered in **MEG - Patches** later on in the guide.
 
 :::

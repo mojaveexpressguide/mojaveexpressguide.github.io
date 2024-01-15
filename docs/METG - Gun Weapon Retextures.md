@@ -175,41 +175,13 @@ A compilation pack of high quality gun replacers. Include unreleased (so far) we
 
 - **Main Files - [Gauss Rifle Texture Tweak](https://www.nexusmods.com/newvegas/mods/79825/?tab=files)**
 
+- **Main Files - [WAP Bozar and LMG - Main file](https://www.nexusmods.com/newvegas/mods/78498?tab=files)**
 
-### [WAP Bozar and LMG](https://www.nexusmods.com/newvegas/mods/78498?tab=description) ![](../static/img/Performance.png)
+- **Main Files - [WAP Lever Action Shotgun](https://www.nexusmods.com/newvegas/mods/80223?tab=files)**
 
-high quality replacer for Bozar and Light Machine Gun.
+- **Main Files - [WAP Single Shotgun](https://www.nexusmods.com/newvegas/mods/83112?tab=files)**
 
-**Installation:**
-
-- **Main Files - WAP Bozar and LMG - Main file**
-
-
-### [WAP Lever Action Shotgun](https://www.nexusmods.com/newvegas/mods/80223?tab=description) ![](../static/img/Performance.png)
-
-high quality replacer for lever action shotgun.
-
-**Installation:**
-
-- **Main Files - WAP Lever Action Shotgun**
-
-
-### [WAP Single Shotgun](https://www.nexusmods.com/newvegas/mods/83112) ![](../static/img/Performance.png)
-
-Replaces single shotgun with new mesh and textures. 
-
-**Installation:**
-
-- **Main Files - WAP Single Shotgun**
-
-
-### [WAP 12.7 SMG Rebirth](https://www.nexusmods.com/newvegas/mods/73194) ![](../static/img/Performance.png)
-
-A new high quality custom mesh and texture as replacer for both version of the 12.7 SMG.
-
-**Installation:**
-
-- **Main Files - 12.7 SMG - 2K**
+- **Main Files - [12.7 SMG - 2K](https://www.nexusmods.com/newvegas/mods/73194?tab=files)**
 
 - **Main Files - Reticle Texture fix**
 
@@ -224,13 +196,21 @@ Select the **Filetree** tab and find the file `127 SMG Rebirth.esp` then right c
 :::
 
 
-### [Laser Rifle Rebirth](https://www.nexusmods.com/newvegas/mods/72759) ![](../static/img/Performance.png)
+### [WAP F4NV Recharger Weaponry](https://www.nexusmods.com/newvegas/mods/82044?tab=description) ![](../static/img/Performance.png)
 
-New mesh/textures for vanilla laser rifle and aer14 prototype.
+High quality replacer for the recharger weapons.
 
 **Installation:**
 
-- **Main Files - Laser Rifle Replacer**
+- **Main Files - WAP F4NV Recharger Weaponry - Main file**
+
+- **Main Files - [WAP Laser RCW - Main File](https://www.nexusmods.com/newvegas/mods/78373?tab=files)**
+
+- **Main Files - [WAP F4NV Laser Pistol](https://www.nexusmods.com/newvegas/mods/80600?tab=files)**
+
+- **Main Files - [Laser Pistol 3rd person latch animation fix](https://www.nexusmods.com/newvegas/mods/80657?tab=files)**
+
+- **Main Files - [Laser Rifle Replacer](https://www.nexusmods.com/newvegas/mods/72759?tab=files)**
 
 :::info Double-click Laser Rifle Rebirth:
 
@@ -241,35 +221,6 @@ Select the **Filetree** tab and find the file `LaserRifleReplacer.esp` then righ
 ```
 
 :::
-
-
-### [WAP Laser RCW](https://www.nexusmods.com/newvegas/mods/78373) ![](../static/img/Performance.png)
-
-high quality replacer for the Laser RCW.
-
-**Installation:**
-
-- **Main Files - WAP Laser RCW - Main File**
-
-
-### [WAP F4NV Recharger Weaponry](https://www.nexusmods.com/newvegas/mods/82044?tab=description) ![](../static/img/Performance.png)
-
-High quality replacer for the recharger weapons.
-
-**Installation:**
-
-- **Main Files - WAP F4NV Recharger Weaponry - Main file**
-
-
-### [WAP F4NV Laser Pistol and Pew-Pew](https://www.nexusmods.com/newvegas/mods/80600?tab=description) ![](../static/img/Performance.png)
-
-A F4NV replacer for the vanilla Laser Pistol (include GRA version) and PEW PEW.
-
-**Installation:**
-
-- **Main Files - WAP F4NV Laser Pistol**
-
-- **Main Files - [Laser Pistol 3rd Person Latch animation fix](https://www.nexusmods.com/newvegas/mods/80657?tab=files)**
 
 
 ### [Physically Based Plasma Rifles](https://www.nexusmods.com/newvegas/mods/83883) ![](../static/img/Performance.png)

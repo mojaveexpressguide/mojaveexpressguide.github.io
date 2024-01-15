@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # MEG - User Interface
 
 ---
@@ -39,7 +35,7 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 **[Addons]**
 
-- Keep the default boxes checked
+> - [x] Keep the default boxes checked
 
 **> Install**
 
@@ -58,7 +54,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 **[Clean Vanilla Hud]**
 
-- Keep the default boxes checked
+> - [x] Keep the default boxes checked
 
 **> Install**
 
@@ -81,11 +77,11 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 **[Pop-Up Message Icons!]**
 
-- Extension - Hunger, Dehydration, Sleep and Radiation
+> - [x] Extension - Hunger, Dehydration, Sleep and Radiation
 
-- Extension - Reputation
+> - [x] Extension - Reputation
  
-- Extension - Challenges
+> - [x] Extension - Challenges
 
 **> Install**
 
@@ -113,13 +109,13 @@ An Overhaul of all messages across both Wastelands. Changes all non-interactive 
 
 **[Shuddup Preset]**
 
-- Minimal
+> - [x] Minimal
 
 **> Next**
 
 **[SayThis Preset]**
 
-- First Person
+> - [x] First Person
 
 **> Next**
 
