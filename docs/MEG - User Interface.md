@@ -64,14 +64,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 - **Main Files - [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)**
 
-
-### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
-
-"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV. 
-
-**Installation:**
-
-- **Main Files - Pop-Up Message Icons**
+- **Main Files - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516?tab=files)**
 
 :::info In the installer:
 
@@ -96,14 +89,7 @@ Notifications! Or, in other words, shows more than one message at a time!
 
 - **Main Files - B42 Notify**
 
-
-### [Shuddup and SayThis - A Message Overhaul](https://www.nexusmods.com/newvegas/mods/83666)
-
-An Overhaul of all messages across both Wastelands. Changes all non-interactive or conditional messages into corner messages to prevent pop-ups.
-
-**Installation:**
-
-- **Main Files - Shuddup and SayThis**
+- **Main Files - [Shuddup and SayThis](https://www.nexusmods.com/newvegas/mods/83666?tab=files)**
 
 :::info In the installer:
 

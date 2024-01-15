@@ -34,8 +34,6 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 
 - **Main Files - Titans of The New West**
 
-- **Optional Files - ATTT Compatibility Files**
-
 :::info In the installer:
 
 **[Visual Pack]**
@@ -52,14 +50,9 @@ Version 2.0 of classic style heavy power armor mod that adds lots of new feature
 
 :::
 
+- **Optional Files - ATTT Compatibility Files**
 
-### [Power Armor Visual Enhancement (PAVE)](https://www.nexusmods.com/newvegas/mods/74786)
-
-Custom high resolution textures for all the power armors in NV and TTW/F3. 
-
-**Installation:**
-
-- **Main Files - Power Armor Visual Enhancement 2K**
+- **Main Files - [Power Armor Visual Enhancement 2K](https://www.nexusmods.com/newvegas/mods/74786?tab=files)**
 
 - **Update Files - PAVE Compatibility Plugins**
 

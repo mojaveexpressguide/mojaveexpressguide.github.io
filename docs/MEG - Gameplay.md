@@ -45,20 +45,9 @@ A collection of useful mods, merged for convenience.
 
 - **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
 
-:::info On the left pane in MO2:
+- **Main Files - [New Sprint animations for JAM](https://www.nexusmods.com/newvegas/mods/74839?tab=files)**
 
-> Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
-
-:::
-
-
-### [Just Sprint Plus - Expansion for JAM and JVS](https://www.nexusmods.com/newvegas/mods/83797)
-
-Addon package for JAM/JVS that includes new features, animations, gameplay options, and 360 movement support. 
-
-**Installation:**
-
-- **Main Files - Just Sprint Plus - Expansion for JAM and JVS**
+- **Main Files - [Just Sprint Plus - Expansion for JAM and JVS](https://www.nexusmods.com/newvegas/mods/83797?tab=files)**
 
 :::info In the installer:
 
@@ -70,14 +59,13 @@ Addon package for JAM/JVS that includes new features, animations, gameplay optio
 
 :::
 
+- **Main Files - [JBT Improved 1.01](https://www.nexusmods.com/newvegas/mods/78324?tab=files)**
 
-### [Bullet Time Improved - a JAM addon](https://www.nexusmods.com/newvegas/mods/78324)
+:::info On the left pane in MO2:
 
-An addon for Just Assorted Mods that adds some new features for Just Bullet Time.
+> Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
 
-**Installation:**
-
-- **Main Files - JBT Improved 1.01**
+:::
 
 
 ### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
