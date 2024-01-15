@@ -94,15 +94,6 @@ Plays animations when interacting with objects, opening/closing doors and pickin
 - **Main Files - Vanilla Animations Weapon Scale Fix**
 
 
-### [JAM or Just Sprint animation replacers](https://www.nexusmods.com/newvegas/mods/74839)
-
-New sprint animations for JAM/Just Sprint, compatible and recommended to use with weapon animation mods
-
-**Installation:**
-
-- **Main Files - New Sprint animations for JAM**
-
-
 ### [FNV Clean Animations](https://www.nexusmods.com/newvegas/mods/77429)
 
 FNV Clean Animations. Smooth with vanilla-ish timings & balance.
