@@ -60,6 +60,18 @@ Overhauls the visuals for main bodies of water in New Vegas. TTW compatible.
 
 - **Main Files - Nut Water Overhaul**
 
+:::info In the installer:
+
+**[Plugin Or Script]**
+
+> - [x] Scriptrunner
+
+**> Next**
+
+**> Install**
+
+:::
+
 
 ### [Simple Main Menu HD](https://www.nexusmods.com/newvegas/mods/64931)
 
