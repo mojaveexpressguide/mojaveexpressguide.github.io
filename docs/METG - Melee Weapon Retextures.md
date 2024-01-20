@@ -89,7 +89,9 @@ Complete model and texture replacement for Super Sledge & Super Sledge Unique (O
 Select the **Filetree** tab and find the files `SuperSledgebyWJS_Collection.esp` & `SuperSledgebyWJS_Replacer.esp` then right click and select **Hide**.
 
 ```
-📄 LaserRifleReplacer.esp  ⟵ right click and select Hide
+📄 SuperSledgebyWJS_Collection.esp  ⟵ right click and select Hide
 ```
-
+```
+📄 SuperSledgebyWJS_Replacer.esp  ⟵ right click and select Hide
+```
 :::
