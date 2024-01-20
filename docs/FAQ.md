@@ -37,19 +37,27 @@ I would not recommend enb's as they can cause large performance drops and have o
 
 Yes, firstly download a Reshade preset and place the ini file in your FNV root folder. I personally recommend [Vibrance](https://www.nexusmods.com/newvegas/mods/76715) or [Aura](https://www.nexusmods.com/newvegas/mods/79839).
 
-Download "Reshade 5.9.0 with full add-on support" from here.
+:::info Installation:
+
+- Download and extract the ini file to your FNV root folder.
+
+:::
+
+- **Main Files - [Reshade 6.0.0 with full add-on support](https://reshade.me/#download)**
 
 :::info In the installer:
 
-- Keep the default boxes checked
+> - [x]  Select **FalloutNV.exe**.
 
 **> Next**
 
-- Select **DirectX 9**. Unless you have DXVK then select **Vulkan**.
+> - [x]  Select **DirectX 9**. Unless you installed DXVK then select **Vulkan**.
 
 **> Next**
 
-- Click browse and select your reshade preset file ini that you placed in your FNV root folder.
+> - [x]  Click **Browse...** at the bottom and select your reshade preset file ini that you placed in your FNV root folder.
+
+**> Next**
 
 **> Finish**
 
