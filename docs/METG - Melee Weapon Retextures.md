@@ -90,7 +90,8 @@ Select the **Filetree** tab and find the files `SuperSledgebyWJS_Collection.esp`
 
 ```
 📄 SuperSledgebyWJS_Collection.esp  ⟵ right click and select Hide
+```
+```
 📄 SuperSledgebyWJS_Replacer.esp  ⟵ right click and select Hide
 ```
-
 :::
