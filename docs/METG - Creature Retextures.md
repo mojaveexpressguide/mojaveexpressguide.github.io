@@ -31,7 +31,7 @@ This mod ports TheFriedTurkey's bighorner model from Fallout 4 and puts it into 
 
 ### [Feral Ghouls HD](https://drive.google.com/file/d/1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_/view)
 
-This mod ports TheFriedTurkey's bighorner model from Fallout 4 and puts it into the original New Vegas. 
+A hd renewal of Feral Ghouls.
 
 **Installation:**
 
@@ -40,7 +40,7 @@ This mod ports TheFriedTurkey's bighorner model from Fallout 4 and puts it into 
 
 ### [Ghouls HD](https://drive.google.com/file/d/1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv/view)
 
-This mod ports TheFriedTurkey's bighorner model from Fallout 4 and puts it into the original New Vegas. 
+A hd renewal of Ghouls HD.
 
 **Installation:**
 

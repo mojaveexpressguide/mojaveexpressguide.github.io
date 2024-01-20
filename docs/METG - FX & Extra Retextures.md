@@ -60,6 +60,16 @@ Overhauls the visuals for main bodies of water in New Vegas. TTW compatible.
 
 - **Main Files - Nut Water Overhaul**
 
+:::info In the installer:
+
+**[Plugin Or Script]**
+
+> - [x] Scriptrunner
+
+**> Install**
+
+:::
+
 
 ### [Simple Main Menu HD](https://www.nexusmods.com/newvegas/mods/64931)
 
@@ -135,11 +145,11 @@ Vibrance is a ReShade preset that enhances the colours and adds more vibrance (h
 
 :::
 
-- **Main Files - [Reshade 5.9.2 with full add-on support](https://reshade.me/#download)**
+- **Main Files - [Reshade 6.0.0 with full add-on support](https://reshade.me/#download)**
 
 :::info In the installer:
 
-- Keep the default boxes checked
+> - [x]  Select **FalloutNV.exe**.
 
 **> Next**
 
@@ -147,13 +157,15 @@ Vibrance is a ReShade preset that enhances the colours and adds more vibrance (h
 
 **> Next**
 
-> - [x]  Click browse and select your reshade preset file ini that you placed in your FNV root folder.
+> - [x]  Click **Browse...** at the bottom and select your reshade preset file ini that you placed in your FNV root folder.
+
+**> Next**
 
 **> Finish**
 
 :::
 
-:::info If you installed Special K from the [performance guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters) and are getting a black screen:
+:::info If you installed Special K from the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters) and are getting a black screen:
 
 Run the reshade installer you used and uninstall reshade. Then go to C:\ProgramData\Reshade and copy ReShade32.dll and put it in your FNV root folder.
 

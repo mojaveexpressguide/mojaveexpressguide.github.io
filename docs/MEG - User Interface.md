@@ -101,11 +101,13 @@ Notifications! Or, in other words, shows more than one message at a time!
 
 **[SayThis Preset]**
 
-> - [x] First Person
+> - [x] None
 
 **> Next**
 
-**> Next**
+**[Shuddup Minimal - Mods]**
+
+> - [x] Keep the default boxes checked
 
 **> Install**
 
