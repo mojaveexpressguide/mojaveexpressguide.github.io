@@ -10,12 +10,12 @@ You will now be ready to play the game. There are a variety of tweaks and settin
 
 ### Mod Configuration Menu:  
 
-When in game, enter the pause menu and press **"M"** to open up the **Mod Configuration Menu**. Mods that support it will allow you to configure some variables to your liking.
+When in game > enter the pause menu and press **"M"** to open up the **Mod Configuration Menu**. Mods that support it will allow you to configure some variables to your liking.
 
 
 ### Stewie's Tweaks:
 
-When in game, enter the pause menu, go to **Settings** and then **Tweaks**. There's a large selection of tweaks to pick from but you will need to restart your game for these to take effect.
+When in game > enter the pause menu > go to **Settings** and then **Tweaks**. There's a large selection of tweaks to pick from but you will need to restart your game for these to take effect.
 
 
 ### MO2 INI Files:
