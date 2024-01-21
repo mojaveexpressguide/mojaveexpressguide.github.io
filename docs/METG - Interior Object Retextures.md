@@ -11,6 +11,17 @@ Vaults retextured in the vanilla style. Based on upscaled base game textures.
 - **Main Files - Inviting Vaults**
 
 
+### [Scout's Random Mods](https://www.nexusmods.com/newvegas/mods/80469)
+
+Vaults retextured in the vanilla style. Based on upscaled base game textures.
+
+**Installation:**
+
+- **Main Files - facrmfloor01**
+
+- **Main Files - nv_craftsmanhomesinterior**
+
+
 ### [McCarran main terminal transparent glass](https://www.nexusmods.com/newvegas/mods/69041)
 
 Simple mesh replacer to get the glass transparent in the main terminal of the McCarran Airport. Only mesh replacement, no .esp files! no conflicts! no performance issue! 

@@ -25,23 +25,6 @@ Select the **Filetree** tab and find the folders `textures\sky` & `textures\wate
 
 :::
 
-### [HQ Ash Piles](https://www.nexusmods.com/newvegas/mods/82566)
-
-Entirely new texture for the ash pile that you see every time you murder someone with an energy weapon. 
-
-**Installation:**
-
-- **Main Files - Ash Piles**
-
-
-### [HQ Goo Piles](https://www.nexusmods.com/newvegas/mods/82567)
-
-HQ Goo Piles 
-
-**Installation:**
-
-- **Main Files - Goo**
-
 
 ### [ETJ Realistic Enhanced Blood Textures](https://www.nexusmods.com/newvegas/mods/76113)
 

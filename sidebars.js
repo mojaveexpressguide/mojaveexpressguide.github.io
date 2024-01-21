@@ -63,7 +63,6 @@ const sidebars = {
       "METG - Architecture & Exterior Object Retextures",
       "METG - Interior Object Retextures",
       "METG - Clutter Retextures",
-      "METG - Small Items Retextures",
       "METG - Signs & Decals Retextures",
       "METG - Clothing & Armour Retextures",
       "METG - Gun Weapon Retextures",
