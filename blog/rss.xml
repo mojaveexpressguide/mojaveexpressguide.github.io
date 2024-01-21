@@ -4,10 +4,19 @@
         <title>Mojave Express Guide Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>Mojave Express Guide Blog</description>
-        <lastBuildDate>Sat, 13 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[21/01/2024 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/2024-01-21-Changelog</link>
+            <guid>https://www.mojaveexpressguide.com/blog/2024-01-21-Changelog</guid>
+            <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[METG - 1.2 Update]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="metg---12-update">METG - 1.2 Update<a href="#metg---12-update" class="hash-link" aria-label="Direct link to METG - 1.2 Update" title="Direct link to METG - 1.2 Update">​</a></h3><p>Trimming down again.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="metg---interior-object-retextures">METG - Interior Object Retextures<a href="#metg---interior-object-retextures" class="hash-link" aria-label="Direct link to METG - Interior Object Retextures" title="Direct link to METG - Interior Object Retextures">​</a></h3><ul><li><strong>Added:</strong> Scout's Random Mods</li><li><strong>Removed:</strong> HQ Metal Barrels - (Ones from physically based collection are better)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="metg---clutter-retextures">METG - Clutter Retextures<a href="#metg---clutter-retextures" class="hash-link" aria-label="Direct link to METG - Clutter Retextures" title="Direct link to METG - Clutter Retextures">​</a></h3><ul><li><strong>Removed:</strong> Blackwolf24s HD Clutter Pack 2 - (some ugly textures that have already been replaced anyway)</li><li><strong>Removed:</strong> Assorted Cafeteria Textures - (6ixes clutter textures already covers and is better)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="metg---small-items-retextures">METG - Small Items Retextures<a href="#metg---small-items-retextures" class="hash-link" aria-label="Direct link to METG - Small Items Retextures" title="Direct link to METG - Small Items Retextures">​</a></h3><ul><li><strong>Removed:</strong> Better Books - Fallout3NV - (6ixes clutter textures already covers and is better)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="metg---fx--extra-retextures">METG - FX &amp; Extra Retextures<a href="#metg---fx--extra-retextures" class="hash-link" aria-label="Direct link to METG - FX &amp; Extra Retextures" title="Direct link to METG - FX &amp; Extra Retextures">​</a></h3><ul><li><p><strong>Removed:</strong> HQ Ash Piles - (Ones from EXE are probably better)</p></li><li><p><strong>Removed:</strong> HQ Goo Piles - (Ones from EXE are probably better)</p></li><li><p><strong>Combined:</strong> METG - Small Items Retextures into METG - Clutter Retextures</p></li></ul>]]></content:encoded>
+            <category>December</category>
+        </item>
         <item>
             <title><![CDATA[13/01/2024 Update]]></title>
             <link>https://www.mojaveexpressguide.com/blog/2024-01-13-Changelog</link>
