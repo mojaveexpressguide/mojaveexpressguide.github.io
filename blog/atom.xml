@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Guide Blog</title>
-    <updated>2024-01-21T00:00:00.000Z</updated>
+    <updated>2024-01-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Guide Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[24/01/2024 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/2024-01-24-Changelog</id>
+        <link href="https://www.mojaveexpressguide.com/blog/2024-01-24-Changelog"/>
+        <updated>2024-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEG - Update 3.7]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---update-37">MEG - Update 3.7<a href="#meg---update-37" class="hash-link" aria-label="Direct link to MEG - Update 3.7" title="Direct link to MEG - Update 3.7">​</a></h3><p>Small Update.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---user-interface">MEG - User Interface<a href="#meg---user-interface" class="hash-link" aria-label="Direct link to MEG - User Interface" title="Direct link to MEG - User Interface">​</a></h3><ul><li><strong>Removed: Contextual HUD</strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---visuals">MEG - Visuals<a href="#meg---visuals" class="hash-link" aria-label="Direct link to MEG - Visuals" title="Direct link to MEG - Visuals">​</a></h3><ul><li><strong>Removed: Dynamic Depth-Of-Field - ESPless</strong> - (Again)</li><li><strong>Added: Weapon DOF and Blur Effects</strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---animations">MEG - Animations:<a href="#meg---animations" class="hash-link" aria-label="Direct link to MEG - Animations:" title="Direct link to MEG - Animations:">​</a></h3><ul><li><strong>Removed: Weapon FPS Lowering</strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---audio">MEG - Audio<a href="#meg---audio" class="hash-link" aria-label="Direct link to MEG - Audio" title="Direct link to MEG - Audio">​</a></h3><ul><li><strong>Removed: A Music Addition Project</strong></li><li><strong>Added: A Music Addition - Revised</strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches--tweaks">MEG - Patches &amp; Tweaks<a href="#meg---patches--tweaks" class="hash-link" aria-label="Direct link to MEG - Patches &amp; Tweaks" title="Direct link to MEG - Patches &amp; Tweaks">​</a></h3><ul><li><strong>Updated: MEG - Loadorder</strong></li><li><strong>Updated: MEG - Tweaks</strong> - (Removed Contextual HUD Config, Changed B42 Lean to mouse 4 and 5 again)</li></ul>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="December" term="December"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21/01/2024 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/2024-01-21-Changelog</id>

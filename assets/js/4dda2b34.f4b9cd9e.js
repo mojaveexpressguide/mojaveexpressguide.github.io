@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmojaveexpressguide=self.webpackChunkmojaveexpressguide||[]).push([[6422],{2961:e=>{e.exports=JSON.parse('{"label":"December","permalink":"/blog/tags/december","allTagsPath":"/blog/tags","count":4}')}}]);
