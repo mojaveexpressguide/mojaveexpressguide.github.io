@@ -37,15 +37,6 @@ New fresh pipboy animations. Choose male or female depending on what you play.
 - **Main Files - Male Anim A**
 
 
-### [FPS Weapon Lowering](https://www.nexusmods.com/newvegas/mods/80995)
-
-Proper weapon lowering mechanic! 3 different lowering modes.
-
-**Installation:**
-
-- **Main Files - FPS Lowering Weapons**
-
-
 ### [B42 Interact - Animated Items and Interactions Framework - ESPless](https://www.nexusmods.com/newvegas/mods/83119)
 
 Touch things, shake doors, boop terminals, rip and tear - you decide.

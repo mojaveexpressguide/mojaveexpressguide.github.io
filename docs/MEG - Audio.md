@@ -26,19 +26,19 @@ Replaces the low-quality soundtrack from the classic Fallout games with high-qua
 - **Main Files - High-Quality Classic Music**
 
 
-### [A Music Addition Project](https://www.nexusmods.com/newvegas/mods/78248)
+### [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554)
 
-This Mod overhauls the music in both NV and TTW and expands both of the regions with lore friendly, classic Fallout tracks.
+Just like the original mods, this mod adds music and (working!) radio songs on top of the original soundtrack. Now revised with fixes, new additions and once again available for TTW and NV. 
 
 **Installation:**
 
-- **Main Files - A Music Addition Project**
+- **Main Files - A Music Addition - Revised**
 
 :::info In the installer:
 
 **[Plugins]**
 
-> - [x] NV - no radio
+> - [x] New Vegas Full
 
 **> Install**
 

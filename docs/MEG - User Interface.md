@@ -123,17 +123,6 @@ Simple mashup of iFO4HUD with New Vegas HUD elements, and CPI icons.
 - **Main Files - Simplified FO4 HUD**
 
 
-### [Contextual HUD](https://www.nexusmods.com/newvegas/mods/77631)
-
-HUD elements will only show under certain conditions, configurable via an INI. A modern spiritual successor to Immersive HUD.
-
-**Installation:**
-
-- **Main Files - Contextual HUD**
-
-- **Optional Files - Contextual HUD - Clean Vanilla HUD Patch**
-
-
 ### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
 
 Displays remaining duration of consumed Aid items on the HUD.

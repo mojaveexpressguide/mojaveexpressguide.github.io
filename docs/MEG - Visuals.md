@@ -8,13 +8,13 @@ sidebar_position: 9
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
-### [Dynamic Depth-Of-Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796)
+### [Weapon DOF and Blur Effects](https://www.nexusmods.com/newvegas/mods/76064)
 
-Scriptrunner which adds a smooth, physically simulated depth-of-field effect when aiming down the sights. 
+Adds options for a light radial blur effect when aiming down sights, and subtle close DOF on the equipped weapon. Configurable. 
 
 **Installation:**
 
-- **Main Files - Dynamic Depth-Of-Field - ESPless - Reloads**
+- **Main Files - Weapon DOF and Blur Effects**
 
 
 ### [IMPACT](https://www.nexusmods.com/newvegas/mods/57113)
