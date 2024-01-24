@@ -17,5 +17,3 @@ sidebar_position: 1
 ### Added Additional Mod Issues:
 
 **B42 Bows and KARPSOL:** - If you decide to add B42 Bows to the game, when an npc or yourself has both a bow and a poncho equipped the game will crash. 
-
-**Contextual Hud & JIP Companions Command and Control.** - If your interaction prompts disappear then this is why. You can mess with the Anti-Overlap setting in JIP CCC's MCM and that may fix it.

@@ -10,19 +10,19 @@ tags: [December]
 Small Update.
 
 ### MEG - User Interface
-- **Removed: Contextual HUD**
+- **Removed:** Contextual HUD
 
 ### MEG - Visuals
-- **Removed: Dynamic Depth-Of-Field - ESPless** - (Again)
-- **Added: Weapon DOF and Blur Effects**
+- **Removed:** Dynamic Depth-Of-Field - ESPless - (Again)
+- **Added:** Weapon DOF and Blur Effects
 
 ###  MEG - Animations:
-- **Removed: Weapon FPS Lowering**
+- **Removed:** Weapon FPS Lowering
 
 ### MEG - Audio
-- **Removed: A Music Addition Project**
-- **Added: A Music Addition - Revised**
+- **Removed:** A Music Addition Project
+- **Added:** A Music Addition - Revised
 
 ### MEG - Patches & Tweaks
-- **Updated: MEG - Loadorder**
-- **Updated: MEG - Tweaks** - (Removed Contextual HUD Config, Changed B42 Lean to mouse 4 and 5 again)
+- **Updated:** MEG - Loadorder
+- **Updated:** MEG - Tweaks - (Removed Contextual HUD Config, Changed B42 Lean to mouse 4 and 5 again)
