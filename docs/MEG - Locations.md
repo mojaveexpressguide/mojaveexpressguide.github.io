@@ -82,22 +82,3 @@ A small unmarked quest featuring a large dungeon with tons of new, custom assets
 **Installation:**
 
 - **Main Files - Lucky Jim's Cache 1.1**
-
-
-### [A Very Uncreative Collection of Mod Patches](https://www.nexusmods.com/newvegas/mods/78465)
-
-A collection of compatibility patches.
-
-**Installation:**
-
-- **A Very Uncreative Collection of FPGE Patches**
-
-:::info In the installer:
-
-**[Patches]**
-
-> - [x] NV Interiors Remastered
-
-**> Install**
-
-:::
