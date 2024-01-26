@@ -20,9 +20,9 @@ Please read the mod pages before downloading any mods to give you an idea of wha
 
 :::tip Note:
 
-![](../static/img/Difficulty.png) ** - Mods marked with this increase difficulty noticable.**
+![](../static/img/Difficulty.png) **- Mods marked with this increase difficulty noticeably.**
 
-![](../static/img/Performance.png) ** - Mods marked with this have a noticable performance impact.**
+![](../static/img/Performance.png) **- Mods marked with this have a noticeable performance impact.**
 
 :::
 
