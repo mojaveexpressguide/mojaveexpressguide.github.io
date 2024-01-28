@@ -82,23 +82,6 @@ Adds the Super Mutant Suicider enemies from Fallout 4.
 - **Main Files -  Super Mutant Suiciders**
 
 
-### [Cyberware 2281](https://mod.pub/falloutnv/15/files)
-
-Adds modern project nevada style cyberware.
-
-**Installation:**
-
-- **Main Files - Cyberware 2281 1.3.3**
-
-:::info Installation:
-
-> Download and install manually in **MO2**
-
-:::
-
-- **Main Files - [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655?tab=files)**
-
-
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
 Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 

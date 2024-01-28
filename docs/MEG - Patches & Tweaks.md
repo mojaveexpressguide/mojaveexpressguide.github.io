@@ -64,11 +64,9 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 - FPGE - New Vegas Landscape Overhaul Re-Remastered Patch
 
-- Character Expansions Revised Patches
+- Auto Activate Invisible Doors - AWOLP Patch
 
 - B42 Dropmag Fixed Meshes Patch
-
-- Famine Cyberware Patch - Credit to PlasticPotatoes on nexus
 
 - RAD - Radiation (is) Actually Dangerous - Overhaul - with Injection Fix - Credit to Nechigawara on nexus
 

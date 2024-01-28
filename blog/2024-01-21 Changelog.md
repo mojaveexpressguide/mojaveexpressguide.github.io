@@ -2,7 +2,7 @@
 slug: 2024-01-21-Changelog
 title: 21/01/2024 Update
 authors: Biggie404
-tags: [December]
+tags: [January]
 ---
 
 ### METG - 1.2 Update

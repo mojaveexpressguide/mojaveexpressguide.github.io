@@ -94,15 +94,6 @@ New pip-boy hud using the West Tek Holographic Control Panel to navigate menu wh
 - **Main Files - [Hit - Power Armor Pip-Boy Anim](https://www.nexusmods.com/newvegas/mods/84046?tab=files)**
 
 
-### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745) ![](../static/img/Difficulty.png)
-
-Simple kNVSE implementation of combat sprinting for melee NPCs 
-
-**Installation:**
-
-- **Main Files -  NPCs Sprint kNVSE - ESPless (TOTNW2.0)**
-
-
 ### [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985) ![](../static/img/Difficulty.png)
 
 A simple and comprehensive loot scarcity mod using event-based scripting. Trust us. Bring a magazine.
@@ -130,7 +121,7 @@ Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configura
 - **Main Files - Ghouls Inflict Radiation Damage**
 
 
-### [Character Expansions Revised](https://www.nexusmods.com/newvegas/mods/64862?tab=description)
+### [Character Expansions Revised](https://www.nexusmods.com/newvegas/mods/64862)
 
 Visual overhaul of characters' faces, vanilla aesthetics.
 
@@ -138,10 +129,14 @@ Visual overhaul of characters' faces, vanilla aesthetics.
 
 - **Main Files - Character Expansions Revised**
 
-- **Main Files - [Character Expansions Revised FaceGen Tint Fix](https://www.nexusmods.com/newvegas/mods/82167?tab=files)**
+- **Main Files - [CER - Viva New Vegas Patches](https://www.nexusmods.com/newvegas/mods/82167?tab=files)**
 
-:::tip Note:
+:::info In the installer:
 
-> Do not download the patches on these pages. They are already covered in **MEG - Patches** later on in the guide.
+Pick the **patches** that are relevant to you. Read the requirements carefully.
+
+**>Install**
 
 :::
+
+- **Main Files - [CER - Fixed FaceGen Tint]**

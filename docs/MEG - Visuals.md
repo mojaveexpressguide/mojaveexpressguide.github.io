@@ -17,6 +17,15 @@ Adds options for a light radial blur effect when aiming down sights, and subtle 
 - **Main Files - Weapon DOF and Blur Effects**
 
 
+### [Just Loot Menu DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84691)
+
+Adds a Depth of Field (DoF) effect to Just Loot Menu. Highlighting the currently selected container.
+
+**Installation:**
+
+- **Main Files - Just Loot Menu DoF**
+
+
 ### [IMPACT](https://www.nexusmods.com/newvegas/mods/57113)
 
 Professional quality Ballistic VFX overhaul. Bullet Holes match ammo, casings match ammo, new custom particle effects impacts.

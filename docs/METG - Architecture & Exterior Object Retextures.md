@@ -113,7 +113,7 @@ Lore friendly NCR flag retextures.
 
 ### [Textures Over Time](https://www.nexusmods.com/newvegas/mods/41101)
 
-The best sandbag retexture I could fine.
+The best sandbag retexture I could find.
 
 **Installation:**
 

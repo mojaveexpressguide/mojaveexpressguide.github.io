@@ -102,3 +102,19 @@ Allows you to explode the Ghost People's gas bombs by shooting them. This was me
 - **Main Files -  Explodable Ghost People's Gas Bombs**
 
 
+### [No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572)
+
+Removes the annoying blindness effect from explosions (main game, DLCs, mods). 
+
+**Installation:**
+
+- **Main Files -  No More Explosions Blindness (No Plugin)**
+
+
+### [Auto Activate Invisible Doors](https://www.nexusmods.com/newvegas/mods/80650)
+
+Automatically activates invisible doors when near them, such as cave doors. 
+
+**Installation:**
+
+- **Main Files -  Auto Activate Invisible Doors (No Plugin)**

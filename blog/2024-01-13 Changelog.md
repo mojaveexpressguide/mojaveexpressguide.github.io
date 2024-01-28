@@ -2,7 +2,7 @@
 slug: 2024-01-13-Changelog
 title: 13/01/2024 Update
 authors: Biggie404
-tags: [December]
+tags: [January]
 ---
 
 ### MEG 3.6 update

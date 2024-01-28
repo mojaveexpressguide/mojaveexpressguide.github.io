@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-The Mojave Express Guide is a curated, fully modular **[Viva New Vegas](https://vivanewvegas.moddinglinked.com/)** additions guide that aims to enhance vanilla gameplay to the level of FO4 whilst keeping your game fairly lore friendly and balanced. This guide has taken inspiration from the **[Wasteland Survival Guide](https://wastelandsurvivalguide.com/)** and my own picks for mods I use in my playthroughs. This guide is fully compatible with all VNV mods, and I have provided patches, loadorder and LOD to go with. You will require a working, stable Viva New Vegas setup before you can proceed with the guide! The format for the guide is very similar to VNV and so shouldn't be too hard to follow.
+The Mojave Express Guide is a curated, fully modular **[Viva New Vegas](https://vivanewvegas.moddinglinked.com/)** extension guide that aims to enhance the vanilla gameplay experience hilst keeping your game fairly lore friendly and balanced. This guide has taken inspiration from the **[Wasteland Survival Guide](https://wastelandsurvivalguide.com/)** and my own picks for mods I use in my playthroughs. This guide is fully compatible with all VNV mods, and I have provided patches, loadorder and LOD to go with. You will require a working, stable Viva New Vegas setup before you can proceed with the guide! The format for the guide is very similar to VNV and so shouldn't be too hard to follow.
 
 :::tip Note:
 
