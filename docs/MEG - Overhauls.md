@@ -135,7 +135,7 @@ Visual overhaul of characters' faces, vanilla aesthetics.
 
 :::info In the installer:
 
-Pick the **patches** that are relevant to you. Read the requirements carefully.
+Pick the **patches** that are relevant to you. Read the requirements carefully (Select **CER - Merged Patch** if you installed all the VNV mods)
 
 **>Install**
 

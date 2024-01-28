@@ -63,6 +63,8 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 - **Main Files - Another Millenia 2.4.3**
 
+- **Update Files - Hotfix**
+
 
 ### [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237)
 
