@@ -129,7 +129,9 @@ Visual overhaul of characters' faces, vanilla aesthetics.
 
 - **Main Files - Character Expansions Revised**
 
-- **Main Files - [CER - Viva New Vegas Patches](https://www.nexusmods.com/newvegas/mods/82167?tab=files)**
+- **Main Files - [CER - Viva New Vegas Patches](https://www.nexusmods.com/newvegas/mods/84667?tab=files)**
+
+- **Optional Files - [CER - Fixed FaceGen Tint]**
 
 :::info In the installer:
 
@@ -139,4 +141,3 @@ Pick the **patches** that are relevant to you. Read the requirements carefully.
 
 :::
 
-- **Main Files - [CER - Fixed FaceGen Tint]**
