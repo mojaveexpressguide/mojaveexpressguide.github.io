@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Guide Blog</title>
-    <updated>2024-01-24T00:00:00.000Z</updated>
+    <updated>2024-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Guide Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[28/01/2024 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/2024-01-28-Changelog</id>
+        <link href="https://www.mojaveexpressguide.com/blog/2024-01-28-Changelog"/>
+        <updated>2024-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEG - Update 3.8]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---update-38">MEG - Update 3.8<a href="#meg---update-38" class="hash-link" aria-label="Direct link to MEG - Update 3.8" title="Direct link to MEG - Update 3.8">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---gameplay">MEG - Gameplay<a href="#meg---gameplay" class="hash-link" aria-label="Direct link to MEG - Gameplay" title="Direct link to MEG - Gameplay">​</a></h3><ul><li><strong>Added:</strong> Auto Activate Invisible Doors</li><li><strong>Added:</strong> No More Explosions Blindness</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---overhauls">MEG - Overhauls<a href="#meg---overhauls" class="hash-link" aria-label="Direct link to MEG - Overhauls" title="Direct link to MEG - Overhauls">​</a></h3><ul><li><strong>Removed:</strong> NPC's Sprint KNVSE - (Actually makes them too op especially super mutants)</li><li><strong>Added:</strong> Character Expansions Revised - Viva New Vegas Patches</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---content">MEG - Content<a href="#meg---content" class="hash-link" aria-label="Direct link to MEG - Content" title="Direct link to MEG - Content">​</a></h3><ul><li><strong>Removed:</strong> Cyberware 2281 - (Too op and weirdly implemented)</li><li><strong>Removed:</strong> CyberJAM</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---locations--quests">MEG - Locations &amp; Quests<a href="#meg---locations--quests" class="hash-link" aria-label="Direct link to MEG - Locations &amp; Quests" title="Direct link to MEG - Locations &amp; Quests">​</a></h3><ul><li><strong>Removed:</strong> A Very Uncreative Collection of Mod Patches - Not needed anymore the mods are interally patched.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---visuals">MEG - Visuals<a href="#meg---visuals" class="hash-link" aria-label="Direct link to MEG - Visuals" title="Direct link to MEG - Visuals">​</a></h3><ul><li><strong>Added:</strong> Just Loot Menu DoF - ESPless</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches--tweaks">MEG - Patches &amp; Tweaks<a href="#meg---patches--tweaks" class="hash-link" aria-label="Direct link to MEG - Patches &amp; Tweaks" title="Direct link to MEG - Patches &amp; Tweaks">​</a></h3><ul><li><strong>Updated:</strong> MEG - Patches (Removed Cyberware 2281 - Famine Patch &amp; Character Expansions Revised Patches from installer and added Auto Activate Invisible Doors - AWOLP Patch)</li></ul>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="January" term="January"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/01/2024 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/2024-01-24-Changelog</id>
@@ -18,7 +31,7 @@
             <name>Biggie404</name>
             <uri>https://github.com/mojaveexpressguide</uri>
         </author>
-        <category label="December" term="December"/>
+        <category label="January" term="January"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[21/01/2024 Update]]></title>
@@ -31,7 +44,7 @@
             <name>Biggie404</name>
             <uri>https://github.com/mojaveexpressguide</uri>
         </author>
-        <category label="December" term="December"/>
+        <category label="January" term="January"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[13/01/2024 Update]]></title>
@@ -46,7 +59,7 @@ Added abbreviation METG to the texture guide.</p><h3 class="anchor anchorWithSti
             <name>Biggie404</name>
             <uri>https://github.com/mojaveexpressguide</uri>
         </author>
-        <category label="December" term="December"/>
+        <category label="January" term="January"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[25/12/2023 Update]]></title>
