@@ -39,7 +39,6 @@ const sidebars = {
       "MEG - Gameplay",
       "MEG - Overhauls",
       "MEG - Content",
-      "MEG - Locations",
       "MEG - Visuals",
       "MEG - Animations",
       "MEG - Audio",
