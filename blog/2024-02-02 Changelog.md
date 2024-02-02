@@ -2,7 +2,7 @@
 slug: 2024-02-02-Changelog
 title: 02/02/2024 Update
 authors: Biggie404
-tags: [January]
+tags: [Feburary]
 ---
 
 ### MEG - Update 3.9
