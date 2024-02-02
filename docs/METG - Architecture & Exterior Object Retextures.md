@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Superpele's Disordered Texture Pack](https://drive.google.com/file/d/1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM/view)
 
 Covers quite a large variety of different buildings & objects.

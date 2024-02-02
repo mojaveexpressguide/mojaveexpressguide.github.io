@@ -68,30 +68,6 @@ A collection of useful mods, merged for convenience.
 :::
 
 
-### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
-
-Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
-
-**Installation:**
-
-- **Main Files - Helmet Overlay**
-
-:::info In the installer:
-
-**[Texture Size]**
-
-> - [x] Pick based on your screen size
-
-**> Next**
-
-**[Texture Pre-Loading]**
-
-> - [x] Pick based on your hardware
-
-**> Install**
-
-:::
-
 
 ### [Explodable Ghost People's Gas Bombs ESPless](https://www.nexusmods.com/newvegas/mods/82425)
 

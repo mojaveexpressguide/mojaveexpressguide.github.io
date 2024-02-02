@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Inviting Vaults - A vault retexture](https://www.nexusmods.com/newvegas/mods/80872)
 
 Vaults retextured in the vanilla style. Based on upscaled base game textures.
@@ -13,7 +15,7 @@ Vaults retextured in the vanilla style. Based on upscaled base game textures.
 
 ### [Scout's Random Mods](https://www.nexusmods.com/newvegas/mods/80469)
 
-Vaults retextured in the vanilla style. Based on upscaled base game textures.
+A collection of stuff that isn't big enough to warrant their own mod pages.
 
 **Installation:**
 

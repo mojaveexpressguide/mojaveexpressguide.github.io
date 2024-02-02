@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Weapon Retexture from EVE](https://www.nexusmods.com/newvegas/mods/76606)
 
 Textures for Vanilla/WMIM/TTW taken from the EVE. Fixed some missing textures for modifications.

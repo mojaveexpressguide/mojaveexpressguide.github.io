@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [EXE - Effect teXtures Enhanced](https://www.nexusmods.com/newvegas/mods/62989)
 
 Every last visual effect texture in FNV base game remade. This affects all visuals in a great way. 

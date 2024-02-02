@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Blackwolf24s HD Clutter pack](https://www.nexusmods.com/newvegas/mods/70035)
 
 Retextures clutter items to HD.

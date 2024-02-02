@@ -112,15 +112,6 @@ Overhaul of xax34hah's RAD mod. Rewrote the entire UI portion, major changes to 
 - **Main Files - RAD - Overhaul**
 
 
-### [Ghouls Inflict Radiation Damage - ESPless](https://www.nexusmods.com/newvegas/mods/77401)  ![](../static/img/Difficulty.png)
-
-Makes ghoul attacks inflict radiation similar to Fallout 4 & 76. Fully configurable, TTW compatible! Now ESPless!
-
-**Installation:**
-
-- **Main Files - Ghouls Inflict Radiation Damage**
-
-
 ### [Character Expansions Revised](https://www.nexusmods.com/newvegas/mods/64862)
 
 Visual overhaul of characters' faces, vanilla aesthetics.

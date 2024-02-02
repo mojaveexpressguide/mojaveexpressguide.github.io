@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [NMCs_Texture_Pack_For_New_Vegas](https://www.nexusmods.com/newvegas/mods/43135)
 
 A decent base to add additional retextures ontop of.

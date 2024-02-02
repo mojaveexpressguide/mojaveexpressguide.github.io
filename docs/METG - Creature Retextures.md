@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [aMidianBorn NV Superb Mutants](https://www.nexusmods.com/newvegas/mods/78281)
 
 A retexture of the super mutants and night kin (and the bumper sword)

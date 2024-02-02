@@ -63,15 +63,6 @@ The best radio for New Vegas has been updated!
 - **Main Files - Platinum Radio - Final**
 
 
-### [Juicier Gore Sounds](https://www.nexusmods.com/newvegas/mods/78552)
-
-Replaces the original gore sounds with much juicier ones.
-
-**Installation:**
-
-- **Main Files - Juicer Gore Sounds**
-
-
 ### [Immersive Pickup Sounds Patched](https://www.nexusmods.com/newvegas/mods/70552)
 
 A patched version of TheKetzku's original Immersive Pickup Sounds mod that adds a variety of sound effects for picking up numerous items.

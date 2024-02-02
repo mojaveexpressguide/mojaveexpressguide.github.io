@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Nut's Litter Redone](https://www.nexusmods.com/newvegas/mods/73824)
 
 A completely new and handmade retexture to the street litter alongside removing the weird 3D ones too. 

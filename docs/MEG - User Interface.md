@@ -81,6 +81,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 :::
 
 
+
 ### [B42 Notify](https://www.nexusmods.com/newvegas/mods/80085)
 
 Notifications! Or, in other words, shows more than one message at a time!
@@ -88,30 +89,6 @@ Notifications! Or, in other words, shows more than one message at a time!
 **Installation:**
 
 - **Main Files - B42 Notify**
-
-- **Main Files - [Shuddup and SayThis](https://www.nexusmods.com/newvegas/mods/83666?tab=files)**
-
-:::info In the installer:
-
-**[Shuddup Preset]**
-
-> - [x] Minimal
-
-**> Next**
-
-**[SayThis Preset]**
-
-> - [x] None
-
-**> Next**
-
-**[Shuddup Minimal - Mods]**
-
-> - [x] Keep the default boxes checked
-
-**> Install**
-
-:::
 
 
 ### [Simplified FO4 HUD](https://www.nexusmods.com/newvegas/mods/75634)

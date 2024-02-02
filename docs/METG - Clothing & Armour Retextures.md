@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Wasteland Clothing HD V1-3 FULL PACK](https://drive.google.com/file/d/1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm/view)
 
 Due to gracious permission from macintroll, Wasteland Clothing HD (removed from the Nexus several years ago) is now available legitimately from this link.

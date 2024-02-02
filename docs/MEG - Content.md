@@ -66,24 +66,6 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 - **Update Files - Hotfix**
 
 
-### [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237)
-
-15+ ghoul variations to make your wasteland experience more varied and exciting! Now with Dt/Dr bonuses!
-
-**Installation:**
-
-- **Main Files - Another Ghoul Variation Mod FNV**
-
-
-### [Fallout 4 Super Mutant Suiciders](https://www.nexusmods.com/newvegas/mods/70256) ![](../static/img/Difficulty.png)
-
-Adds the Super Mutant Suicider enemies from Fallout 4. 
-
-**Installation:**
-
-- **Main Files -  Super Mutant Suiciders**
-
-
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
 Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
@@ -91,3 +73,32 @@ Adds crafting and breakdown recipes for pretty much all of the ballistic ammo ty
 **Installation:**
 
 - **Main Files -  Supplemental Ammo Crafting NV**
+
+
+### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png)
+
+This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed.
+
+**Installation:**
+
+- **Main Files - New Vegas Landscape Overhaul Re-Remastered**
+
+
+### [The N.V. Interiors Project](https://www.nexusmods.com/newvegas/mods/43534)
+
+Brings many new interiors. You need to download the mod below as well.
+
+**Installation:**
+
+- **Main Files - NVInteriors Core v2.1.1**
+
+- **Main Files - [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228?tab=files)**
+
+
+### [A World of (Less) Pain - A Lore Friendly AWOP Revision](https://www.nexusmods.com/newvegas/mods/71139)
+
+Complete stripping down/balancing of A World of Pain
+
+**Installation:**
+
+- **Main Files - AWOP Revised**

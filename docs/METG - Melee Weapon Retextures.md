@@ -2,6 +2,8 @@
 
 ---
 
+As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
+
 ### [Throwing melee weapon retexture](https://www.nexusmods.com/newvegas/mods/63000)
 
 Retexture throwing knife, hatchet and spear.
