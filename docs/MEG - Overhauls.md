@@ -122,7 +122,7 @@ Visual overhaul of characters' faces, vanilla aesthetics.
 
 - **Main Files - [CER - Viva New Vegas Patches](https://www.nexusmods.com/newvegas/mods/84667?tab=files)**
 
-- **Optional Files - [CER - Fixed FaceGen Tint]**
+- **Optional Files - CER - Fixed FaceGen Tint**
 
 :::info In the installer:
 

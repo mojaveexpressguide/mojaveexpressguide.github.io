@@ -47,8 +47,6 @@ Touch things, shake doors, boop terminals, rip and tear - you decide.
 
 - **Main Files - [Hit - B42 Interact Animation Pack](https://www.nexusmods.com/newvegas/mods/83096?tab=files)**
 
-- **Optional Files - Hit - B42 Interact - New Vegas Bounties I LE**
-
 - **Main Files - [B42 Interact Skinning](https://www.nexusmods.com/newvegas/mods/83161?tab=files)**
 
 - **Optional Files - Hit - B42 Interact Skinning - Human Addon**

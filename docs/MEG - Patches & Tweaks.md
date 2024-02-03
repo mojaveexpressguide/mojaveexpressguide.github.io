@@ -126,7 +126,7 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 ### MEG - Navmesh Compatibility Patch
 
-This is a premade **Navmesh Compatibility Patch** for MEG. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements, New Vegas Killer, New Vegas Bounties, Lucky Jim's Cache, Sweets Pain NV, Home and Safehouse Tweaks, Uncut Wasteland - NVInteriors Remastered Patch.
+This is a premade **Navmesh Compatibility Patch** for MEG. This requires YUP, AWLOP, NVInteriors, New Vegas Landscape Overhaul Re-Remastered, The Living Desert, Uncut Wasteland, Vanilla Enhancements and Uncut Wasteland - NVInteriors Remastered Patch.
 
 **Installation:**
 

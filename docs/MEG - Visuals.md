@@ -69,11 +69,9 @@ Drop empty and/or partial magazines on reload.
 
 :::info In the installer:
 
-**[New Vegas Mods]**
+**[Main Files]**
 
-> - [x] New Vegas Bounties I LE
-
-> - [x] New Vegas Killer LE
+> - [x] New Vegas
 
 **> Install**
 
