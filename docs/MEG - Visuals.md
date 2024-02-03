@@ -26,7 +26,7 @@ Adds a Depth of Field (DoF) effect to Just Loot Menu. Highlighting the currently
 - **Main Files - Just Loot Menu DoF**
 
 
-### [Just Bullet Time DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84691)
+### [Just Bullet Time DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84680)
 
 Adds a Depth of Field (DoF) effect to Just Bullet Time. Highlighting your current target or crosshair location. 
 
