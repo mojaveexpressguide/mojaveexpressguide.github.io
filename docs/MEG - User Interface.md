@@ -100,17 +100,6 @@ Simple mashup of iFO4HUD with New Vegas HUD elements, and CPI icons.
 - **Main Files - Simplified FO4 HUD**
 
 
-### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
-
-Displays remaining duration of consumed Aid items on the HUD.
-
-**Installation:**
-
-- **Main Files - AidUI**
-
-- **Main Files - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)**
-
-
 ### [Clean Pip-Boy 2022](https://www.nexusmods.com/newvegas/mods/75414)
 
 A simple mod that removes the scanlines, the dirt, and the distortion of the Pip-Boy screen, and makes the background solid black.
