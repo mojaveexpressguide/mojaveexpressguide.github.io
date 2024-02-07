@@ -101,6 +101,15 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
 
 :::
 
+:::info Double-click LODIFY in MO2:
+
+Select the **Filetree** tab and find the file `TTWLods.esp` then right click and select **Hide**.
+
+```
+📄 TTWLods.esp  ⟵ right click and select Hide
+```
+
+:::
 
 :::info Important:
 

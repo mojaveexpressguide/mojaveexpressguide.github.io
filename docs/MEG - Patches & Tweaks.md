@@ -186,14 +186,23 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
    └📁dlcanch 
      └📁architecture
         └📁tents 
-          └📁dlcanchtentcornerchb.nif   ⟵ right click and Rename to "dlcanchtentcornerchb_lod.nif"
+          └📁dlcanchtentcornerchb.nif  ⟵ right click and Rename to "dlcanchtentcornerchb_lod.nif"
+```
+
+:::
+
+:::info Double-click LODIFY in MO2:
+
+Select the **Filetree** tab and find the file `TTWLods.esp` then right click and select **Hide**.
+
+```
+📄 TTWLods.esp  ⟵ right click and select Hide
 ```
 
 :::
 
 
 ```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:" showLineNumbers
-
 [TerrainManager]
 ; Increases the maximum distance of LOD  
 fBlockLoadDistanceLow=100000  
@@ -202,6 +211,5 @@ fBlockLoadDistance=250000
 [SpeedTree]
 ; Makes flora use the full objects instead of LOD, this negates pop-in  
 bForceFullLOD=1  
-
 ```
 

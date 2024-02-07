@@ -115,6 +115,13 @@ Adds fully dynamic, real time reflection system to the game. Realistic ambient l
 
 - **Main Files - [B42 Optics - Real Time Reflections Patch](https://www.nexusmods.com/newvegas/mods/82466?tab=files)**
 
+```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:" showLineNumbers
+[Display]
+; Increases the maximum distance of the environment map LOD
+fEnvMapLOD1=16000
+fEnvMapLOD2=24000
+```
+
 
 ### [Vibrance - A Colourful ReShade Preset](https://www.nexusmods.com/newvegas/mods/76715)
 
