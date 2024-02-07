@@ -6,7 +6,7 @@ sidebar_position: 13
 
 ---
 
-You will now be ready to play the game. There are a variety of tweaks and settings you can customize to personalize your experience. 
+You will now be ready to play the game. There are a variety of tweaks and settings you can customize to personalize your experience. I additionally also have a texture you may want to follow: [METG](</docs/METG - Introduction>).
 
 ### Mod Configuration Menu:  
 
@@ -53,7 +53,7 @@ With the mods you installed from **VNV** and earlier in **MEG**, you will be abl
 - All adjustments are saved per weapon inside Config\HPControl folder with weapon EdID name
 
 
-### Change FOV
+### Change FOV:
 
 ```ini title="To Change your FOV edit these settings in your falloutcustom.ini:" showLineNumbers
 [Display]
