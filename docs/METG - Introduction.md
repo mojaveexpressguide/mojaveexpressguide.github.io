@@ -16,7 +16,7 @@ This guide has been designed for you to download the mods in the order presented
 
 :::caution Important:
 
-Some of the meshes in this guide have noticably higher polygon counts and draw calls than the vanilla meshes. Some may find these out of place and they may also have an impact on performance, therefore they have been marked with ![](../static/img/Performance.png).
+Some of the meshes in this guide have noticeably higher triangle counts and draw calls than the vanilla meshes. Some may find these out of place and they may also have an impact on performance, therefore they have been marked with ![](../static/img/Performance.png).
 
 :::
 

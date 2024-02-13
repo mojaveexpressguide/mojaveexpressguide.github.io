@@ -99,9 +99,9 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 - MEG - JIP LN NVSE Config
 
-- MEG - Stewie Tweaks Config
-
 - ​MEG - Helmet Armor Rebalance (JIP)
+
+- MEG - Stewie Tweaks Config
 
 - MEG - Simple Vigor Config
 
@@ -114,8 +114,6 @@ Pick the **tweaks** that you would like and make sure to read the description of
 - MEG - Bullet Trails Config
 
 - MEG - Aim Down Sights Config
-
-- MEG - Contextual HUD Config
 
 **>Install**
 

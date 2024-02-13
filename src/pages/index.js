@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A Viva New Vegas Additions"      
+      description="A Viva New Vegas Additions Guide"      
     >
       <HomepageHeader />
       <main></main>

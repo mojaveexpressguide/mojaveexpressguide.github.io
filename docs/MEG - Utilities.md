@@ -6,7 +6,13 @@ sidebar_position: 2
  
 ---
 
-As you did with **Viva New Vegas** create new separators for the above categories. Ensure this seperator is below the **Visuals** seperator previously created for VNV.
+:::info Instruction:
+
+As you did with **Viva New Vegas** you will now need to create new separators for the above categories. Create this seperator and place it below the **Visuals** seperator previously created for **VNV**.
+
+:::
+
+
 
 ### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160)
 

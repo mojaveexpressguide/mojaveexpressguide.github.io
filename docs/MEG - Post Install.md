@@ -6,7 +6,7 @@ sidebar_position: 13
 
 ---
 
-You will now be ready to play the game. There are a variety of tweaks and settings you can customize to personalize your experience. I additionally also have a texture you may want to follow: [METG](</docs/METG - Introduction>).
+You will now be ready to play the game. There are a variety of tweaks and settings you can customize to personalize your experience. I additionally also have a texture you may want to follow: **[METG](</docs/METG - Introduction>)**.
 
 ### Mod Configuration Menu:  
 
@@ -23,9 +23,9 @@ When in game > enter the pause menu > go to **Settings** and then **Tweaks**. Th
 In **MO2**, double-click the mod you would like to configure, select the **INI Files tab**, select the **INI file** on the left you would like to configure. Also you can configure some stuff through the **Text Files tab**.
 
 
-### Iron Sight Alignment, Scope Alignment, Weapon Viewmodel Clipping & Hipfire Weapon Position:
+### Various Adjustments:
 
-With the mods you installed from **VNV** and earlier in **MEG**, you will be able to adjust your iron sight alignment, hipfire weapon position & ADS weapon clipping.
+With the mods you installed from **VNV** and earlier in **MEG** you will be able to adjust the below.
 
 #### [Iron Sight Alignment](https://www.nexusmods.com/newvegas/mods/75417)
 
