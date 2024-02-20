@@ -66,7 +66,7 @@ Quick and easy retexture job. Lore friendly.
 
 **Installation:**
 
-- **Main Files - HQ Mirrors Retex Broken Variants 3**
+- **Main Files - Resplendent Rugs**
 
 
 ### [Astounding Appliances - Retextures](https://www.nexusmods.com/newvegas/mods/80953)
