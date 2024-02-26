@@ -81,6 +81,8 @@ Alternatively you can download pregenerated LOD which I generated with all of th
  
 - **Main Files - [More LODs Additions and fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)**
 
+- **Main Files - [LODIFY](https://www.nexusmods.com/newvegas/mods/84165?tab=files)**
+
 - **Optional Files - [LODIFY FNV Wall_SoGB Editon](https://www.nexusmods.com/newvegas/mods/84165?tab=files)**
 
 - **Optional Files - [METG - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
