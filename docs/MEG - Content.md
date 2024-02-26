@@ -61,9 +61,7 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 **Installation:**
 
-- **Main Files - Another Millenia 2.4.3**
-
-- **Update Files - Hotfix**
+- **Main Files - Another Millenia**
 
 
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
