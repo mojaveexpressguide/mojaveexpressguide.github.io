@@ -35,6 +35,24 @@ Adds a Depth of Field (DoF) effect to Just Bullet Time. Highlighting your curren
 - **Main Files - Just Bullet Time DoF**
 
 
+### [Sneak Vignette - ESPless](https://www.nexusmods.com/newvegas/mods/84802) ![](../static/img/New.png)
+
+Adds vignette to the screen while the player is sneaking. Optionally adjust vignette intensity based on detection state. 
+
+**Installation:**
+
+- **Main Files - Sneak Vignette**
+
+
+### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917) ![](../static/img/New.png)
+
+Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more! 
+
+**Installation:**
+
+- **Main Files - Radiation Visuals**
+
+
 ### [IMPACT](https://www.nexusmods.com/newvegas/mods/57113)
 
 Professional quality Ballistic VFX overhaul. Bullet Holes match ammo, casings match ammo, new custom particle effects impacts.
@@ -44,6 +62,15 @@ Professional quality Ballistic VFX overhaul. Bullet Holes match ammo, casings ma
 - **Main Files - IMPACT - The Gaming Rig**
 
 - **Main Files - [IMPACT Compatibility 2](https://www.nexusmods.com/newvegas/mods/62050?tab=files)**
+
+
+### [Kyu's Ballistics - Fixed](https://www.nexusmods.com/newvegas/mods/84939) ![](../static/img/New.png)
+
+A fixed and crash-free version of Kyu's Ballistics. New muzzle flashes, tracers, bullet impacts, everything relating to visual effects ballistic weapons use is updated.
+
+**Installation:**
+
+- **Main Files - Kyu's Ballistics Fixed**
 
 
 ### [Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)

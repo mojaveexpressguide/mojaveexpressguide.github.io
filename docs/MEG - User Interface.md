@@ -117,9 +117,13 @@ NVSE plugin that aims to fix UI bugs and add new UI features.
 
 - **Main Files - yUI**
 
-- **Main Files - [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)**
+- **Main Files - [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358?tab=files)**
 
-- **Main Files - [Color Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674?tab=files)**
+- **Main Files - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117?tab=files)** ![](../static/img/New.png)
+
+- **Main Files - [Faded Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674?tab=files)** ![](../static/img/New.png)
+
+- **Main Files - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075?tab=files)** ![](../static/img/New.png)
 
 
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)

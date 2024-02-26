@@ -26,17 +26,6 @@ Modern replacer for stagger (aka crippling) animations made via motion capture.
 - **Main Files - Modern Stagger**
 
 
-### [Different PipBoy Animations](https://www.nexusmods.com/newvegas/mods/75420)
-
-New fresh pipboy animations. Choose male or female depending on what you play.
-
-**Installation:**
-
-- **Main Files - Female Anim A**
-
-- **Main Files - Male Anim A**
-
-
 ### [B42 Interact - Animated Items and Interactions Framework - ESPless](https://www.nexusmods.com/newvegas/mods/83119)
 
 Touch things, shake doors, boop terminals, rip and tear - you decide.
@@ -83,33 +72,21 @@ Plays animations when interacting with objects, opening/closing doors and pickin
 - **Main Files - Vanilla Animations Weapon Scale Fix**
 
 
-### [FNV Clean Animations](https://www.nexusmods.com/newvegas/mods/77429)
+### [Hit's Anims - Season 1](https://www.nexusmods.com/newvegas/mods/73856) ![](../static/img/New.png)
 
-FNV Clean Animations. Smooth with vanilla-ish timings & balance.
+All of Hit's kNVSE anim sets in one place.
 
 **Installation:**
 
-- **Main Files - FNV Clean Animations - Part 1 (R)**
+- **Main Files - Hit's Anims - Season 1**
 
-- **Main Files - [FNV Clean Animations - Part 2 (no mesh changes)](https://www.nexusmods.com/newvegas/mods/78335?tab=files)**
+- **Main Files - [Hit's Anims - Season 2](https://www.nexusmods.com/newvegas/mods/75208?tab=files)**
 
-- **Main Files - [4. No TTW - Edited](https://www.nexusmods.com/newvegas/mods/81648?tab=files)**
+- **Main Files - [Hit's Anims - Season 3](https://www.nexusmods.com/newvegas/mods/76843?tab=files)**
 
-- **Update Files - Update 1.1.3**
+- **Main Files - [Hit's Anims - Animation Fixes](https://www.nexusmods.com/newvegas/mods/76457?tab=files)**
 
-- **Main Files - [FNV Clean Animations - Grenades Pack](https://www.nexusmods.com/newvegas/mods/83735?tab=files)**
-
-- **Update Files - Update 1.1.1**
-
-:::info Double-click FNV Clean Animations - Part 3 in MO2:
-
-Select the **Filetree** tab and find the file `DoubleBarrelShotgun.esp` then right click and select **Hide**.
-
-```
-📄 DoubleBarrelShotgun.esp  ⟵ right click and select Hide
-```
-
-:::
+- **Main Files - [Hit's Anims - Some More Animation Fixes](https://www.nexusmods.com/newvegas/mods/83557?tab=files)**
 
 
 ### [Combined Melee Animation Pack](https://www.nexusmods.com/newvegas/mods/80756)

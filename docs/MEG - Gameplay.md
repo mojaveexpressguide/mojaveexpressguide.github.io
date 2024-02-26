@@ -45,6 +45,8 @@ A collection of useful mods, merged for convenience.
 
 - **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
 
+- **Main Files - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075?tab=files)**
+
 - **Main Files - [New Sprint animations for JAM](https://www.nexusmods.com/newvegas/mods/74839?tab=files)**
 
 - **Main Files - [Just Sprint Plus - Expansion for JAM and JVS](https://www.nexusmods.com/newvegas/mods/83797?tab=files)**
@@ -68,14 +70,14 @@ A collection of useful mods, merged for convenience.
 :::
 
 
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) ![](../static/img/New.png)
 
-### [Explodable Ghost People's Gas Bombs ESPless](https://www.nexusmods.com/newvegas/mods/82425)
 
-Allows you to explode the Ghost People's gas bombs by shooting them. This was mentioned by Dean Domino but wasn't actually possible in the game. Until now!
+Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Add to any armor with included KEYWORDs support.  
 
 **Installation:**
 
-- **Main Files -  Explodable Ghost People's Gas Bombs**
+- **Main Files - Simple Night Vision**
 
 
 ### [No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572)
@@ -84,7 +86,7 @@ Removes the annoying blindness effect from explosions (main game, DLCs, mods).
 
 **Installation:**
 
-- **Main Files -  No More Explosions Blindness (No Plugin)**
+- **Main Files - No More Explosions Blindness (No Plugin)**
 
 
 ### [Auto Activate Invisible Doors](https://www.nexusmods.com/newvegas/mods/80650)
@@ -93,4 +95,4 @@ Automatically activates invisible doors when near them, such as cave doors.
 
 **Installation:**
 
-- **Main Files -  Auto Activate Invisible Doors (No Plugin)**
+- **Main Files - Auto Activate Invisible Doors (No Plugin)**
