@@ -4,10 +4,20 @@
         <title>Mojave Express Guide Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>Mojave Express Guide Blog</description>
-        <lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[26/02/2024 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/2024-02-26-Changelog</link>
+            <guid>https://www.mojaveexpressguide.com/blog/2024-02-26-Changelog</guid>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEG - Update 4.0]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---update-40">MEG - Update 4.0<a href="#meg---update-40" class="hash-link" aria-label="Direct link to MEG - Update 4.0" title="Direct link to MEG - Update 4.0">​</a></h3><p>Some new stuff.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---user-interface">MEG - User Interface<a href="#meg---user-interface" class="hash-link" aria-label="Direct link to MEG - User Interface" title="Direct link to MEG - User Interface">​</a></h3><ul><li><strong>Replaced:</strong> Color Inventory Ycons with Faded Inventory Ycons</li><li><strong>Added:</strong> ySI - Pick Up Prompts</li><li><strong>Added:</strong> ySI - Colorful Icons Fix</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---gameplay">MEG - Gameplay<a href="#meg---gameplay" class="hash-link" aria-label="Direct link to MEG - Gameplay" title="Direct link to MEG - Gameplay">​</a></h3><ul><li><strong>Removed:</strong> Explodable Ghost People's Gas Bombs ESPless - (Added a stewie tweak that does the same thing)</li><li><strong>Added:</strong> Simple Night Vision - ESPless</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---visuals">MEG - Visuals<a href="#meg---visuals" class="hash-link" aria-label="Direct link to MEG - Visuals" title="Direct link to MEG - Visuals">​</a></h3><ul><li><strong>Added:</strong> Radiation Visuals - ESPless</li><li><strong>Added:</strong> Sneak Vignette - ESPless</li><li><strong>Added:</strong> Kyu's Ballistics - Fixed</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---animations">MEG - Animations<a href="#meg---animations" class="hash-link" aria-label="Direct link to MEG - Animations" title="Direct link to MEG - Animations">​</a></h3><ul><li><strong>Removed:</strong> Clean Animations Reborn</li><li><strong>Removed:</strong> Different PipBoy Animations</li><li><strong>Added:</strong> Hit's Anims - (Better Coverage, more compatible with WAP, unique animations)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meg---patches--tweaks">MEG - Patches &amp; Tweaks<a href="#meg---patches--tweaks" class="hash-link" aria-label="Direct link to MEG - Patches &amp; Tweaks" title="Direct link to MEG - Patches &amp; Tweaks">​</a></h3><ul><li><strong>Updated:</strong> MEG Patches - (Updated Iron Sights Alignment Patch)</li><li><strong>Updated:</strong> MEG Tweaks - (Added a bunch of new stewie's tweaks to the config)
+<!-- -->[Hold And Release Throwables][Bloody Mess Gibs Targeted Limb Only]<!-- -->[Color Weapon Condition Label][Compass Fade Left Side]<!-- -->[Compass Location Distance Based Alpha][Compass NPC Distance Based Alpha]<!-- -->[Container Encumbrance Indicator][Fall Deaths Cause Dismemberment]<!-- -->[Local Map Separate Interior/Exterior Door Icon][Locational Melee Damage]<!-- -->[Lockpick Remembers Bobby Pin Angle][NPCs Take Limb Fall Damage]<!-- -->[Removes Chem Worn Off IMOD][Respawning Container Indicator]<!-- -->[Target Held Explosives]</li></ul><p><strong>Safe to update mid-save.</strong></p>]]></content:encoded>
+            <category>Feburary</category>
+        </item>
         <item>
             <title><![CDATA[02/02/2024 Update]]></title>
             <link>https://www.mojaveexpressguide.com/blog/2024-02-02-Changelog</link>
