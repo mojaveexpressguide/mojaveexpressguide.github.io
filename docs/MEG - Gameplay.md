@@ -45,7 +45,7 @@ A collection of useful mods, merged for convenience.
 
 - **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
 
-- **Main Files - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075?tab=files)**
+- **Main Files - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075?tab=files)** ![](../static/img/New.png)
 
 - **Main Files - [New Sprint animations for JAM](https://www.nexusmods.com/newvegas/mods/74839?tab=files)**
 
