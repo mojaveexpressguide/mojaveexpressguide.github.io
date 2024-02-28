@@ -172,13 +172,13 @@ Run the reshade installer you used and uninstall reshade. Then go to C:\ProgramD
 
 :::
 
+### New Vegas Reloaded ![](../static/img/Performance.png) ![](../static/img/New.png) 
+
 :::warning Warning!
 
 New Vegas Reloaded can greatly increase the visual fidelity of your game by adding shadows, ambient occlusion, tonemapping, DOF, bloom and more. However it is in active development and is very experimental, you may experience graphical glitches and a severe performance impact.
 
 :::
-
-### New Vegas Reloaded ![](../static/img/New.png)
 
 Download the latest build from **[#nightly-builds](https://discord.gg/MCKGakNzmp)** and install manually in MO2.
 

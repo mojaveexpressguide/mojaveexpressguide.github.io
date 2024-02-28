@@ -77,6 +77,15 @@ This mod gives all quarries in New Vegas a complete and total facelift with work
 - **Main Files - Remastered Quarries 2K - 1K Mix (Authors Choice)**
 
 
+### [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698) ![](../static/img/New.png)
+
+Replacers for a variety of low-quality flora objects in the Mojave.
+
+**Installation:**
+
+- **Main Files - Mojave Flora Project - Base Object Swapper Version**
+
+
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
 A simple upscaling of the vanilla grass atlas from its low-quality 1k resolution to either your choice of 2k or 4k. 
@@ -108,15 +117,6 @@ Replaces a lot of the smaller objects that other packs don't cover.
 - **Update Files - Micro Clutter - Update v1.1**
 
 - **Update Files - Optimized Joshua Trees v1.2**
-
-
-### [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698) ![](../static/img/New.png)
-
-Replacers for a variety of low-quality flora objects in the Mojave.
-
-**Installation:**
-
-- **Main Files - Mojave Flora Project - Base Object Swapper Version**
 
 
 ### [Wasted Pines](https://www.nexusmods.com/newvegas/mods/84471)
