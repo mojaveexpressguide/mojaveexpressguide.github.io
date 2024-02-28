@@ -13,17 +13,6 @@ Vaults retextured in the vanilla style. Based on upscaled base game textures.
 - **Main Files - Inviting Vaults**
 
 
-### [Scout's Random Mods](https://www.nexusmods.com/newvegas/mods/80469)
-
-A collection of stuff that isn't big enough to warrant their own mod pages.
-
-**Installation:**
-
-- **Main Files - facrmfloor01**
-
-- **Main Files - nv_craftsmanhomesinterior**
-
-
 ### [McCarran main terminal transparent glass](https://www.nexusmods.com/newvegas/mods/69041)
 
 Simple mesh replacer to get the glass transparent in the main terminal of the McCarran Airport. Only mesh replacement, no .esp files! no conflicts! no performance issue! 
@@ -69,35 +58,6 @@ Quick and easy retexture job. Lore friendly.
 - **Main Files - Resplendent Rugs**
 
 
-### [Astounding Appliances - Retextures](https://www.nexusmods.com/newvegas/mods/80953)
-
-Base game appliances all upscaled and edited on a per file basis to the correct size and remaining true to the original texture style.
-
-**Installation:**
-
-- **Main Files - Astounding Appliances**
-
-
-### [Stupendous Seats - Chairs Retextured](https://www.nexusmods.com/newvegas/mods/80478)
-
-Overhaul of a select section of chairs and couches in the vanilla style. 
-
-**Installation:**
-
-- **Main Files - Stupendous Seats**
-
-
-### [Forgotten Desk Texture Pack](https://www.nexusmods.com/newvegas/mods/75309)
-
-Retextures 4 different desks that are neglected in other texture packs. 2k/4k resolution.
-
-**Installation:**
-
-- **Main Files - Forgotten Desk Textures**
-
-- **Main Files - Hotel Carpet Retexture**
-
-
 ### [Pool Table and items - Redone](https://www.nexusmods.com/newvegas/mods/82577)
 
 High res retexture + mesh fixes for pool tables and items. 
@@ -107,43 +67,7 @@ High res retexture + mesh fixes for pool tables and items.
 - **Main Files - 00 - Pool Items**
 
 
-### [4k Animated Metal Box Replacer](https://www.nexusmods.com/newvegas/mods/72598) ![](../static/img/Performance.png)
-
-Simple Metal Box replacer for FNV/TTW (4k/2k).
-
-**Installation:**
-
-- **Main Files - Metal Box 2k Version**
-
-
-### [4k MedKit Replacer](https://www.nexusmods.com/newvegas/mods/72566) ![](../static/img/Performance.png)
-
-Simple medkit replacer for FNV/TTW (4k/2k).
-
-**Installation:**
-
-- **Main Files - MedKit Replacer 2k**
-
-
-### [4k Animated Cash Register](https://www.nexusmods.com/newvegas/mods/72613) ![](../static/img/Performance.png)
-
-Fully animated cash register replacer for FNV/TTW (4k/2k).
-
-**Installation:**
-
-- **Main Files - Animated Cash Register 2k**
-
-
-### [4k Animated Hotel Wardrobe](https://www.nexusmods.com/newvegas/mods/72611) ![](../static/img/Performance.png)
-
-Fully animated cash register replacer for FNV/TTW (4k/2k).
-
-**Installation:**
-
-- **Main Files - 2k Animated Wardrobe Replacer**
-
-
-### [F4NV Auto Doc](https://www.nexusmods.com/newvegas/mods/71332) ![](../static/img/Performance.png)
+### [F4NV Auto Doc](https://www.nexusmods.com/newvegas/mods/71332)
 
 Simple and quick mod, the vanilla auto doc bothered me endless so I decided to replace it.  
 
@@ -177,3 +101,12 @@ Another Based drop for you fellas who refuse to move on from this aging game, re
 **Installation:**
 
 - **Main Files - Physically Based Collection**
+
+
+### [Physically Based Collection 2](https://www.nexusmods.com/newvegas/mods/85122) ![](../static/img/Performance.png) ![](../static/img/New.png)
+
+The sequel that nobody asked for, replacing even more items for our favorite dead game.
+
+**Installation:**
+
+- **Main Files - Physically Based Collection 2**

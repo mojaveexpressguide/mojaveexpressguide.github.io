@@ -4,6 +4,15 @@
 
 As you did with **Viva New Vegas** & **MEG** create new separators for the above categories.
 
+### [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934) ![](../static/img/New.png)
+
+NVSE framework for swapping base objects and references, using config files. 
+
+**Installation:**
+
+- **Main Files - Base Object Swapper**
+
+
 ### [NMCs_Texture_Pack_For_New_Vegas](https://www.nexusmods.com/newvegas/mods/43135)
 
 A decent base to add additional retextures ontop of.
@@ -30,6 +39,15 @@ Retextures landscapes, architecture and some interiors.
 - **Main Files - Nut Vegas - Nutscapes Medium**
 
 
+### [Sandy Dunes](https://www.nexusmods.com/newvegas/mods/85039) ![](../static/img/New.png)
+
+Just 2 textures taken from Mojave Sandy Desert to add nice sandy bits to parts of the Mojave. 
+
+**Installation:**
+
+- **Main Files - Sandy Dunes**
+
+
 ### [Irradiant Muck](https://www.nexusmods.com/newvegas/mods/75868)
 
 Retextures the waste pools.
@@ -50,7 +68,7 @@ Makes the non-cliff rocks of New Vegas and Zion higher poly, without sacrificing
 - **Main Files - Higher Poly Rocks 1.2 Micro Update**
 
 
-### [Remastered Quarries](https://www.nexusmods.com/newvegas/mods/76632) ![](../static/img/Performance.png)
+### [Remastered Quarries](https://www.nexusmods.com/newvegas/mods/76632)
 
 This mod gives all quarries in New Vegas a complete and total facelift with working LODs, new meshes, and landscape repaints.
 
@@ -79,7 +97,7 @@ Esp-less replacer for some of the ugly plants. So far it fixes the prickly pear 
 - **Optional Files - Desaturated Textures**
 
 
-### [Micro Clutter](https://www.nexusmods.com/newvegas/mods/74267) ![](../static/img/Performance.png)
+### [Micro Clutter](https://www.nexusmods.com/newvegas/mods/74267)
 
 Replaces a lot of the smaller objects that other packs don't cover.
 
@@ -90,6 +108,15 @@ Replaces a lot of the smaller objects that other packs don't cover.
 - **Update Files - Micro Clutter - Update v1.1**
 
 - **Update Files - Optimized Joshua Trees v1.2**
+
+
+### [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698) ![](../static/img/New.png)
+
+Replacers for a variety of low-quality flora objects in the Mojave.
+
+**Installation:**
+
+- **Main Files - Mojave Flora Project - Base Object Swapper Version**
 
 
 ### [Wasted Pines](https://www.nexusmods.com/newvegas/mods/84471)

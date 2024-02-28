@@ -43,24 +43,6 @@ Texture replacement pack for several weapons and some uniques. Works well for Fa
 - **Main Files - Weapon Enhancement Pack**
 
 
-### [WTH - Weapon Textures from Heaven](https://www.nexusmods.com/newvegas/mods/69837)
-
-An HD 2K weapon retexture pack that aims to update all of the weapon textures of NV to a new era.
-
-**Installation:**
-
-- **Main Files - WTH - Weapon Textures from Heaven 2k**
-
-
-### [WTH - Weapon Textures From Heaven V 1.2 WIP](https://drive.google.com/file/d/1F8u92Dsb2Ccxl9BlE9TuKKYf4kN0o8Oo/view)
-
-A WIP release from the mod author for WTH.
-
-**Installation:**
-
-- **Main Files - WTH V1_2 WIP.rar**
-
-
 ### [Euclid's C-Finder Retexture](https://www.nexusmods.com/newvegas/mods/68624)
 
 A retexture of the Euclid's C-Finder.
@@ -69,26 +51,12 @@ A retexture of the Euclid's C-Finder.
 
 - **Main Files - Euclid's C-Finder Retexture**
 
+- **Main Files - [Flare Gun Retexture 1.1](https://www.nexusmods.com/newvegas/mods/68580?tab=files)**
 
-### [Flare Gun Retexture](https://www.nexusmods.com/newvegas/mods/68580)
-
-Adds a complete re-texture of the F:NV Flare Gun.
-
-**Installation:**
-
-- **Main Files - Flare Gun Retexture 1.1**
+- **Main Files - [Nail Gun Re-Texture](https://www.nexusmods.com/newvegas/mods/66086?tab=files)**
 
 
-### [Nail Gun Retexture](https://www.nexusmods.com/newvegas/mods/66086)
-
-Adds a new complete re-texture of the F:NV H&H Tool Nail Gun.
-
-**Installation:**
-
-- **Main Files - Nail Gun Re-Texture**
-
-
-### [DKS and Friends](https://www.nexusmods.com/newvegas/mods/79689) ![](../static/img/Performance.png)
+### [DKS and Friends](https://www.nexusmods.com/newvegas/mods/79689)
 
 Mesh and texture replacer for the sniper rifle and uniques.
 
@@ -97,7 +65,16 @@ Mesh and texture replacer for the sniper rifle and uniques.
 - **Main Files - DKS and friends**
 
 
-### [Type II's Replacer Project](https://www.nexusmods.com/newvegas/mods/69830) ![](../static/img/Performance.png)
+### [VWR - Vanilla Weapons Redone - Explosives](https://www.nexusmods.com/newvegas/mods/70205) ![](../static/img/New.png)
+
+FO4 Port -- Project to remake all of the explosives in the game. 
+
+**Installation:**
+
+- **Optional Files - VWR - Vanilla Weapons Redone - Explosives**
+
+
+### [Type II's Replacer Project](https://www.nexusmods.com/newvegas/mods/69830)
 
 HQ replacer for Grenade Rifle.
 
@@ -106,7 +83,7 @@ HQ replacer for Grenade Rifle.
 - **Optional Files - Grenade Rifle Replacer**
 
 
-### [Grenade Launcher Redux - FO4 HQ Replacer](https://www.nexusmods.com/newvegas/mods/69754) ![](../static/img/Performance.png)
+### [Grenade Launcher Redux - FO4 HQ Replacer](https://www.nexusmods.com/newvegas/mods/69754)
 
 HQ models and textures ported with permission from ShoeBurglar.
 
@@ -125,7 +102,7 @@ Select the **Filetree** tab and find the file `ChinaLakeRedux.esp` then right cl
 :::
 
 
-### [Holorifle Redux - FO4 HQ Replacer](https://www.nexusmods.com/newvegas/mods/69607) ![](../static/img/Performance.png)
+### [Holorifle Redux - FO4 HQ Replacer](https://www.nexusmods.com/newvegas/mods/69607)
 
 With Shoeburglar's permission, the definitive rendition of Dead Money's iconic Holorifle has finally come home! 
 
@@ -139,6 +116,25 @@ Select the **Filetree** tab and find the file `HoloRedux.esp` then right click a
 
 ```
 📄 HoloRedux.esp  ⟵ right click and select Hide
+```
+
+:::
+
+
+### [Grenade Machineguns Reborn - Weapon Overhaul](https://www.nexusmods.com/newvegas/mods/69607) ![](../static/img/New.png)
+
+Replaces the grenade machinegun's models and textures, for both the standard and unique versions.
+
+**Installation:**
+
+- **Main Files - Grenade Machineguns Reborn (2K)**
+
+:::info Double-click Grenade Machineguns Reborn - Weapon Overhaul:
+
+Select the **Filetree** tab and find the file `GrenadeMachinegunsReborn.esp` then right click and select **Hide**.
+
+```
+📄 GrenadeMachinegunsReborn.esp  ⟵ right click and select Hide
 ```
 
 :::
@@ -167,6 +163,8 @@ Select the **Filetree** tab and find the folder `meshes\AnimGroupOverride\Rock_M
 :::
 
 
+
+
 ### [WAP Year One and Bonus](https://www.nexusmods.com/newvegas/mods/78140?tab=description) ![](../static/img/Performance.png)
 
 A compilation pack of high quality gun replacers. Include unreleased (so far) weapons.
@@ -182,6 +180,10 @@ A compilation pack of high quality gun replacers. Include unreleased (so far) we
 - **Main Files - [WAP Lever Action Shotgun](https://www.nexusmods.com/newvegas/mods/80223?tab=files)**
 
 - **Main Files - [WAP Single Shotgun](https://www.nexusmods.com/newvegas/mods/83112?tab=files)**
+
+- **Main Files - [WAP - F4NV .44 Magnum - Main file](https://www.nexusmods.com/newvegas/mods/84796?tab=files)** ![](../static/img/New.png)
+
+- **Main Files - [WAP - ALSID Remastered](https://www.nexusmods.com/newvegas/mods/85064?tab=files)** ![](../static/img/New.png)
 
 - **Main Files - [12.7 SMG - 2K](https://www.nexusmods.com/newvegas/mods/73194?tab=files)**
 

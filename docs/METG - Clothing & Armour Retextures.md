@@ -126,7 +126,7 @@ HD Retextures of all Caesar's Legion armors, Marked Men armors, + more.
 - **Main Files - PM's HD Legion Overhaul - 2K**
 
 
-### [Classic Fallout Metal Armor](https://www.nexusmods.com/newvegas/mods/80930) ![](../static/img/Performance.png)
+### [Classic Fallout Metal Armor](https://www.nexusmods.com/newvegas/mods/80930)
 
 Replaces ugly vanilla metal armor (which was hard to look at) with a proper Classic model from the old games.
 
@@ -134,57 +134,24 @@ Replaces ugly vanilla metal armor (which was hard to look at) with a proper Clas
 
 - **Main Files - Classic Fallout Metal Armor - NVSE Replacer**
 
-
-### [Classic Fallout 2 Metal armor Mk II](https://www.nexusmods.com/newvegas/mods/79493) ![](../static/img/Performance.png)
-
-Classic Metal armor Mk II from Fallout 2, replacer for Vanilla metal armor (and helmet) reinforced.
-
-**Installation:**
-
-- **Main Files - Classic Fallout 2 Metal Armor MKII**
+- **Main Files - [Classic Fallout 2 Metal Armor MKII](https://www.nexusmods.com/newvegas/mods/79493?tab=files)**
 
 
-### [Classic Combat Armor Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658) ![](../static/img/Performance.png)
+### [Classic Combat Armor Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658)
 
 A new version of the Classic Combat Armor that has been long waited. 
 
 **Installation:**
 
-- **Main Files -  Classic Combat Armor Replacer Redux FNV**
+- **Main Files - Classic Combat Armor Replacer Redux FNV**
 
+- **Main Files - [Fallout 2 combat armor mark II (green textures) v1.0.0.3](https://www.nexusmods.com/newvegas/mods/78947?tab=files)**
 
-### [Classic Fallout 2 combat armor Mark 2 (remastered)](https://www.nexusmods.com/newvegas/mods/78947) ![](../static/img/Performance.png)
+- **Miscellaneous Files - Textures - desert vanilla**
 
-Classic Fallout 2 Combat armor MKII (replacer of reinforced MK2 armor and standalone)
+- **Main Files - [Classic Brotherhood Combat Armor (JS)](https://www.nexusmods.com/newvegas/mods/84261?tab=files)**
 
-**Installation:**
-
-- **Main Files -  Fallout 2 combat armor mark II (green textures) v1.0.0.3**
-
-- **Main Files -  Textures - desert vanilla**
-
-- **Update Files - [Mk2 Replacer Redux Patch](https://www.nexusmods.com/newvegas/mods/77658?tab=files)**
-
-:::info Double-click Classic Fallout 2 combat armor Mark 2 (remastered) in MO2:
-
-Select the **Filetree** tab and find the file `zFallout 2 combat armor MK2 (remastered) replacer.esp` then right click and select **Hide**.
-
-```
-📄 Fallout 2 combat armor MK2 (remastered) replacer.esp  ⟵ right click and select Hide
-```
-
-:::
-
-
-### [Classic Brotherhood Combat Armor](https://www.nexusmods.com/newvegas/mods/84261) ![](../static/img/Performance.png)
-
-Classic BoS armor for vanilla new Vegas or Jsawyer mod, maximum compatibility. 
-
-**Installation:**
-
-- **Main Files -  Classic Brotherhood Combat Armor (JS)**
-
-- **Optional Files -  Classic Brotherhood Combat Armor (Vanilla)**
+- **Optional Files - Classic Brotherhood Combat Armor (Vanilla)**
 
 :::info Double-click Classic Brotherhood Combat Armor (JS) in MO2:
 
@@ -196,14 +163,7 @@ Select the **Filetree** tab and find the file `zMCArmorCombatBOS_JS.esp` then ri
 
 :::
 
-
-### [AVCCA - Animated Visor for Classic Combat Armor](https://www.nexusmods.com/newvegas/mods/81974?tab=description) 
-
-AVCCA - is a replacer of a model of classic helmets with an animated visor.
-
-**Installation:**
-
-- **Main Files - AVCCA - Animated Visor for Classic Combat Armor**
+- **Main Files - [AVCCA - Animated Visor for Classic Combat Armor](https://www.nexusmods.com/newvegas/mods/81974?tab=files)**
 
 :::info In the installer:
 
@@ -216,7 +176,7 @@ AVCCA - is a replacer of a model of classic helmets with an animated visor.
 :::
 
 
-### [Physically Based Rangers](https://www.nexusmods.com/newvegas/mods/70319) ![](../static/img/Performance.png)
+### [Physically Based Rangers](https://www.nexusmods.com/newvegas/mods/70319)
 
 F4NV's Combat Ranger Finally comes to the FNV Nexus.
 

@@ -78,6 +78,44 @@ A completely new model for the vanilla hatchet. No ESP
 - **Main Files - Hatchet Remade**
 
 
+### [The True Blade of the West](https://www.nexusmods.com/newvegas/mods/72866) ![](../static/img/New.png)
+
+Replaces the Divide's signature sword model with a brand new, lore-friendly design.
+
+**Installation:**
+
+- **Main Files - The True Blade of the West (2K)**
+
+:::info Double-click The True Blade of the West:
+
+Select the **Filetree** tab and find the files `TrueBladeOfTheWest.esp` then right click and select **Hide**.
+
+```
+📄 TrueBladeOfTheWest.esp  ⟵ right click and select Hide
+```
+
+:::
+
+
+### [The True Blade of the East](https://www.nexusmods.com/newvegas/mods/72075) ![](../static/img/New.png)
+
+Replaces Legate Lanius' weapon model with a brand new, lore-friendly design.
+
+**Installation:**
+
+- **Main Files - The True Blade of the East (2K)**
+
+:::info Double-click The True Blade of the East:
+
+Select the **Filetree** tab and find the files `TrueBladeOfTheEast.esp` then right click and select **Hide**.
+
+```
+📄 TrueBladeOfTheEast.esp  ⟵ right click and select Hide
+```
+
+:::
+
+
 ### [WJS's Super Sledge Ported](https://www.nexusmods.com/newvegas/mods/68146)
 
 Complete model and texture replacement for Super Sledge & Super Sledge Unique (Oh, Baby!).

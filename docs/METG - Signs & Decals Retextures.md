@@ -58,42 +58,6 @@ HQ remaster of the shop signs commonly found around Freeside (and maybe some oth
 - **Main Files - Freeside Signs**
 
 
-### [Medical Clinic sign](https://www.nexusmods.com/newvegas/mods/82696)
-
-New Vegas Medical Clinic sign remade from scratch. 
-
-**Installation:**
-
-- **Main Files - Clinic Sign**
-
-
-### [Cottonwood Cove Sign](https://www.nexusmods.com/newvegas/mods/82694)
-
-Brand new textures for the Cottonwood Cove sign. 
-
-**Installation:**
-
-- **Main Files - Cottonwood Cove Sign 2K**
-
-
-### [Red Rock Canyon Sign HD retexture](https://www.nexusmods.com/newvegas/mods/82829)
-
-Red Rock Canyon Sign HD retexture. 
-
-**Installation:**
-
-- **Main Files - Graffitti version**
-
-
-### [Old Old Glory](https://www.nexusmods.com/newvegas/mods/79258)
-
-An impromptu retexture of the Pre-War US flag. 
-
-**Installation:**
-
-- **Main Files - Old Old Glory (2K)**
-
-
 ### [Fabulous New Vegas](https://www.nexusmods.com/newvegas/mods/83470)
 
 HD retexture of the iconic sign.

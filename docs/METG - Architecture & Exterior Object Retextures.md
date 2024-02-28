@@ -70,15 +70,6 @@ The vanilla water towers are crusty. Get that shit outta yo game.
 - **Main Files - Rectified Water Tower**
 
 
-### [Animated Barges](https://www.nexusmods.com/newvegas/mods/72908)
-
-Adds animated barge to replace the static vanilla barge - No plugin. Just a straight replacer. 
-
-**Installation:**
-
-- **Main Files - Animated Barged**
-
-
 ### [Fractal Crystals](https://www.nexusmods.com/newvegas/mods/80555)
 
 A less cartoonish, realistic retexture for the Old World Blues crystals. 
@@ -122,6 +113,35 @@ The best sandbag retexture I could find.
 - **Main Files - Sandbags**
 
 
+### [NillaPlus Crate Expectations 4K](https://www.nexusmods.com/newvegas/mods/84696) ![](../static/img/New.png)
+
+The rusty green, white and red metal shipping crates found throughout the game looked bad. Now they look better. See for yourself! 
+
+**Installation:**
+
+- **Main Files - NillaPlus Crate Expectations 2K**
+
+- **Update Files - NillaPlus Crates hotfix 1.0 to 1.01 (all versions)**
+
+
+### [NillaPlus Howitz Started](https://www.nexusmods.com/newvegas/mods/84696) ![](../static/img/New.png)
+
+A high quality replacer for the vanilla howitzers.
+
+**Installation:**
+
+- **Main Files - NillaPlus Howitz Going Artillery 2K base mod**
+
+
+### [Architecture Retexture Pack (4k - 2k)](https://www.nexusmods.com/newvegas/mods/74895)
+
+A small pack of architecture retextures, WIP. 
+
+**Installation:**
+
+- **Main Files - Architecture Retexture Pack - 2k**
+
+
 ### [High Quality Picket Fences](https://www.nexusmods.com/newvegas/mods/79659)
 
 it makes most of the picket fences look good with new texture. 
@@ -131,7 +151,7 @@ it makes most of the picket fences look good with new texture.
 - **Main Files - High Quality Picket Fences**
 
 
-### [Terrific Traffic Cones](https://www.nexusmods.com/newvegas/mods/77330) ![](../static/img/Performance.png)
+### [Terrific Traffic Cones](https://www.nexusmods.com/newvegas/mods/77330)
 
 Improves the traffic cone mesh and texture. 
 
@@ -147,15 +167,6 @@ HQ Shopping cart replacer, with new and improved collisions done by KiCHo666.
 **Installation:**
 
 - **Main Files - Quality Carts 1K**
-
-
-### [HQ Metal Barrels](https://www.nexusmods.com/newvegas/mods/71240) ![](../static/img/Performance.png)
-
-Replaces all of the games metal barrel props with higher quality models and textures.
-
-**Installation:**
-
-- **Main Files - HQ Metal Barrels - 1K**
 
 
 ### [Motorcycles Remastered](https://www.nexusmods.com/newvegas/mods/81262) ![](../static/img/Performance.png)

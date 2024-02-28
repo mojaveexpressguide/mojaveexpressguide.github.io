@@ -28,6 +28,15 @@ Select the **Filetree** tab and find the folders `textures\sky` & `textures\wate
 :::
 
 
+### [Better Fire Barrels - ESPless](https://www.nexusmods.com/newvegas/mods/84599) ![](../static/img/New.png)
+
+Overhauls all outdoor Fire Barrels to react to day/night and rain, and have enhanced effects to make them look nicer.  
+
+**Installation:**
+
+- **Main Files - Better Fire Barrels - ESPless**
+
+
 ### [ETJ Realistic Enhanced Blood Textures](https://www.nexusmods.com/newvegas/mods/76113)
 
 Its time for an upgrade on this beautiful mod. Original release date 2014 March by "dDefiner".
@@ -162,3 +171,22 @@ Vibrance is a ReShade preset that enhances the colours and adds more vibrance (h
 Run the reshade installer you used and uninstall reshade. Then go to C:\ProgramData\Reshade and copy ReShade32.dll and put it in your FNV root folder.
 
 :::
+
+:::warning Warning!
+
+New Vegas Reloaded can greatly increase the visual fidelity of your game by adding shadows, ambient occlusion, tonemapping, DOF, bloom and more. However it is in active development and is very experimental, you may experience graphical glitches and a severe performance impact.
+
+:::
+
+### New Vegas Reloaded ![](../static/img/New.png)
+
+Download the latest build from **[#nightly-builds](https://discord.gg/MCKGakNzmp)** and install manually in MO2.
+
+- **Main Files - [Neutral Weathers - Main Plugin - NV](https://www.nexusmods.com/newvegas/mods/83820?tab=files)**
+
+- **Update Files - Neutral Weathers - Plugin Update - NV** 
+
+- **Optional Files - NVR Preset - Neutral SDR (recommended)** 
+
+- **Main Files - [Simple Fog Remover](https://www.nexusmods.com/newvegas/mods/77735?tab=files)**
+

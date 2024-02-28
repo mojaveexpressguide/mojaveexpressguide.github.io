@@ -31,25 +31,6 @@ Retextures all the card decks while staying true to their original design. Also 
 - **Main Files - NV Playing Cards HD Retexture**
 
 
-### [Gnomed](https://www.nexusmods.com/newvegas/mods/78218)
-
-"Quality" slightly cursed looking HD gnome texture.
-
-**Installation:**
-
-- **Main Files - HD gnome now with added evil gnome**
-
-
-### [F4NV Repconn Souvenir Rocket](https://www.nexusmods.com/newvegas/mods/82233)
-
-Replaces the vanilla FNV Souvenir Rocket with the brilliant F4NV recreation by ShimSham. 
-
-**Installation:**
-
-- **Optional Files - F4NV Repconn Souvenir Rocket -1k textures**
-
-
-
 ### [PM's Med-Textures - HD Chems and Venoms](https://www.nexusmods.com/newvegas/mods/62946)
 
 HD Retextures for all chems, venoms, and antivenoms. Don't do school, stay in drugs! 
@@ -86,49 +67,13 @@ Converts all currency items to use their Caravan exclusive HD models, and use an
 - **Main Files - HD Currencies V1.05**
 
 
-### [I showed you my Dinky pls respond](https://www.nexusmods.com/newvegas/mods/78986)
-
-"Better" Dinky Dino toy texture.
-
-**Installation:**
-
-- **Main Files - Dinky Dino toy Re-texture**
-
-
-### [Improved Pickaxe](https://www.nexusmods.com/newvegas/mods/80551)
-
-New 4K and 2K textures for the pickaxe plus mesh optimisations.
-
-**Installation:**
-
-- **Main Files - Improved Pickaxe 2K**
-
-
-### [Stealthly Stealth-Boy rextexture](https://www.nexusmods.com/newvegas/mods/82944) ![](../static/img/Performance.png)
+### [Stealthly Stealth-Boy rextexture](https://www.nexusmods.com/newvegas/mods/82944)
 
 Make stealth-Boy look like a thing, rather then a crusty disc/box/wire thing. 
 
 **Installation:**
 
 - **Main Files - Stealthly StealthBoy Retexture**
-
-
-### [Wonderful Wonderglue retexture](https://www.nexusmods.com/newvegas/mods/82872) ![](../static/img/Performance.png)
-
-Ultra detailed glue bottle.
-
-**Installation:**
-
-- **Main Files - Wonderful WonderGlue**
-
- 
-### [RE8 Scrap Metal Replacer](https://www.nexusmods.com/newvegas/mods/76647) ![](../static/img/Performance.png)
-
-RE8 Village Scrap Metal Replacer for FNV.
-
-**Installation:**
-
-- **Main Files - RE8 Scrap Metal Replacer**
 
 
 ### [Physically Based Kitchenware](https://www.nexusmods.com/newvegas/mods/79541) ![](../static/img/Performance.png)

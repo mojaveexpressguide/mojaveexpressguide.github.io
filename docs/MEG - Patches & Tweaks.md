@@ -141,39 +141,7 @@ If you do not have all of the selected mods or plan to add more please create yo
 
 ### MEG - LOD Generation
 
-I highly recommend that you generate your own **Object LOD** at this point unless you plan on following **METG** or adding your own textures. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
-  
-If you have downloaded **Viva New Vegas** with **Wabbajack** you will already have the resources listed on that page and so all you need to do is disable the **FNVLODGen Output** mod that you have in **MO2**, then follow the linked [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) from the **FNVLODGen** section onwards. When it comes to naming your LOD **Output** just call it **Custom FNVLODGen Output**.
-
-:::tip Note: 
-
-> Alternatively you can download pregenerated LOD which I generated with all of the mods in VNV + MEG using the texture guide. You will still need to download and install the below mods in the order presented!
-
-:::
-
-**Installation:**
-
-- **Main Files - [LOD Fixes and Improvements - NVSE](https://www.nexusmods.com/newvegas/mods/84171?tab=files)**
-
-- **Main Files - [FNVLODGen Resources](https://www.nexusmods.com/newvegas/mods/58562?tab=files)**
-
-- **Main Files - [Trees LOD Billboards Vanilla](https://www.nexusmods.com/newvegas/mods/58562?tab=files)**
-
-- **Main Files - [LODadditions](https://www.nexusmods.com/newvegas/mods/61206?tab=files)**
-
-- **Main Files - [LOD additions and improvements - YUP Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)**
-
-- **Main Files - [TCM's LOD Overhaul](https://www.nexusmods.com/newvegas/mods/70155?tab=files)**
- 
-- **Main Files - [More LODs Additions and fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)**
-
-- **Main Files - [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316?tab=files)**
-
-- **Optional Files - [LODIFY FNV Wall_SoGB Editon](https://www.nexusmods.com/newvegas/mods/84165?tab=files)**
-
-- **Optional Files - [MEG - FNVLODGen Output](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
-
-<br />
+I highly recommend that you generate your own **Object LOD** at this point unless you plan on following [**METG**](</docs/METG - Introduction>) or adding your own textures, in which can you should generate LOD last after completing these. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 
 :::info Double-click Lod Additions and Improvements in MO2:
 
@@ -185,29 +153,5 @@ Select the **Filetree** tab and find the file `meshes\dlcanch\architecture\tents
      └📁architecture
         └📁tents 
           └📁dlcanchtentcornerchb.nif  ⟵ right click and Rename to "dlcanchtentcornerchb_lod.nif"
-```
-
-:::
-
-:::info Double-click LODIFY in MO2:
-
-Select the **Filetree** tab and find the file `TTWLods.esp` then right click and select **Hide**.
-
-```
-📄 TTWLods.esp  ⟵ right click and select Hide
-```
-
-:::
-
-
-```ini title="To increase LOD Draw Distance add these settings to your falloutcustom.ini:" showLineNumbers
-[TerrainManager]
-; Increases the maximum distance of LOD  
-fBlockLoadDistanceLow=100000  
-fBlockLoadDistance=250000  
-
-[SpeedTree]
-; Makes flora use the full objects instead of LOD, this negates pop-in  
-bForceFullLOD=1  
 ```
 
