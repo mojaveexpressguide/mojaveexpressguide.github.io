@@ -55,15 +55,11 @@ Use this patch if you downloaded the WAP retextures and have B42 Optics.
 
 ### METG - LOD Generation
 
-I highly recommend that you generate your own **Object & Terrain LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html) but do take note at the below mod first.
-
-### [Parallax series -- Rocks variety](https://www.nexusmods.com/newvegas/mods/84359)![](../static/img/New.png)
-
-Before you do generate your LOD. Once you have downloaded the resources, download this mod and place the files below **Wasted LOD - Cliffs of Mojave**.
+I highly recommend that you generate your own **Object & Terrain LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html). But before you do generate your LOD. Once you have downloaded the resources, download this mod and place the files below **Wasted LOD - Cliffs of Mojave**.
 
 **Installation:**
 
-- **Main Files - Parallax series--Rocks variety Meshes No Occlusion**
+- **Main Files - [Parallax series--Rocks variety Meshes No Occlusion](https://www.nexusmods.com/newvegas/mods/84359?tab=files)** ![](../static/img/New.png)
 
 - **Main Files - Textures Vanilla size and LOD**
 
