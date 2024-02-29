@@ -43,7 +43,7 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 
 
 
-### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)**
+### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
 "Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
 
@@ -103,11 +103,11 @@ NVSE plugin that aims to fix UI bugs and add new UI features.
 
 - **Main Files - [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358?tab=files)**
 
-- **Main Files - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117?tab=files)** ![](../static/img/New.png)
+- **Main Files - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117?tab=files)** 
 
-- **Main Files - [Faded Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674?tab=files)** ![](../static/img/New.png)
+- **Main Files - [Faded Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674?tab=files)** 
 
-- **Main Files - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075?tab=files)** ![](../static/img/New.png)
+- **Main Files - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075?tab=files)**
 
 - **Main Files - ySI - Colorful Icons Fix (JLM)**
 

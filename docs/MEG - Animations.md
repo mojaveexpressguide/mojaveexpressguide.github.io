@@ -81,7 +81,7 @@ Plays animations when interacting with objects, opening/closing doors and pickin
 - **Main Files - Vanilla Animations Weapon Scale Fix**
 
 
-### [Hit's Anims - Season 1](https://www.nexusmods.com/newvegas/mods/73856) ![](../static/img/New.png)
+### [Hit's Anims - Season 1](https://www.nexusmods.com/newvegas/mods/73856)
 
 All of Hit's kNVSE anim sets in one place.
 

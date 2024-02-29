@@ -44,7 +44,7 @@ An addon for Just Assorted Mods that adds some new features for Just Bullet Time
 - **Main Files - JBT Improved 1.01**
 
 
-### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) ![](../static/img/New.png)
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
 
 Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Add to any armor with included KEYWORDs support.  

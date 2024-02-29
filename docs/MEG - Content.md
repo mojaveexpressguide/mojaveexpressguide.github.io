@@ -65,7 +65,7 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 - **Update Files - Another Millenia Update 2.4.6**
 
-- **Main Files [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192?tab=files)**
+- **Main Files [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192?tab=files)** ![](../static/img/New.png)
 
 
 ### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png)

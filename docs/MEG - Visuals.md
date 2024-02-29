@@ -35,7 +35,7 @@ Adds a Depth of Field (DoF) effect to Just Bullet Time. Highlighting your curren
 - **Main Files - Just Bullet Time DoF**
 
 
-### [Sneak Vignette - ESPless](https://www.nexusmods.com/newvegas/mods/84802) ![](../static/img/New.png)
+### [Sneak Vignette - ESPless](https://www.nexusmods.com/newvegas/mods/84802)
 
 Adds vignette to the screen while the player is sneaking. Optionally adjust vignette intensity based on detection state. 
 
@@ -44,7 +44,7 @@ Adds vignette to the screen while the player is sneaking. Optionally adjust vign
 - **Main Files - Sneak Vignette**
 
 
-### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917) ![](../static/img/New.png)
+### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917)
 
 Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more! 
 
