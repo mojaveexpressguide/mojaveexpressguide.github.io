@@ -31,20 +31,20 @@ Some new stuff.
 ### MEG - Patches & Tweaks
 - **Updated:** MEG Patches - (Updated Iron Sights Alignment Patch)
 - **Updated:** MEG Tweaks - (Added a bunch of new stewie's tweaks to the config)
-Hold And Release Throwables
-Bloody Mess Gibs Targeted Limb Only
-Color Weapon Condition Label
-Compass Fade Left Side
-Compass Location Distance Based Alpha
-Compass NPC Distance Based Alpha
-Container Encumbrance Indicator
-Fall Deaths Cause Dismemberment
-Local Map Separate Interior/Exterior Door Icon
-Locational Melee Damage
-Lockpick Remembers Bobby Pin Angle
-NPCs Take Limb Fall Damage
-Removes Chem Worn Off IMOD
-Respawning Container Indicator
-Target Held Explosives
+Hold And Release Throwables  
+Bloody Mess Gibs Targeted Limb Only  
+Color Weapon Condition Label  
+Compass Fade Left Side  
+Compass Location Distance Based Alpha  
+Compass NPC Distance Based Alpha  
+Container Encumbrance Indicator  
+Fall Deaths Cause Dismemberment  
+Local Map Separate Interior/Exterior Door Icon  
+Locational Melee Damage  
+Lockpick Remembers Bobby Pin Angle  
+NPCs Take Limb Fall Damage  
+Removes Chem Worn Off IMOD  
+Respawning Container Indicator  
+Target Held Explosives  
 
 **Safe to update mid-save.**

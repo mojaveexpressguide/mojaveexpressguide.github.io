@@ -63,14 +63,9 @@ This pack now adds over 40+ weapons from Millenias Assets! Now including new cus
 
 - **Main Files - Another Millenia**
 
+- **Update Files - Another Millenia Update 2.4.6**
 
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
-
-Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
-
-**Installation:**
-
-- **Main Files -  Supplemental Ammo Crafting NV**
+- **Main Files [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192?tab=files)**
 
 
 ### [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) ![](../static/img/Performance.png)

@@ -1,6 +1,6 @@
 ---
-slug: 2024-02-26-Changelog
-title: 26/02/2024 Update
+slug: 2024-02-28-Changelog
+title: 28/02/2024 Update
 authors: Biggie404
 tags: [Feburary]
 ---

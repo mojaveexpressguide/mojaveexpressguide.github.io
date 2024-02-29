@@ -42,29 +42,14 @@ This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks aroun
 :::
 
 
-### [Clean Vanilla Hud](https://www.nexusmods.com/newvegas/mods/70001)
 
-Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
+### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)**
+
+"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
 
 **Installation:**
 
-- **Main Files - Clean Vanilla Hud**
-
-:::info In the installer:
-
-**[Clean Vanilla Hud]**
-
-> - [x] Keep the default boxes checked
-
-**> Install**
-
-:::
-
-- **Main Files - [Clean Companion Wheel 512x512 Edition](https://www.nexusmods.com/newvegas/mods/70486?tab=files)**
-
-- **Main Files - [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)**
-
-- **Main Files - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516?tab=files)**
+- **Main Files - Pop-Up Message Icons**
 
 :::info In the installer:
 
@@ -79,7 +64,6 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 **> Install**
 
 :::
-
 
 
 ### [B42 Notify](https://www.nexusmods.com/newvegas/mods/80085)
@@ -124,6 +108,8 @@ NVSE plugin that aims to fix UI bugs and add new UI features.
 - **Main Files - [Faded Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674?tab=files)** ![](../static/img/New.png)
 
 - **Main Files - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075?tab=files)** ![](../static/img/New.png)
+
+- **Main Files - ySI - Colorful Icons Fix (JLM)**
 
 
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)

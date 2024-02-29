@@ -35,39 +35,13 @@ Allows you to lean.
 - **Main Files - B42 True Leaning**
 
 
-### [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
+### [Bullet Time Improved - a JAM addon](https://www.nexusmods.com/newvegas/mods/78324)
 
-A collection of useful mods, merged for convenience. 
+An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
 
 **Installation:**
 
-- **Main Files - Just Assorted Mods**
-
-- **Main Files - [Clean Just Assorted Mods (JAM)](https://www.nexusmods.com/newvegas/mods/82724?tab=files)**
-
-- **Main Files - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075?tab=files)** ![](../static/img/New.png)
-
-- **Main Files - [New Sprint animations for JAM](https://www.nexusmods.com/newvegas/mods/74839?tab=files)**
-
-- **Main Files - [Just Sprint Plus - Expansion for JAM and JVS](https://www.nexusmods.com/newvegas/mods/83797?tab=files)**
-
-:::info In the installer:
-
-**[Install For:]**
-
-> - [x] JAM - Just Assorted Mods
-
-**> Install**
-
-:::
-
-- **Main Files - [JBT Improved 1.01](https://www.nexusmods.com/newvegas/mods/78324?tab=files)**
-
-:::info On the left pane in MO2:
-
-> Disable the **JLM - Just Loot Menu** mod installed previously from **Viva New Vegas** under the User Interface created separator.
-
-:::
+- **Main Files - JBT Improved 1.01**
 
 
 ### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) ![](../static/img/New.png)
@@ -78,6 +52,15 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 **Installation:**
 
 - **Main Files - Simple Night Vision**
+
+
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
+
+Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW. 
+
+**Installation:**
+
+- **Main Files -  Supplemental Ammo Crafting NV**
 
 
 ### [No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572)

@@ -17,6 +17,15 @@ This mod, thanks to JazzIsParis magic, adds diagonal movement. Simple as that.
 - **Main Files - Diagonal Movement 0.6b**
 
 
+### [JAM or Just Sprint animation replacers](https://www.nexusmods.com/newvegas/mods/74839)
+
+New sprint animations for JAM/Just Sprint, compatible and recommended to use with weapon animation mods.
+
+**Installation:**
+
+- **Main Files - New sprint animations for JAM 1.1**
+
+
 ### [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456)
 
 Modern replacer for stagger (aka crippling) animations made via motion capture.
