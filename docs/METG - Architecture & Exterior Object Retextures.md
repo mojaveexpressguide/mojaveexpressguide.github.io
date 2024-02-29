@@ -124,22 +124,13 @@ The rusty green, white and red metal shipping crates found throughout the game l
 - **Update Files - NillaPlus Crates hotfix 1.0 to 1.01 (all versions)**
 
 
-### [NillaPlus Howitz Started](https://www.nexusmods.com/newvegas/mods/84696) ![](../static/img/New.png)
+### [NillaPlus Howitz Started](https://www.nexusmods.com/newvegas/mods/84919) ![](../static/img/New.png)
 
 A high quality replacer for the vanilla howitzers.
 
 **Installation:**
 
 - **Main Files - NillaPlus Howitz Going Artillery 2K base mod**
-
-
-### [Architecture Retexture Pack (4k - 2k)](https://www.nexusmods.com/newvegas/mods/74895)
-
-A small pack of architecture retextures, WIP. 
-
-**Installation:**
-
-- **Main Files - Architecture Retexture Pack - 2k**
 
 
 ### [High Quality Picket Fences](https://www.nexusmods.com/newvegas/mods/79659)

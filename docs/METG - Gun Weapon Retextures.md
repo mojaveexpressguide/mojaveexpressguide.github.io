@@ -71,7 +71,7 @@ FO4 Port -- Project to remake all of the explosives in the game.
 
 **Installation:**
 
-- **Optional Files - VWR - Vanilla Weapons Redone - Explosives**
+- **Main Files - VWR - Vanilla Weapons Redone - Explosives**
 
 
 ### [Type II's Replacer Project](https://www.nexusmods.com/newvegas/mods/69830)
@@ -121,7 +121,7 @@ Select the **Filetree** tab and find the file `HoloRedux.esp` then right click a
 :::
 
 
-### [Grenade Machineguns Reborn - Weapon Overhaul](https://www.nexusmods.com/newvegas/mods/69607) ![](../static/img/New.png)
+### [Grenade Machineguns Reborn - Weapon Overhaul](https://www.nexusmods.com/newvegas/mods/74793) ![](../static/img/New.png)
 
 Replaces the grenade machinegun's models and textures, for both the standard and unique versions.
 

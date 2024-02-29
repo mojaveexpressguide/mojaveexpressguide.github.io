@@ -176,7 +176,7 @@ Run the reshade installer you used and uninstall reshade. Then go to C:\ProgramD
 
 :::warning Warning!
 
-New Vegas Reloaded can greatly increase the visual fidelity of your game by adding shadows, ambient occlusion, tonemapping, DOF, bloom and more. However it is in active development and is very experimental, you may experience graphical glitches and a severe performance impact.
+New Vegas Reloaded can greatly increase the visual fidelity of your game by adding shadows, ambient occlusion, tonemapping, DOF, bloom and more. However it is in active development and is very experimental, you may experience graphical glitches, crashes and a severe performance impact.
 
 :::
 

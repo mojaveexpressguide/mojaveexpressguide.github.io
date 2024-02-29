@@ -55,7 +55,7 @@ Use this patch if you downloaded the WAP retextures and have B42 Optics.
 
 ### METG - LOD Generation
 
-I highly recommend that you generate your own **Object & Terrain LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html). But before you do generate your LOD. Once you have downloaded the resources, download this mod and place the files below **Wasted LOD - Cliffs of Mojave**.
+I highly recommend that you generate your own **Object & Terrain LOD** at this point. You can do so by following this [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html). But before you do generate your own LOD and have downloaded all the resouces from the LOD Guide, also download the mod below and place the files below **Wasted LOD - Cliffs of Mojave**.
 
 **Installation:**
 
