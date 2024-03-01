@@ -8,7 +8,10 @@ sidebar_position: 2
 
 :::info Instruction:
 
-As you did with **Viva New Vegas** you will now need to create new separators for the above categories. Create this seperator and place it below the **Visuals** seperator previously created for **VNV**.
+As you did with **Viva New Vegas** you will now need to create new separators for the above categories. Create the seperator **MEG - Utilities** and place it below the **Visuals** seperator previously created for **VNV**. Below is an example of how the separators will look once you have completed the guide.
+
+![](../static/img/MEG-ModlistSeparators.png)
+
 
 :::
 

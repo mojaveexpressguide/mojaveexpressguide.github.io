@@ -8,7 +8,7 @@ sidebar_position: 9
 
 As you did with **Viva New Vegas** create new separators for the above categories.
 
-### [Weapon DOF and Blur Effects](https://www.nexusmods.com/newvegas/mods/76064)
+### [Weapon DOF and Blur Effects](https://www.nexusmods.com/newvegas/mods/76064) ![](../static/img/Performance.png)
 
 Adds options for a light radial blur effect when aiming down sights, and subtle close DOF on the equipped weapon. Configurable. 
 
@@ -17,7 +17,7 @@ Adds options for a light radial blur effect when aiming down sights, and subtle 
 - **Main Files - Weapon DOF and Blur Effects**
 
 
-### [Just Loot Menu DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84691)
+### [Just Loot Menu DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84691) ![](../static/img/Performance.png)
 
 Adds a Depth of Field (DoF) effect to Just Loot Menu. Highlighting the currently selected container.
 
@@ -26,7 +26,7 @@ Adds a Depth of Field (DoF) effect to Just Loot Menu. Highlighting the currently
 - **Main Files - Just Loot Menu DoF**
 
 
-### [Just Bullet Time DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84680)
+### [Just Bullet Time DoF - ESPless](https://www.nexusmods.com/newvegas/mods/84680) ![](../static/img/Performance.png)
 
 Adds a Depth of Field (DoF) effect to Just Bullet Time. Highlighting your current target or crosshair location. 
 

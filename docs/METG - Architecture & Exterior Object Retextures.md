@@ -28,7 +28,7 @@ A more detailed retexture of the base roads making them look more "Asphalt" like
 
 **Installation:**
 
-- **Main Files - Better Underside of Roads**
+- **Optional Files - Better Underside of Roads**
 
 
 ### [Dinky the Deluxe Dinosaur - Definitive Dinky Retexture](https://www.nexusmods.com/newvegas/mods/80064)

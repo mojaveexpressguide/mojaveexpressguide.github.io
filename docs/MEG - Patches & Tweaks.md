@@ -103,8 +103,6 @@ Pick the **tweaks** that you would like and make sure to read the description of
 
 - MEG - Stewie Tweaks Config
 
-- MEG - Simple Vigor Config
-
 - MEG - JAM Config
 
 - MEG - B42 True Leaning Config
