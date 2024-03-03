@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ---
 
+## (This guide is no longer actively supported and soon to be archived 31/03/ 2024.)
+
 :::caution Important:
 
 You will need at least base **VNV** and to have done so using **MO2**. Although this guide has been made with the full **VNV Extended** modlist and is recommended to get the full experience. If you have used another guide or mod manager support will not be given. A **new save** will be required for this guide!
