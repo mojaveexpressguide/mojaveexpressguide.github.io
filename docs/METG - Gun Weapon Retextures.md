@@ -148,22 +148,6 @@ ESP Less Minigun Replacers Custom Animations, Sounds, Models And Textures.
 
 - **Main Files - ETJ Miniguns Vanilla Stats**
 
-If you installed **FNV Clean Animations - Part 2** then do the following to get the animations to play properly.
-
-:::info Double-click FNV Clean Animations - Part 2 in MO2:
-
-Select the **Filetree** tab and find the folder `meshes\AnimGroupOverride\Rock_Minigun` then right click and select **Hide**.
-
-```
-  📁meshes 
-   └📁AnimGroupOverride  
-     └📁Rock_Minigun     ⟵ right click and select Hide
-```
-
-:::
-
-
-
 
 ### [WAP Year One and Bonus](https://www.nexusmods.com/newvegas/mods/78140?tab=description) ![](../static/img/Performance.png)
 

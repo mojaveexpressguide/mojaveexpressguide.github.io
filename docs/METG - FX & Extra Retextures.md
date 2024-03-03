@@ -186,7 +186,7 @@ Download the latest build from **[#nightly-builds](https://discord.gg/MCKGakNzmp
 
 - **Update Files - Neutral Weathers - Plugin Update - NV** 
 
-- **Optional Files - NVR Preset - Neutral SDR (recommended)** 
+- **Optional Files - [MEG - NVR Preset](https://www.nexusmods.com/newvegas/mods/80444?tab=files)**
 
 - **Main Files - [Simple Fog Remover](https://www.nexusmods.com/newvegas/mods/77735?tab=files)**
 
