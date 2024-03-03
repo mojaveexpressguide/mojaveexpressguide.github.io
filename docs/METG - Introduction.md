@@ -2,7 +2,7 @@
 
 ---
 
-## (This guide is no longer actively supported and soon to be archived 31/03/ 2024.)
+## (This guide is no longer actively supported and soon to be archived 31/03/2024.)
 
 Due to high demand I have created a texture guide specifically tailored to both the **Viva New Vegas** and **Mojave Express Guide**, which should be started after you have completed both. This guide will cover a large portion of the assets from New Vegas whilst trying to keep reasonable choices and performance in mind. It is extremely difficult to create a cohesive texture guide with large coverage as the textures and meshes have to be from various author's of varying styles and quality levels. Poorly made meshes are known to cause crashes so for the sake of stability I have tried to avoid these. If you are looking for a texture guide with different visuals then check out **[New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)**.
 

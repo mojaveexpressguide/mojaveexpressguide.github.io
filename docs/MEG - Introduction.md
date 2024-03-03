@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-## (This guide is no longer actively supported and soon to be archived 31/03/ 2024.)
+## (This guide is no longer actively supported and soon to be archived 31/03/2024.)
 
 :::caution Important:
 
