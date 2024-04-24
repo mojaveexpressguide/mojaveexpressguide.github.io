@@ -11,7 +11,7 @@ function HomepageHeader() {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <h1 class="black-text-shadow" className="hero__title">{siteConfig.title}</h1>
-        <b class="black-text-shadow"> A Viva New Vegas Extension Guide (This guide is no longer actively supported and soon to be archived 31/03/2024.) </b>
+        <b class="black-text-shadow"> A Viva New Vegas Extension Guide (This guide is no longer supported as of 3/03/2024.) </b>
         <br />
         <br />
         {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
