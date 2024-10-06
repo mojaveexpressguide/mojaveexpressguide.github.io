@@ -2,6 +2,6 @@
 
 ---
 
-I did a bunch of benchmarks but they weren't valid so I need to redo them. Enjoy this blank page for now.
+## (This guide is no longer supported as of 3/03/2024.)
 
 
