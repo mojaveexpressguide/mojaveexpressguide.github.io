@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Biggie404","title":"Author and maintainer of the Mojave Express Wabbajack","url":"https://github.com/mojaveexpressguide","imageURL":"https://github.com/mojaveexpressguide.png","key":"Biggie404","page":null,"count":1}]}')}}]);
