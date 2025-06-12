@@ -100,6 +100,11 @@ const config = {
         hideable: true,
       },
     },
+    colorMode: {
+    defaultMode: 'dark',
+    disableSwitch: false, // Optional: true disables the toggle switch
+    respectPrefersColorScheme: false, // Optional: false ignores the user's OS theme
+    },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

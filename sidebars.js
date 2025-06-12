@@ -37,15 +37,16 @@ const sidebars = {
     'Pre-Installation',
     'Installation',
     'Mod Organizer 2',
+    'Performance',
     'Useful Information',
-    `Configuration & Tweaks`,
+    'Configuration & Tweaks',
     'Controls Guide',
+
     'Updating MEW',
   ],
 
     Benchmarks: [
     'Benchmarks',
-    'Performance',
   ],
 
 };

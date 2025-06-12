@@ -21,8 +21,4 @@ You can update your current installation by following these steps:
 1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
 2. **Verify files** on Steam or GOG Galaxy.
 3. **Reinstall the list** from Wabbajack with the **"Overwrite Installation"** checkbox enabled.
-4. Re-run the 4GB Patcher, then optionally run the BSA Decompressor as well ([instructions](/docs/Installation#root-mods).
-
-
-
-
+4. Re-run the 4GB Patcher, then optionally run the BSA Decompressor as well ([instructions](/docs/Installation#root-mods)).

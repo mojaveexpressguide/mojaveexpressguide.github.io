@@ -42,6 +42,7 @@ Windows installations deviating from the public release (e.g. customized or LTSC
 
 
 ## Installing VC++ Redistributables
+
 Most engine mods and tools require latest **Visual C++ Redistributables** to be installed. We will use an all-in-one package that will install all possible versions.
 
 :::danger Mandatory
@@ -59,15 +60,16 @@ Please install the redistributables even if you have them installed already, as 
 
 
 ## Enabling File Extensions
+
 Before we start, it is important to enable **file extensions** in Windows.
 
 By default, File Explorer will not show file extensions (such as .exe, .dll, or .esp). These extensions are very important pre and installation, so it is highly recommended to enable visible file extensions:
+
 
 1. Open File Explorer.
 2. Select the **View** tab at the top.
 3. Enable **File name extensions** in the Show section.
 <p>![EnablingFileExtensions](../static/img/EnablingFileExtensions.png)</p>
-
 
 ## Disabling Base Address Randomization
 
@@ -75,7 +77,8 @@ Base Address Randomization is a security feature in Windows that allows program'
 
 While the feature should be disabled by default, it is still recommended to sanity check if it is disabled:
 
-1. Open <button onClick={() => window.location.href = 'ms-settings:windowsdefender'}> Windows Security </button> from your **Start Menu**. 
+
+1. Open <button onClick={() => window.location.href = 'ms-settings:windowsdefender'}> Windows Security </button> from your **Start Menu**.
 2. Click on **App & browser control** in the left sidebar.
 3. Click on **Exploit protection settings** under Exploit protection.
 <p>![WindowsSecurityBaseRandomization](../static/img/WindowsSecurityBaseRandomization.png)</p>

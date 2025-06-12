@@ -72,18 +72,6 @@
   text-shadow: 3px 3px 6px #000000;
 }
 
-/* Target <ol> markers */
-.colored-numbers li::marker {
- color: #ffc64b; 
-/*  color: rgb(255, 47, 47); /* Or any color you want */
-  font-weight: bold;
-}
-
-
-.custom-text {
-  color: #ffc64b;
-}
-
 
 .hover-spoiler {
   color: transparent;
@@ -95,5 +83,35 @@
 }
 
 .hover-spoiler:hover {
+  color: #ffc64b;
+}
+
+ol {
+  counter-reset: list-counter;
+  list-style: none;
+  padding-left: 1.5em;
+}
+
+ol > li {
+  counter-increment: list-counter;
+  position: relative;
+  margin-bottom: 0.5em;
+}
+
+ol > li::before {
+  content: counter(list-counter) ".";
+  position: absolute;
+  left: -1.5em;
+  color: #ffc64b; /* Your color here */
+ 
+  font-weight: bold;
+}
+
+/* Global bullet color */
+ul li::marker {
+  color: #ffc64b; /* Replace with your desired global bullet color */
+}
+
+.custom-text {
   color: #ffc64b;
 }
