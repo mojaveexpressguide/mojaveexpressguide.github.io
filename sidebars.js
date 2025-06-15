@@ -38,7 +38,7 @@ const sidebars = {
     'Installation',
     'Mod Organizer 2',
     'Performance',
-    'Useful Information',
+    'UsefulInformation',
     'Configuration & Tweaks',
     'Controls Guide',
 

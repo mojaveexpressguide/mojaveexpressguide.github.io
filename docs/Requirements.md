@@ -26,7 +26,7 @@ The game is much more CPU-intensive than GPU-intensive, and actually scales with
     - The Polish-Czech-Russian (PCR) version of Fallout: New Vegas is fully supported as long as the game itself is in English.
     - The German release uses a "No Gore" version, making it also incompatible with xNVSE.
 - At least 40GB of free drive space, game included (32GB if you delete all the downloads).
-- Windows 10 or higher (64-bit). **Linux is not supported!**
+- Windows 10 or higher (64-bit). **Linux will not be supported! But it is possible if you have the know-how**
 
 :::danger Important 
 
