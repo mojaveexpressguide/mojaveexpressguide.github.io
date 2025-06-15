@@ -35,6 +35,8 @@ sidebar_position: 5
 
 ## 🎮 Controller:
 
+You may want to enable the <span class="custom-text">**Soft-Lock Aim-Assist**</span> mod in the **Utilities** separator in the left pane of **MO2**.
+
 <p>**MEW** uses a modernized control scheme that is closer to later titles like FO4.</p>
 
 <p>![ControllerLayout](../static/img/ControllerLayout.png)</p>

@@ -6,9 +6,23 @@ sidebar_position: 1
 
 ---
 
+
+:::danger IMPORTANT! 
+
+<h1> The wabbajack is not available currently! </h1>
+
+:::
+
+
 The Mojave Express Wabbajack **(MEW)** is the reincarnation of my previous Mojave Express Guide **(MEG)** which was a [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html) additions guide. This time it's a [Wabbajack](https://www.wabbajack.org/) which allows me unrestricted mod choice and gives you a semi-automated mod downloading process (a Nexus premium account is needed for fully automated downloading). 
 
 Regardless of your experience with **Fallout: New Vegas** or modding this list could be ideal for you. The goal of **MEW** is to add depth and additional elements, including mechanics from FO4/F76 whilst keeping the game fairly lore friendly and balanced. 
+
+:::tip Note
+
+There are very few **"texture mods"** in the guide, the visual mods included mainly consist of weather and improved VFX. The short reason for this is that there are currently no large scale texture packs for FNV that are completely vanilla in style and have consistent quality and coverage. The best option is to mix and match dozens of mods from various authors which vary in quality and art direction which I do not want to do.
+
+:::
 
 :::danger Important:
 
