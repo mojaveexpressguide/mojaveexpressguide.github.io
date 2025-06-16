@@ -83,17 +83,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-                  // Image zoom plugin
-            // Image zoom plugin
-      zoom: {
-        selector: ".markdown :not(em) > img",
-        background: {
-          light: "rgba(0,0,0,0.3)",
-          dark: "rgba(0,0,0,0.5)",
-        },
-        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-        config: {},
-      },
       docs: {
         sidebar: {
         autoCollapseCategories: true,
