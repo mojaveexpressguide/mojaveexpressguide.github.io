@@ -26,7 +26,7 @@ There are very few **"texture mods"** in the guide, the visual mods included mai
 
 :::danger Important:
 
-This list is not designed to be a stable base for you to add your own mods. Everything has been designed to work together as is, and unless you have a good general understanding of modding, the mods used and xedit, you should not try to add anything! If you are looking for something more vanilla focused that is more suitable to be modified then try out [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html).
+This list is not designed to be a stable base for you to add your own mods. Everything has been designed to work together as is, and unless you have a good general understanding of modding, the mods used and xEdit, you should not try to add anything! If you are looking for something vanilla focused that is more suitable to be modified then try out [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html).
 
 :::
 
