@@ -18,7 +18,9 @@ The game is much more CPU-intensive than GPU-intensive, and actually scales with
 
 :::
 
-## Software Requirements
+---
+
+## Software Requirements:
 
 - An **English** copy of the game with **all DLCs** from either **[Steam](https://store.steampowered.com/sub/13435/)** or **[GOG](https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition)**.
     - The Microsoft Store and Epic Games versions are **not supported!**
@@ -39,9 +41,9 @@ Windows installations deviating from the public release (e.g. customized or LTSC
 - The latest GPU drivers (either [NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/en/support) or [Intel](https://www.intel.com/content/www/us/en/search.html#q=&sort=relevancy&f:@tabfilter=[Downloads]&f:@stm_10385_en=[Graphics])).
 - A [Nexus Mods](https://users.nexusmods.com/register) account (a Premium subscription will allow uncapped speeds and fully automated mod downloading).
 
+---
 
-
-## Installing VC++ Redistributables
+## Installing VC++ Redistributables:
 
 Most engine mods and tools require latest **Visual C++ Redistributables** to be installed. We will use an all-in-one package that will install all possible versions.
 
@@ -58,8 +60,9 @@ Please install the redistributables even if you have them installed already, as 
 - After extracting run the included `install_all.bat` as an administrator.
 - Restart your PC.
 
+---
 
-## Enabling File Extensions
+## Enabling File Extensions:
 
 Before we start, it is important to enable **file extensions** in Windows.
 
@@ -71,7 +74,9 @@ By default, File Explorer will not show file extensions (such as .exe, .dll, or 
 3. Enable **File name extensions** in the Show section.
 <p>![EnablingFileExtensions](../static/img/EnablingFileExtensions.png)</p>
 
-## Disabling Base Address Randomization
+---
+
+## Disabling Base Address Randomization:
 
 Base Address Randomization is a security feature in Windows that allows program's starting address to be randomized, which is not the expected behavior in 32-bit programs like Fallout: New Vegas. This **leads to crashes** in a modded game.
 

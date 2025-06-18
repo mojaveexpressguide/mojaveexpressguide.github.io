@@ -9,7 +9,7 @@ sidebar_position: 1
 
 :::danger IMPORTANT! 
 
-<h1> The wabbajack is not available currently! </h1>
+<h1> The Wabbajack is not available currently! </h1>
 
 :::
 
@@ -24,7 +24,7 @@ There are very few **"texture mods"** in the guide, the visual mods included mai
 
 :::
 
-:::danger Important:
+:::danger Important!
 
 This list is not designed to be a stable base for you to add your own mods. Everything has been designed to work together as is, and unless you have a good general understanding of modding, the mods used and xEdit, you should not try to add anything! If you are looking for something vanilla focused that is more suitable to be modified then try out [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html).
 
@@ -85,7 +85,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ---
 
 ### 🔥 Difficulty Overhauls: 
-<span class="custom-text">**These can all be safely disabled ⮯**</span>
+<p><span class="custom-text">**These can all be safely disabled ⮯**</span></p>
 - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
 - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
 - Water radiation is ramped up based upon depth.
@@ -109,7 +109,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### Content
+### Content:
 - A plethora of restored content, consistency fixes, integrated content, and "gray area" bug fixes thanks to [Goodies](https://www.nexusmods.com/newvegas/mods/91028).
 - A collection of small vanilla-friendly gameplay improvements from [EVEM](https://www.nexusmods.com/newvegas/mods/78877).
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.

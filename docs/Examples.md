@@ -21,4 +21,4 @@ blah blah blah
 
 <span class="hover-spoiler">Voldemort kills Snape.</span>
 
-<span class="custom-text">**These can all be safely disabled ⮯**</span>
+<span class="custom-text"></span>

@@ -17,6 +17,8 @@ A **clean game installation** is <span class="custom-text">**mandatory**</span> 
 
     - **Install on an SSD** if possible as this will drastically improve loading times and decrease stuttering.
 
+---
+
 ## Uninstalling the game:
 
 :::tip Note:
@@ -51,8 +53,9 @@ As the game is available on **Steam or GOG** there are separate instructions for
 
 </details>
 
+---
 
-## Installing the game
+## Installing the game:
 
 
 :::danger Warning:
@@ -98,7 +101,9 @@ If you already have Steam installed outside of any default windows folders then 
 
 </details>
 
-## Generating Fresh INI Files
+---
+
+## Generating Fresh INI Files:
 
 
 1. Run the game from Steam/GOG Galaxy, or through FalloutNVLauncher.exe in the game files if you are using an offline copy.
@@ -106,8 +111,9 @@ If you already have Steam installed outside of any default windows folders then 
     - If there aren't any pop-ups, navigate to `Documents\My Games\FalloutNV` and delete all INI files, then retry.
 3. Click **OK** then Exit.
 
+---
 
-## Key Terminology
+## Key Terminology:
 
 Now that the game is installed, there are two folders from it that will be referred to in the guide often: 
 

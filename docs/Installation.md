@@ -34,6 +34,7 @@ Once complete, the installation will show a **Installation Complete** screen.dow
 4. If you see a **Installation Failed** screen, Read the FAQ Wabbajack Installation Failed section. 
     - If that doesn't work please join the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) server for support.
 
+---
 
 ## Post-Installation Steps
 
