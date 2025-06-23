@@ -28,7 +28,7 @@ The game is much more CPU-intensive than GPU-intensive, and actually scales with
     - The Polish-Czech-Russian (PCR) version of Fallout: New Vegas is fully supported as long as the game itself is in English.
     - The German release uses a "No Gore" version, making it also incompatible with xNVSE.
 - At least 40GB of free drive space, game included (32GB if you delete all the downloads).
-- Windows 10 or higher (64-bit). **Linux will not be supported! But it is possible if you have the know-how**
+- Windows 10 or higher (64-bit). **Linux will not be supported! But it is possible if you have the know-how.**
 
 :::danger Important 
 
@@ -78,7 +78,7 @@ By default, File Explorer will not show file extensions (such as .exe, .dll, or 
 
 ## Disabling Base Address Randomization:
 
-Base Address Randomization is a security feature in Windows that allows program's starting address to be randomized, which is not the expected behavior in 32-bit programs like Fallout: New Vegas. This **leads to crashes** in a modded game.
+Base Address Randomization is a security feature in Windows that allows program's starting address to be randomized, which is not the expected behavior in 32-bit programs like Fallout: New Vegas. This <span class="custom-text">**leads to crashes**</span> in a modded game.
 
 While the feature should be disabled by default, it is still recommended to sanity check if it is disabled:
 

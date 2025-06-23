@@ -41,13 +41,18 @@ const sidebars = {
     'UsefulInformation',
     'Configuration & Tweaks',
     'Controls Guide',
-
     'Updating MEW',
+    'Known Issues',
   ],
 
     Benchmarks: [
     'Benchmarks',
   ],
+
+      FAQ: [
+    'FAQ',
+  ],
+
 
 };
 

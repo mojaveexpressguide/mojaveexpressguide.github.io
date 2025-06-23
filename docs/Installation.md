@@ -57,7 +57,7 @@ This operation is required because Windows can block MO2 and mod files from load
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Files Requiring Manual Install**</span> folder.
 <p>![FilesRequiringManualInstall](../static/img/FilesRequiringManualInstall.png)</p>
-2. Copy **everything** to the game's **Root folder**.
+2. Copy **everything** inside to the game's **Root folder**.
 <p>![RootModsInstall](../static/img/RootModsInstall.png)</p>
 3. Still in the game's Root folder, double-click on **FNVpatch.exe** to run it.
 4. A command prompt window will open and it should say:

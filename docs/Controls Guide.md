@@ -12,7 +12,11 @@ sidebar_position: 5
 - You can use <span class="custom-text">**WASD**</span> in menus now.
 
 **Change Ammo Type**
-- Double tap <span class="custom-text">**R**</span>. 
+- Double tap <span class="custom-text">**R**</span>.
+
+**Change Shoulder Camera**
+
+- Press <span class="custom-text">**F**</span> or <span class="custom-text">**MMB**</span> whilst **aiming** to change shoulder camera view.
 
 **Quick Select:**
 - Hold <span class="custom-text">**1**</span> to easily select **weapons**.
@@ -28,9 +32,9 @@ sidebar_position: 5
 
 - Press <span class="custom-text">**C**</span> to change **firemode** with automatic weapons.
 
-**Item Cards**
+**B42 Scopes:**
 
-- Hold <span class="custom-text">**Shift**</span> to bring up **item cards** when looting.
+- Use the <span class="custom-text">**Scroll Wheel**</span> to adjust **zoom** and <span class="custom-text">**TAB**</span> to adjust **night vision** on supported scopes.
 
 
 ## 🎮 Controller:

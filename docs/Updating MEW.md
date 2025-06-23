@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ---
 
-### Updating the modlist
+### Updating the modlist:
 
 Whenever a new version of the MEW is released you can easily update it by rerunning the Wabbajack.
 

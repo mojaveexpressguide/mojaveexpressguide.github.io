@@ -21,4 +21,4 @@ blah blah blah
 
 <span class="hover-spoiler">Voldemort kills Snape.</span>
 
-<span class="custom-text"></span>
+<span class="custom-text">**wah**</span>

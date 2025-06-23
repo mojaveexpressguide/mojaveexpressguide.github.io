@@ -115,7 +115,13 @@ const config = {
             position: 'left',
             label: 'Benchmarks',
           },
-          
+          {
+            type: 'docSidebar',
+            sidebarId: 'FAQ',
+            position: 'left',
+            label: 'FAQ',
+          },
+
           {to: '/blog', label: 'Changelog', position: 'left'},
           {
             href: "https://github.com/mojaveexpressguide/mojaveexpressguide.github.io",

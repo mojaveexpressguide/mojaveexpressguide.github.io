@@ -57,14 +57,12 @@ You will need to launch the game through **MO2** everytime you intend to play th
     - If any check fails and the comment doesn't help you find a solution, open a support thread in the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) discord server. 
 2. Close the game and disable the **ML Utilities Checker** under the Utilities separator (left pane).
 
-### Disabling performance intensive mods
-
-Some of the mods in the Wabbajack can be potentially performance intensive. They will be marked with **Potentially Performance Intensive! Can be safely disabled.** in the Notes section and can be safely disabled.
-
 
 :::tip You have now successfully installed the Mojave Express Wabbajack list. You can now start playing!
 
 It is highly recommended to follow the [**Performance & Optimization**](/docs/Performance) step next! You can additionally check out the **Useful Information**, **Configuration & Tweaks**, and **Controls Guide** as well.
 
 :::
+
+- If anything fails please check out the FAQ page!
 
