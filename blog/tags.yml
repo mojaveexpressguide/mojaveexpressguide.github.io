@@ -18,6 +18,11 @@ hola:
   permalink: /hola
   description: Hola tag description
 
+June:
+  label: June
+  permalink: /June
+  description: June
+
 July:
   label: July
   permalink: /july

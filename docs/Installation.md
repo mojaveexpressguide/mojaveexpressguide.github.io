@@ -27,11 +27,11 @@ sidebar_position: 4
     - The folder where you put Wabbajack.exe.
 :::
     
-1. Click the **Install button** in the bottom right.
+1. Click the **Install** button in the bottom right.
 2. Accept the Nexus Mods API request. 
 3. If you are not a Nexus Premium user you will need to manually click download for each mod. 
-Once complete, the installation will show a **Installation Complete** screen.down arrow
-4. If you see a **Installation Failed** screen, Read the FAQ Wabbajack Installation Failed section. 
+    - Once complete, the installation will say **Finished installing Mojave Express Wabbajack** at the top of the screen.
+4. If you see a **Installation Failed** screen, Read the [**FAQ**](/docs/FAQ) **Wabbajack Installation Failed** section. 
     - If that doesn't work please join the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) server for support.
 
 ---

@@ -64,5 +64,5 @@ It is highly recommended to follow the [**Performance & Optimization**](/docs/Pe
 
 :::
 
-- If anything fails please check out the FAQ page!
+- If anything fails please check out the [**FAQ**](/docs/FAQ) page!
 

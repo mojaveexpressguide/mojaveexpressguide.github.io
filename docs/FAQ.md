@@ -2,9 +2,11 @@
 
 ---
 
+If your issues still aren't fixed then please join the the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) discord server for support.
+
 <details>
 
-  <summary><h2>The Wabbajack install fails</h2></summary>
+  <summary><h2>Wabbajack Installation Failed</h2></summary>
 
 - Ensure that you have **all** of the <span class="custom-text">**DLCs**</span> installed for the game!
 
@@ -18,7 +20,7 @@
 
 <details>
 
-  <summary><h2>Game crashes or fails to start</h2></summary>
+  <summary><h2>Game Crashes Or Fails To Start</h2></summary>
 
 The <span class="custom-text">**most common**</span> reason is below:
 
@@ -70,7 +72,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
-  <summary><h2>Bouncing NPCs or sped-up game</h2></summary>
+  <summary><h2>Bouncing NPCs Or Sped-up Game</h2></summary>
 
 - **Lock your FPS** below <span class="custom-text">**120**</span> according to the Performance Guide. 
 
@@ -78,7 +80,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
-  <summary><h2>Missing meshes (red diamonds)</h2></summary>
+  <summary><h2>Missing Meshes (Red Diamonds)</h2></summary>
 
 - Verify your game files.
 
