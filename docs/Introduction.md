@@ -49,7 +49,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Thousands of bug fixes using the latest up to date mods. - [YUPDate](https://www.nexusmods.com/newvegas/mods/90824)
 - Tons of mesh fixes including visual and collision enhancements. - [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 - Various Script optimizations. - [Vanilla Script Micro-Optimizations](https://www.nexusmods.com/newvegas/mods/92147)
-- Many textures and meshes have been packed into uncompressed BSA's for maximum performance.
+- Many textures and meshes have been packed into uncompressed BSA's for maximum performance. -
 - A collection of tweaks for certain audio files to fix popping issues and other annoyances.
 
 ---
@@ -97,6 +97,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Loot is rarer and weapons & armour have lower conditions when found.
 - The barter skill matters significantly more for buying and selling prices.
 - You can no longer sell weapons & armour under 30% condition.
+- FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
 - The strip is slightly more difficult to get into and costs 4000 caps the direct way now.
 - NPCs can't be pickpocketed unless you invest into the Sneak skill.
 
