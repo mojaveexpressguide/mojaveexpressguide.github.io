@@ -6,6 +6,12 @@ sidebar_position: 1
 
 ---
 
+:::danger Wabbajack is currently not showing on the Wabbajack software!
+
+Right now i'm waiting for my pull request to be merged so MEW will show on the Wabbajack. But for now you can download the file from my [**discord**](https://discord.gg/SFpZYpAuUz) in the announcements channel.
+
+:::
+
 The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-guide).**
 
 **MEW** is constantly getting updated with the latest and greatest mods, and includes innumerable amounts of bug fixes, performance & stability improvements, and engine enhancements to provide you with the smoothest experience possible. There are many custom patches and configurations exclusive to the list that tie the whole experience together in a way you won't be able to get anywhere else, ensuring a fun and challenging playthrough from beginning to end.
