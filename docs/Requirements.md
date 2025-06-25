@@ -72,7 +72,7 @@ By default, File Explorer will not show file extensions (such as .exe, .dll, or 
 1. Open File Explorer.
 2. Select the **View** tab at the top.
 3. Enable **File name extensions** in the Show section.
-<p>![EnablingFileExtensions](../static/img/EnablingFileExtensions.png)</p>
+<p>![EnablingFileExtensions](../static/img/EnablingFileExtensions.webp)</p>
 
 ---
 
@@ -86,9 +86,9 @@ While the feature should be disabled by default, it is still recommended to sani
 1. Open <button onClick={() => window.location.href = 'ms-settings:windowsdefender'}> Windows Security </button> from your **Start Menu**.
 2. Click on **App & browser control** in the left sidebar.
 3. Click on **Exploit protection settings** under Exploit protection.
-<p>![WindowsSecurityBaseRandomization](../static/img/WindowsSecurityBaseRandomization.png)</p>
+<p>![WindowsSecurityBaseRandomization](../static/img/WindowsSecurityBaseRandomization.webp)</p>
 4. Ensure **Force randomization for images (Mandatory ASLR)** is set to **Use default (Off)**.
-<p>![ForceRandomization](../static/img/ForceRandomization.png)</p>
+<p>![ForceRandomization](../static/img/ForceRandomization.webp)</p>
 
 
 

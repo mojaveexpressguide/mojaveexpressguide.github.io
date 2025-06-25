@@ -17,31 +17,26 @@ sidebar_position: 4
 ### Configuring Game Settings:
 
 
-Open the game launcher using the **Fallout Launcher** option in MO2.
-<p>![FalloutLauncher](../static/img/FalloutLauncher.png)</p>
-Inside the launcher, click Options and do the following:
-- Select **Ultra Preset**.
-    - If you have a very weak PC, you can select **Medium Preset** instead.
-- Set **Resolution** to your monitor's native resolution. 
-<p></p>
+1. Open the game launcher using the **Fallout Launcher** option in MO2.
+    <p>![FalloutLauncher](../static/img/FalloutLauncher.webp)</p>
+2. Inside the launcher, click Options and do the following:
+    - Select **Ultra Preset**.
+        - If you have a very weak PC, you can select **Medium Preset** instead.
+    - Set **Resolution** to your monitor's native resolution. 
+    <p></p>
+    <details>
+    <summary>**If you can't find the right resolution in the launcher's list, do the following:**</summary>
 
-<details>
+    Close the New Vegas Launcher.
+    Click the ![INIFilesButton](../static/img/INIFilesButton.webp) button at the top of MO2 and select **INI Editor**.
+    Select the **FalloutPrefs.ini** tab.
+    Change the following settings in the **Display** section:
+        - **`iSize W`** = your screen width
+        - **`iSize H`** = your screen height
+    </details>
 
-<summary><h4>If you can't find the right resolution in the launcher's list, do the following:</h4></summary>
+3. Close the New Vegas Launcher.
 
-
-Close the launcher.
-Click the ![INIFilesButton](../static/img/INIFilesButton.webp) button at the top of MO2 and select **INI Editor**.
-Select the **FalloutPrefs.ini** tab.
-Change the following settings in the **Display** section:
-    - **`iSize W`** = your screen width
-    - **`iSize H`** = your screen height
-
-
-</details>
-
-
-Close the launcher.
 
 
 ### Launching The Game:
@@ -49,7 +44,7 @@ Close the launcher.
 You will need to launch the game through **MO2** everytime you intend to play the game.
 - For convenience you can also create a **Shortcut** (right below the **Run** button) so that you won't have to manually open MO2 each time before playing.
 
-<p>![LaunchingGame](../static/img/LaunchingGame.png)</p>
+<p>![LaunchingGame](../static/img/LaunchingGame.webp)</p>
 
 ### Testing Utilities:
 
@@ -65,4 +60,6 @@ It is highly recommended to follow the [**Performance & Optimization**](/docs/Pe
 :::
 
 - If anything fails please check out the [**FAQ**](/docs/FAQ) page!
+
+
 

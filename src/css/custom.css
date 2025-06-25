@@ -115,3 +115,7 @@ ul li::marker {
 .custom-text {
   color: #ffc64b;
 }
+
+.big-summary {
+  font-size: 1.4rem;
+}

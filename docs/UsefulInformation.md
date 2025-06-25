@@ -20,7 +20,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 <summary>Many unique weapons, the majority being GRA have been relocated to the below locations:</summary>
 
-<p>![GRAIntegratedMap](../static/img/GRAIntegratedMap.jpg)</p>
+<p>![GRAIntegratedMap](../static/img/GRAIntegratedMap.webp)</p>
 
 <p>
 - **Bozar:** <span class="hover-spoiler">Quarry Junction</span>
@@ -30,7 +30,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Esther** <span class="hover-spoiler">Nopah Cave:</span>
 - **Embrace of the Mantis King!:** <span class="hover-spoiler">Two Skies Cave</span>
 
-### <span class="custom-text">**AWOLP Dungeons:**</span>
+<h3><span class="custom-text">**AWOLP Dungeons:**</span></h3>
 
 - **Paciencia:** <span class="hover-spoiler">Cazador Nest </span>
 - **Cleansing Flame:** <span class="hover-spoiler">Sawtooth Caverns</span>

@@ -93,7 +93,7 @@ const config = {
     respectPrefersColorScheme: false, // Optional: false ignores the user's OS theme
     },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'MEWSocialCard.png',
       navbar: {
         title: 'Mojave Express Wabbajack',
         logo: {
@@ -151,15 +151,15 @@ const config = {
               },
               {
                 label: 'Dangerous Dogma',
-                href: 'https://wastelandsurvivalguide.com/docs/dogma',
+                href: 'https://moddinglinked.com/dogmas.html',
               },
               {
                 label: 'xEdit: The Basics',
-                href: 'https://wastelandsurvivalguide.com/docs/xedit',
+                href: 'https://moddinglinked.com/xedit.html',
               },
               {
                 label: 'xEdit: The Method',
-                href: 'https://wastelandsurvivalguide.com/docs/themethod',
+                href: 'https://moddinglinked.com/themethod.html',
               },
             ],
           },
@@ -172,7 +172,7 @@ const config = {
               },
               {
                 label: 'Wasteland Survival Guide',
-                to: 'https://wastelandsurvivalguide.com/',
+                to: 'https://wastelandsurvival.guide/',
               },
               {
                 label: 'Performance Guide',
@@ -193,19 +193,19 @@ const config = {
             items: [
               {
                 label: 'Mojave Express',
-                to: 'https://discord.gg/6brK3Pb8gR',
+                to: 'https://discord.gg/SFpZYpAuUz',
               },
               {
                 label: 'Viva New Vegas',
-                href: 'https://discord.com/invite/DhX5S27',
+                href: 'https://discord.gg/S99Ary5eba',
               },
               {
                 label: 'xNVSE',
-                href: 'https://discord.com/invite/taleoftwowastelands',
+                href: 'https://discord.com/invite/EebN93s',
               },
               {
                 label: 'TTW',
-                href: 'https://discord.com/invite/EebN93s',
+                href: 'https://discord.com/invite/taleoftwowastelands',
               },
             ],
           },

@@ -43,5 +43,5 @@ You may want to enable the <span class="custom-text">**Soft-Lock Aim-Assist**</s
 
 <p>**MEW** uses a modernized control scheme that is closer to later titles like FO4.</p>
 
-<p>![ControllerLayout](../static/img/ControllerLayout.png)</p>
+<p>![ControllerLayout](../static/img/ControllerLayout.webp)</p>
 

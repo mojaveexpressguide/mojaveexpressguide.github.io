@@ -6,13 +6,6 @@ sidebar_position: 1
 
 ---
 
-
-:::danger IMPORTANT! 
-
-<h1> The Wabbajack is not available currently! </h1>
-
-:::
-
 The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-guide).**
 
 **MEW** is constantly getting updated with the latest and greatest mods, and includes innumerable amounts of bug fixes, performance & stability improvements, and engine enhancements to provide you with the smoothest experience possible. There are many custom patches and configurations exclusive to the list that tie the whole experience together in a way you won't be able to get anywhere else, ensuring a fun and challenging playthrough from beginning to end.
@@ -46,7 +39,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ## Overview
 
-### ![](../static/img/Bugfixes.png) Bug Fixes & Performance:
+### ![](../static/img/Bugfixes.webp) Bug Fixes & Performance:
 - Thousands of bug fixes using the latest up to date mods. - [YUPDate](https://www.nexusmods.com/newvegas/mods/90824)
 - Tons of mesh fixes including visual and collision enhancements. - [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 - Various Script optimizations. - [Vanilla Script Micro-Optimizations](https://www.nexusmods.com/newvegas/mods/92147)
@@ -55,7 +48,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/UserInterface.png) User Interface:
+### ![](../static/img/UserInterface.webp) User Interface:
 - Higher resolution HUD and icons.
 - Simplified FO4 style HUD display.
 - Various basic modernizations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu.
@@ -68,7 +61,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Gameplay.png) Gameplay Overhauls:
+### ![](../static/img/Gameplay.webp) Gameplay Overhauls:
 - Tons of Quality of Life tweaks. 
 - A ton of rebalancing from [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592). Tweaking character progression, health, damage, loot scarcity, and item values.
 - Player character's level is capped at 35 by default and is compensated with around 50% slower levelling.
@@ -89,7 +82,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Difficulty.png) Difficulty Overhauls: 
+### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p><span class="custom-text">**These can all be safely disabled ⮯**</span></p>
 - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
 - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
@@ -103,7 +96,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/NPC.png) NPC Overhauls: 
+### ![](../static/img/NPC.webp) NPC Overhauls: 
 - Thousands of small character face edits with subtle improvements.
 - They will have more emotion in dialogue.
 - NPCs accuracy changes based upon their faction and class.
@@ -114,7 +107,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Content.png) Content:
+### ![](../static/img/Content.webp) Content:
 - A plethora of restored content, consistency fixes, integrated content, and "gray area" bug fixes thanks to [Goodies](https://www.nexusmods.com/newvegas/mods/91028).
 - A collection of small vanilla-friendly gameplay improvements from [EVEM](https://www.nexusmods.com/newvegas/mods/78877).
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.
@@ -127,7 +120,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/LocationOverhaul.png) Location Overhauls:
+### ![](../static/img/LocationOverhaul.webp) Location Overhauls:
 
 - Significantly more detailed environments, locations that were previously lackluster and forgettable have been enhanced.
 - Freeside has been lightly overhauled.
@@ -139,7 +132,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Visuals.png) Visuals:
+### ![](../static/img/Visuals.webp) Visuals:
 
 - Brand new weathers, with a much more naturalistic tone compared to the yellow color filter of vanilla, 360 panoramic cloud textures, and improved lighting & tonemapping.
 - Overhauls to interior lighting to give them a more dynamic and atmospheric look.
@@ -155,7 +148,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Animation.png) Animations:
+### ![](../static/img/Animation.webp) Animations:
 
 - Almost all guns, melee weapons, and throwables have had their animations completely revised.
 - Your player character can now move diagonally in third person.
@@ -166,7 +159,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ---
 
-### ![](../static/img/Audio.png) Audio:
+### ![](../static/img/Audio.webp) Audio:
 
 - Full replacement of all ballistic, explosive, and energy weapon sounds.
 - Subtle, immersive equip and ADS sounds.

@@ -7,7 +7,7 @@
 </ol>
 
 
-# <p align="center"> ![Wah](../static/img/ForceRandomization.png) </p>
+# <p align="center"> ![Wah](../static/img/ForceRandomization.webp) </p>
 
 
 <details>

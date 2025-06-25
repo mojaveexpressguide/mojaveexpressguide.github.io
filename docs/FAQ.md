@@ -6,7 +6,7 @@ If your issues still aren't fixed then please join the the [Mojave Express Wabba
 
 <details>
 
-  <summary><h2>Wabbajack Installation Failed</h2></summary>
+  <summary className="big-summary">**Wabbajack Installation Failed**</summary>
 
 - Ensure that you have **all** of the <span class="custom-text">**DLCs**</span> installed for the game!
 
@@ -14,13 +14,13 @@ If your issues still aren't fixed then please join the the [Mojave Express Wabba
 
 - Log out of Nexus on Wabbajack and log back in, then try to install **MEW** again. (You may get blocked for 10 minutes but just wait and try again.)
 
-    ![NexusLogOut](../static/img/NexusLogOut.png)
+    ![NexusLogOut](../static/img/NexusLogOut.webp)
 
 </details>
 
 <details>
 
-  <summary><h2>Game Crashes Or Fails To Start</h2></summary>
+<summary className="big-summary">**Game Crashes Or Fails To Start**</summary>
 
 The <span class="custom-text">**most common**</span> reason is below:
 
@@ -60,19 +60,19 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
-  <summary><h2>Application Load Error</h2></summary>
+<summary className="big-summary">**Application Load Error**</summary>
 
 - **5:0000065434:** Make sure <span class="custom-text">**Steam**</span> is running. If that doesn't fix it, run your game directly through Steam once. You may also need to restart Steam and/or Mod Organizer 2. If that still doesn't work, place a copy of your Steam.exe (not a shortcut) into the game's **Root folder**.
 
 - **P:0000065432:** This might be related to the PCR release of the game. <span class="custom-text">**Override the Steamapp ID**</span> with MO2's executable settings and set it to `22490`.
 
-    ![OverrideSteamID](../static/img/OverrideSteamID.png)
+    ![OverrideSteamID](../static/img/OverrideSteamID.webp)
 
 </details>
 
 <details>
 
-  <summary><h2>Bouncing NPCs Or Sped-up Game</h2></summary>
+<summary className="big-summary">**Bouncing NPCs Or Sped-up Game**</summary>
 
 - **Lock your FPS** below <span class="custom-text">**120**</span> according to the Performance Guide. 
 
@@ -80,7 +80,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
-  <summary><h2>Missing Meshes (Red Diamonds)</h2></summary>
+<summary className="big-summary">**Missing Meshes (Red Diamonds)**</summary>
 
 - Verify your game files.
 
@@ -90,7 +90,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
-  <summary><h2>General Answers</h2></summary>
+<summary className="big-summary">**General Answers**</summary>
 
 - You will **need** to start a new Save after installing **MEW**!
 

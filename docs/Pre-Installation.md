@@ -31,7 +31,7 @@ As the game is available on **Steam or GOG** there are separate instructions for
 
 <details>
 
-<summary><h2>Steam</h2></summary>
+<summary className="big-summary">**Steam**</summary>
 
 1. Open Steam and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list.
@@ -43,7 +43,7 @@ As the game is available on **Steam or GOG** there are separate instructions for
 
 <details>
 
-  <summary><h2>GOG</h2></summary>
+<summary className="big-summary">**GOG**</summary>
 
 1. Open GOG and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list.
@@ -66,14 +66,14 @@ It is strongly recommended to install the game outside of any default Windows fo
 
 <details>
 
-  <summary><h2>Steam</h2></summary>
+<summary className="big-summary">**Steam**</summary>
 
 In order to install the game outside of `Program Files (x86)` we will use a tool called **Steam Library Setup Tool** to create a **new Steam library folder** outside of any default Windows folders.
 
 If you already have Steam installed outside of any default windows folders then go directly to step 1 of the next section and install the games to your custom Steam library. 
 
 1. Completely exit out of Steam using Task Manager or System Tray.
-<p>![ExitingSteam](../static/img/ExitingSteam.png)</p>
+<p>![ExitingSteam](../static/img/ExitingSteam.webp)</p>
 2. Download the **steam_library_setup_tool-3.2.exe** file from [here](https://github.com/LostDragonist/steam-library-setup-tool/releases).
 3. Once downloaded, run the file and add a new entry by clicking **Add Row**.
 4. Type the chosen path under **Path**, e.g. `C:\Games\Steam`
@@ -92,7 +92,7 @@ If you already have Steam installed outside of any default windows folders then 
 
 <details>
 
-  <summary><h2>GOG</h2></summary>
+<summary className="big-summary">**GOG**</summary>
 
 1. Open GOG and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list and select Install.

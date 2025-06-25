@@ -13,7 +13,7 @@ sidebar_position: 4
 2. **Create a new folder** anywhere outside of any default Windows folders, and the game folder itself.
     - Example: `C:\Modding\Wabbajack`
 3. Place the downloaded **Wabbajack.exe** in this folder, then run it.
-<p>![WabbajackInstallFolder](../static/img/WabbajackInstallFolder.png)</p>
+<p>![WabbajackInstallFolder](../static/img/WabbajackInstallFolder.webp)</p>
 4. Click the **Settings** button in the bottom left and then **Log In** to Nexus Mods. 
 5. Once logged in, on the left side click **Browse lists**, select **Non-featured** then search **MEW** at the top 
 6. Select **MEW** and click the **Download & Install** ⭳ button in the bottom left corner. 
@@ -56,9 +56,9 @@ This operation is required because Windows can block MO2 and mod files from load
 ### Root Mods:
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Files Requiring Manual Install**</span> folder.
-<p>![FilesRequiringManualInstall](../static/img/FilesRequiringManualInstall.png)</p>
+<p>![FilesRequiringManualInstall](../static/img/FilesRequiringManualInstall.webp)</p>
 2. Copy **everything** inside to the game's **Root folder**.
-<p>![RootModsInstall](../static/img/RootModsInstall.png)</p>
+<p>![RootModsInstall](../static/img/RootModsInstall.webp)</p>
 3. Still in the game's Root folder, double-click on **FNVpatch.exe** to run it.
 4. A command prompt window will open and it should say:
     `FalloutNV.exe patched!`
@@ -67,7 +67,7 @@ This operation is required because Windows can block MO2 and mod files from load
 ### Radio Fix:
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Radio Fix**</span> folder.
-<p>![RadioFixInstallation](../static/img/RadioFixInstallation.png)</p>
+<p>![RadioFixInstallation](../static/img/RadioFixInstallation.webp)</p>
 2. Double-click on **Run This.bat**.
 3. A command prompt window will open and start encoding files.
 4. Once its finished it will say `Radio Fix has been successfully installed!`
@@ -77,7 +77,7 @@ Decompresses the vanilla BSA files to reduce loading times and stuttering. Can a
 
 1. In your **Installation Location**, open the <span class="custom-text">**__BSA Decompressor**</span> folder. 
 2. Double-click on **FNV BSA Decompressor.exe**.
-<p>![BSADecompressorInstallation](../static/img/BSADecompressorInstallation.png)</p>
+<p>![BSADecompressorInstallation](../static/img/BSADecompressorInstallation.webp)</p>
 3. The Fallout: New Vegas and Decompressed Archives paths should be filled by default (Root folder and Data folder respectively).
         - If they aren't, close the program and re-run your game launcher to generate the required registry key.
 5. Click **Decompress**, wait for the process the finish, then exit the program once finished.
