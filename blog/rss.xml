@@ -4,7 +4,7 @@
         <title>Mojave Express Wabbajack Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>Mojave Express Wabbajack Blog</description>
-        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,10 +12,10 @@
             <title><![CDATA[Initial Release]]></title>
             <link>https://www.mojaveexpressguide.com/blog/initial-release</link>
             <guid>https://www.mojaveexpressguide.com/blog/initial-release</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Release of the slop]]></description>
             <content:encoded><![CDATA[<p>Release of the slop</p>]]></content:encoded>
-            <category>July</category>
+            <category>June</category>
         </item>
     </channel>
 </rss>

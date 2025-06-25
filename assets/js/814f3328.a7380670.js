@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Initial Release","permalink":"/blog/initial-release","unlisted":false,"date":"2025-07-01T00:00:00.000Z"}]}')}}]);
