@@ -151,15 +151,15 @@ const config = {
               },
               {
                 label: 'Dangerous Dogma',
-                href: 'https://wastelandsurvivalguide.com/docs/dogma',
+                href: 'https://moddinglinked.com/dogmas.html',
               },
               {
                 label: 'xEdit: The Basics',
-                href: 'https://wastelandsurvivalguide.com/docs/xedit',
+                href: 'https://moddinglinked.com/xedit.html',
               },
               {
                 label: 'xEdit: The Method',
-                href: 'https://wastelandsurvivalguide.com/docs/themethod',
+                href: 'https://moddinglinked.com/themethod.html',
               },
             ],
           },
@@ -172,7 +172,7 @@ const config = {
               },
               {
                 label: 'Wasteland Survival Guide',
-                to: 'https://wastelandsurvivalguide.com/',
+                to: 'https://wastelandsurvival.guide/',
               },
               {
                 label: 'Performance Guide',
