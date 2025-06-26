@@ -6,12 +6,6 @@ sidebar_position: 4
 
 ---
 
-:::danger Wabbajack is currently not showing on the Wabbajack software!
-
-Right now i'm waiting for my pull request to be merged so MEW will show on the Wabbajack. But for now you can download the file from my [**discord**](https://discord.gg/SFpZYpAuUz) in the announcements channel.
-
-:::
-
 ## Installation Steps
 
 
