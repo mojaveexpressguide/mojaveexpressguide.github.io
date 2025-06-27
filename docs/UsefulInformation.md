@@ -53,6 +53,17 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Perks** and **traits** have been completely overhauled. You will want to look at [Perkout](https://www.nexusmods.com/newvegas/mods/80309?tab=description) before going your usual build.
 - Flame weapons now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
 - **Weapon requirements** matter significantly more now! You can expect more sway, slower reloads, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
+- FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
+<details>
+<summary>To turn off FO3-style item repair:</summary>
+- In left pane of MO2 open the **Tweaks, Configs & Patches** separator
+- Double-click <span class="custom-text">**MEW - INI's and Configs**</span>
+- Click the **INI Files** tab at the top
+- Find and click `nvse\plugins\jip_nvse.ini` near the bottom
+- Change bEnableFO3Repair=1 to **0**
+- Press `Ctrl+S` to save changes.
+
+</details>
 
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p> **These can all be safely disabled in the left pane of MO2 under the Difficulty Overhauls separator. ⮯** </p>

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-guide).**
+The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the full modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-guide).**
 
 **MEW** is constantly getting updated with the latest and greatest mods, and includes innumerable amounts of bug fixes, performance & stability improvements, and engine enhancements to provide you with the smoothest experience possible. There are many custom patches and configurations exclusive to the list that tie the whole experience together in a way you won't be able to get anywhere else, ensuring a fun and challenging playthrough from beginning to end.
 
@@ -40,10 +40,10 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ## Overview
 
 ### ![](../static/img/Bugfixes.webp) Bug Fixes & Performance:
-- Thousands of bug fixes using the latest up to date mods. - [YUPDate](https://www.nexusmods.com/newvegas/mods/90824)
-- Tons of mesh fixes including visual and collision enhancements. - [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
-- Various Script optimizations. - [Vanilla Script Micro-Optimizations](https://www.nexusmods.com/newvegas/mods/92147)
-- Many textures and meshes have been packed into uncompressed BSA's for maximum performance. -
+- Thousands of bug fixes using the latest up to date mods.
+- Tons of mesh fixes including visual and collision enhancements. 
+- Various Script optimizations.
+- Many textures and meshes have been packed into uncompressed BSA's for maximum performance.
 - A collection of tweaks for certain audio files to fix popping issues and other annoyances.
 
 ---
@@ -51,7 +51,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ### ![](../static/img/UserInterface.webp) User Interface:
 - Higher resolution HUD and icons.
 - Simplified FO4 style HUD display.
-- Various basic modernizations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu.
+- Various basic modernizations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu. - [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 - Text size and style adjustments.
 - Visibility tweaks and display modernizations from the newer games.
 - Exclusive power armor Pip-boy holo panel.

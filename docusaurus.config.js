@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mojave Express Wabbajack',
-  tagline: 'A quality wabbajack with curated mods',
+  tagline: 'A quality Wabbajack with curated mods',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
