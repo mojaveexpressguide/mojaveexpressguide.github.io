@@ -48,7 +48,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ---
 
 ### ![](../static/img/UserInterface.webp) User Interface:
-- Various basic modernisations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu. - [JAM](https://www.nexusmods.com/newvegas/mods/66666)
+- Various basic modernisations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu.
 - Simplified FO4 style HUD display.
 - Higher resolution HUD and icons.
 - Text size and style adjustments.
