@@ -40,38 +40,37 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ## Overview
 
 ### ![](../static/img/Bugfixes.webp) Bug Fixes & Performance:
-- Thousands of bug fixes using the latest up to date mods.
-- Tons of mesh fixes including visual and collision enhancements. 
-- Various Script optimizations.
-- Many textures and meshes have been packed into uncompressed BSA's for maximum performance.
+- Thousands of bug fixes, stability improvements, and script optimizations using the latest up to date mods.
+- Tons of mesh fixes including visual and collision enhancements, allowing you to actually shoot through gaps. 
+- Many textures and meshes have been packed into uncompressed BSAs for maximum performance.
 - A collection of tweaks for certain audio files to fix popping issues and other annoyances.
 
 ---
 
 ### ![](../static/img/UserInterface.webp) User Interface:
-- Higher resolution HUD and icons.
+- Various basic modernisations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu. - [JAM](https://www.nexusmods.com/newvegas/mods/66666)
 - Simplified FO4 style HUD display.
-- Various basic modernizations like a Dynamic Crosshair, Hit Markers, Visual Quest Markers, and a Quick Loot menu. - [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
+- Higher resolution HUD and icons.
 - Text size and style adjustments.
-- Visibility tweaks and display modernizations from the newer games.
-- Exclusive power armor Pip-boy holo panel.
+- Visibility tweaks and display modernisations from the newer games.
+- Exclusive Power Armor Pip-Boy holo panel.
 - Cleaner and more readable world map.
-- Every item now has an icon in menus to make them more readable and help with organization.
-- Consumables will now show a dedicated HUD widget after being used showing how long it'll take until they wear off.
+- All items have an icon in menus to make them more readable and help with organisation.
+- Consumables will display a dedicated HUD widget after use showing how long it'll take until they wear off.
 
 ---
 
 ### ![](../static/img/Gameplay.webp) Gameplay Overhauls:
 - Tons of Quality of Life tweaks. 
 - A ton of rebalancing from [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592). Tweaking character progression, health, damage, loot scarcity, and item values.
-- Player character's level is capped at 35 by default and is compensated with around 50% slower levelling.
-- Perks and traits have been completely overhauled. See [Perkout](https://www.nexusmods.com/newvegas/mods/80309?tab=description).
-- DLCs get delayed until you reach their appropriate level or until you visit their respective starting locations, instead of all being dumped into your quest log at the start of the game.
-- You can now sprint with custom third person animations and sounds.
-- Weapons now have recoil and selective firemodes for accuracy improvements.
-- There's a new system for quickly selecting weapons, throwables, and aid items.
-- GRA weapons are merged into the vanilla merchant lists.
-- Weapon mods can be found rarely on NPC's weapons.
+- Player character's level is capped at 35 by default and levelling is around 50% slower.
+- Perks and traits have been completely overhauled. See [PerkOut](https://www.nexusmods.com/newvegas/mods/80309?tab=description).
+- You can now sprint, with custom animations and sounds. You can run faster with higher Agility, and for longer with higher Endurance.
+- Weapons now have recoil, increasing or decreasing based on your character's stats.
+- Automatic weapons now have selective fire modes for accuracy improvements (Auto, Single, and Burst).
+- There's a new BOTW inspired system for quickly selecting weapons, throwables, and aid items.
+- GRA custom weapons are merged with their vanilla counterparts, so you can install mods on any of them.
+- Weapon mods can be found rarely on NPCs weapons.
 - Weapon requirements actually matter now.
 - Weapons can jam even during regular firing at low conditions.
 - Bullet sponges at higher difficulty have been reduced noticeably.
@@ -89,11 +88,11 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Water radiation is ramped up based upon depth.
 - Food heals less.
 - Loot is rarer and weapons & armour have lower conditions when found.
-- The barter skill matters significantly more for buying and selling prices.
+- The Barter skill matters significantly more for buying and selling prices.
 - You can no longer sell weapons & armour under 30% condition.
 - FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
-- The strip is slightly more difficult to get into and costs 4000 caps the direct way now.
-- NPCs can't be pickpocketed unless you invest into the Sneak skill.
+- The strip is more difficult to get into and costs 4000 caps the direct way now.
+- NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
 
 ---
 
@@ -101,9 +100,9 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Thousands of small character face edits with subtle improvements.
 - They will have more emotion in dialogue.
 - NPCs accuracy changes based upon their faction and class.
-- Humans can now sprint the same way you can.
+- Humanoids can now sprint the same way you can.
 - Their loot distribution has been overhauled and should be more balanced.
-- Securitrons faces will change when they enter combat mode.
+- Securitron faces look more detailed and will change when they enter combat mode.
 - NPCs will immersively react to guns being pointed at them.
 
 ---
@@ -111,13 +110,14 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ### ![](../static/img/Content.webp) Content:
 - A plethora of restored content, consistency fixes, integrated content, and "gray area" bug fixes thanks to [Goodies](https://www.nexusmods.com/newvegas/mods/91028).
 - A collection of small vanilla-friendly gameplay improvements from [EVEM](https://www.nexusmods.com/newvegas/mods/78877).
+- DLCs get delayed until you reach their appropriate level or until you visit their respective starting locations, instead of all being dumped into your quest log at the start of the game.
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.
 - New dungeons to explore and loot to be found.
-- NPC's will patrol the roads, traveling between towns, occupying locations, exploring the desert and reacting dynamically to your choices throughout the game.
+- Previously vendor exclusive GRA weapons have been hand placed in various locations across the Mojave. You can find their locations [here](/docs/UsefulInformation).
+- NPCs will patrol the roads, traveling between towns, occupying locations, exploring the desert and reacting dynamically to your choices throughout the game.
 - Hundreds of handplaced, levelled, vanilla-friendly creature spawn points throughout the whole Mojave.
 - 2 new enemies, exploding mole rats and mutated raiders.
 - Ghoul variants have been expanded.
-- Previously vendor exclusive GRA weapons have been hand placed in various locations across the Mojave. You can find their locations [here](/docs/UsefulInformation).
 
 ---
 
@@ -125,11 +125,10 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 - Significantly more detailed environments, locations that were previously lackluster and forgettable have been enhanced.
 - Freeside has been lightly overhauled.
-- The strip is now cleaner and more secure with improved lighting.
-- Many more NPC's can be found in the casinos.
-- Many interiors have been overhauled to be more useful, cluttered, atmospheric, unique and lived in.
+- The Strip is now cleaner and more secure with improved lighting.
+- Many more NPCs can be found inside The Strip and in the casinos.
+- Many interiors have been overhauled to be more useful, cluttered, atmospheric, unique, and lived-in.
 - Neon signs around the Mojave are now illuminated.
-- Ambient lighting has been added to countless objects throughout the game that look like they should light up the area around them.
 
 ---
 
@@ -137,15 +136,16 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 - Brand new weathers, with a much more naturalistic tone compared to the yellow color filter of vanilla, 360 panoramic cloud textures, and improved lighting & tonemapping.
 - Overhauls to interior lighting to give them a more dynamic and atmospheric look.
-- Dual-Render Scopes with variable zooms and night vision toggle on supported scopes.
+- Dual-Render Scopes with variable zoom levels and night vision toggle on supported scopes.
 - All energy weapons have built-in iron sights.
-- Redesigned blood, particle effects, and gore textures that fit within the New Vegas art style. 
-- Bullet holes & casings match ammo and new impact effect.
+- Redesigned blood, particle effects, and gore textures that fit within the New Vegas art style.
+- New and improved ballistic impact effects.
 - Bullet tracers and bullet trails.
+- Bullet holes & casings match ammo.
 - Weapon intertia and ADS blur effects.
 - Radiation and drowning visuals.
 - Various vanilla-plus tweaks to textures.
-- High quality LOD's.
+- High quality LODs.
 
 ---
 
@@ -156,18 +156,18 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Various chems now have animations when consumed.
 - New first person pickup and interaction animations.
 - The Pip-Boy light is now animated.
-- Subtle camera shake and improved weapon locomotions has been added.
+- Subtle camera shake and improved weapon locomotions have been added.
 
 ---
 
 ### ![](../static/img/Audio.webp) Audio:
 
+- Ambient tracks have been seamlessly and tastefully rescored, bringing a darker and more somber atmosphere that feels closer to the classic Fallout games.
+- Radio New Vegas, Mojave Music Radio, and Mysterious Broadcast now have many additional songs that fit the vibe of each station.
+- Higher quality main menu music and Fallout 1 & 2 songs.
+- Modernised ambient soundscape with an object based directional sound system.
 - Full replacement of all ballistic, explosive, and energy weapon sounds.
 - Subtle, immersive equip and ADS sounds.
 - Custom pickup sounds for item looting.
 - More realistic sounding footsteps with over 60 additional sounds.
-- Modernized ambient soundscape with an object based directional sound system. 
-- Higher quality main menu music and Fallout 1 & 2 songs.
-- The music tracks have been rescored with music from all classic Fallout games (FO1, FO2, Nevada, Sonora).
-- Radio New Vegas, Mojave Music Radio, and Mysterious Broadcast now have many additional new songs.
 - A handful of fresh UI sounds.
