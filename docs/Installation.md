@@ -53,6 +53,8 @@ This operation is required because Windows can block MO2 and mod files from load
 
 - If you are using a third-party antivirus, you will need to find the exclusions menu and add one to the same folder.
 
+---
+
 ### Root Mods:
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Files Requiring Manual Install**</span> folder.
@@ -64,6 +66,8 @@ This operation is required because Windows can block MO2 and mod files from load
     `FalloutNV.exe patched!`
 5. Close the command prompt and a file named **FalloutNV_backup.exe** should appear in the same folder.
 
+---
+
 ### Radio Fix:
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Radio Fix**</span> folder.
@@ -71,6 +75,8 @@ This operation is required because Windows can block MO2 and mod files from load
 2. Double-click on **Run This.bat**.
 3. A command prompt window will open and start encoding files.
 4. Once its finished it will say `Radio Fix has been successfully installed!`
+
+---
 
 ### BSA Decompressor:
 Decompresses the vanilla BSA files to reduce loading times and stuttering. Can also fix certain sound effects not playing.

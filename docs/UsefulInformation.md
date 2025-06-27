@@ -65,6 +65,8 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 </details>
 
+---
+
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p> **These can all be safely disabled in the left pane of MO2 under the Difficulty Overhauls separator. ⮯** </p>
 - <span class="custom-text">[**Food Effect Tweaks**]</span> - Food heals less.

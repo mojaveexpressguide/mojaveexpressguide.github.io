@@ -36,6 +36,7 @@ sidebar_position: 5
 
 - Use the <span class="custom-text">**Scroll Wheel**</span> to adjust **zoom** and <span class="custom-text">**TAB**</span> to adjust **night vision** on supported scopes.
 
+---
 
 ## 🎮 Controller:
 

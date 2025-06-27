@@ -37,7 +37,7 @@ sidebar_position: 4
 
 3. Close the New Vegas Launcher.
 
-
+---
 
 ### Launching The Game:
 
@@ -45,6 +45,8 @@ You will need to launch the game through **MO2** everytime you intend to play th
 - For convenience you can also create a **Shortcut** (right below the **Run** button) so that you won't have to manually open MO2 each time before playing.
 
 <p>![LaunchingGame](../static/img/LaunchingGame.webp)</p>
+
+---
 
 ### Testing Utilities:
 
