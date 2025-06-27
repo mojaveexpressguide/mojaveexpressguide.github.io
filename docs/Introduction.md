@@ -114,7 +114,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.
 - New dungeons to explore and loot to be found.
 - Previously vendor exclusive GRA weapons have been hand-placed in various locations across the Mojave, incentivising exploration. If you want spoilers, you can find their locations [here](/docs/UsefulInformation).
-- NPCs will patrol the roads, travelling between towns, occupying locations, exploring the desert and reacting dynamically to your choices throughout the game.
+- NPCs will patrol the roads, travelling between towns, occupying locations, exploring the desert, and reacting dynamically to your choices throughout the game.
 - Hundreds of hand-placed, levelled, vanilla-friendly creature spawn points throughout the whole Mojave.
 - 2 new enemies, Exploding Mole Rats and Mutated Raiders.
 - Ghoul variants have been expanded.
