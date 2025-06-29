@@ -4,10 +4,44 @@
         <title>Mojave Express Wabbajack Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>Mojave Express Wabbajack Blog</description>
-        <lastBuildDate>Wed, 25 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[1.1 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/1.1 Update</link>
+            <guid>https://www.mojaveexpressguide.com/blog/1.1 Update</guid>
+            <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEW - 1.1 Update]]></description>
+            <content:encoded><![CDATA[<p><strong>MEW - 1.1 Update</strong></p>
+<p>A small update to mainly account for mod updates.</p>
+<p><strong>User Interface</strong></p>
+<ul>
+<li><strong>Updated:</strong> Colorful Icons Support</li>
+</ul>
+<p><strong>Gameplay Overhauls</strong></p>
+<ul>
+<li><strong>Removed:</strong> Faction Disguise De-Scripter (It's not working as intended)</li>
+</ul>
+<p><strong>Difficulty Overhauls</strong></p>
+<ul>
+<li><strong>Updated:</strong> Skill Based Pickpocketing</li>
+<li><strong>Updated:</strong> STALKER Barter</li>
+</ul>
+<p><strong>NPC Overhauls</strong></p>
+<ul>
+<li><strong>Updated:</strong> NPCs Sprint kNVSE - ESPless</li>
+</ul>
+<p><strong>Content</strong></p>
+<ul>
+<li><strong>Updated:</strong> Curated Tweaks and Restorations</li>
+</ul>
+<p>Fixed issue with some females eyes like Sunny Smiles and Trudy.</p>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <strong><a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a></strong>.</p>]]></content:encoded>
+            <category>June</category>
+        </item>
         <item>
             <title><![CDATA[Initial Release]]></title>
             <link>https://www.mojaveexpressguide.com/blog/initial-release</link>

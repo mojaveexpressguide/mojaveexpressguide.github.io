@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Wabbajack Blog</title>
-    <updated>2025-06-25T00:00:00.000Z</updated>
+    <updated>2025-06-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Wabbajack Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1.1 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.1 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.1 Update"/>
+        <updated>2025-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW - 1.1 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW - 1.1 Update</strong></p>
+<p>A small update to mainly account for mod updates.</p>
+<p><strong>User Interface</strong></p>
+<ul>
+<li><strong>Updated:</strong> Colorful Icons Support</li>
+</ul>
+<p><strong>Gameplay Overhauls</strong></p>
+<ul>
+<li><strong>Removed:</strong> Faction Disguise De-Scripter (It's not working as intended)</li>
+</ul>
+<p><strong>Difficulty Overhauls</strong></p>
+<ul>
+<li><strong>Updated:</strong> Skill Based Pickpocketing</li>
+<li><strong>Updated:</strong> STALKER Barter</li>
+</ul>
+<p><strong>NPC Overhauls</strong></p>
+<ul>
+<li><strong>Updated:</strong> NPCs Sprint kNVSE - ESPless</li>
+</ul>
+<p><strong>Content</strong></p>
+<ul>
+<li><strong>Updated:</strong> Curated Tweaks and Restorations</li>
+</ul>
+<p>Fixed issue with some females eyes like Sunny Smiles and Trudy.</p>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <strong><a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a></strong>.</p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="June" term="June"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Initial Release]]></title>
         <id>https://www.mojaveexpressguide.com/blog/initial-release</id>
