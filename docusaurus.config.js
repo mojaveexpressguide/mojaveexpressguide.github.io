@@ -93,7 +93,7 @@ const config = {
     respectPrefersColorScheme: false, // Optional: false ignores the user's OS theme
     },
       // Replace with your project's social card
-      image: 'MEWSocialCard.webp',
+      image: 'docusaurus-social-card.jpg',
       navbar: {
         title: 'Mojave Express Wabbajack',
         logo: {
