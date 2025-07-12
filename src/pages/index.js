@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A quality Wabbajack with curated mods. <head />">
+      description="A quality Wabbajack with curated mods."><head />
       <HomepageHeader />
     </Layout>
   );
