@@ -10,7 +10,7 @@ The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with 
 
 **MEW** is constantly getting updated with the latest and greatest mods, and includes innumerable amounts of bug fixes, performance & stability improvements, and engine enhancements to provide you with the smoothest experience possible. There are many custom patches and configurations exclusive to the list that tie the whole experience together in a way you won't be able to get anywhere else, ensuring a fun and challenging playthrough from beginning to end.
 
-Whether you're a veteran who's played the game countless times, someone who's coming back to the game after many years, or even a first time player who's looking for a hassle-free and modernised way to experience this classic title, this list could be ideal for you.
+Whether you're a veteran who's played the game countless times, someone who's coming back to the game after many years, or even a first time player who's looking for the definitive way to experience this classic title, this list could be ideal for you.
 
 **MEW** is a reincarnation of my previous Mojave Express Guide **(MEG)** which was a Viva New Vegas additions guide. This time it's a [Wabbajack](https://www.wabbajack.org/) which allows me unrestricted mod choice and gives you a semi-automated mod downloading process (a Nexus Premium account is needed for fully automated downloading).
 
@@ -40,7 +40,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ## Overview
 
 ### ![](../static/img/Bugfixes.webp) Bug Fixes & Performance:
-- Thousands of bug fixes, stability improvements, and script optimizations using the latest up to date mods.
+- Thousands of bug fixes, stability improvements, and script optimisations using the latest up to date mods.
 - Tons of mesh fixes including visual and collision enhancements, allowing you to actually shoot through gaps. 
 - Many textures and meshes have been packed into uncompressed BSAs for maximum performance.
 - A collection of tweaks for certain audio files to fix popping issues and other annoyances.
@@ -63,9 +63,10 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ### ![](../static/img/Gameplay.webp) Gameplay Overhauls:
 - Tons of Quality of Life tweaks. 
 - A ton of rebalancing from [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592). Tweaking character progression, health, damage, carry weight, loot scarcity, and item values.
-- Player character's level is capped at 35 and levelling is around 50% slower.
+- Player character's level is capped at 35 and levelling speed is around 50% slower.
 - Perks and traits have been completely overhauled. See [PerkOut](https://www.nexusmods.com/newvegas/mods/80309?tab=description).
-- You can now sprint, with custom animations and sounds. You can run faster with higher Agility, and for longer with higher Endurance.
+- You can now sprint, with custom animations and sounds. Higher Endurance allows you to sprint for longer before getting tired.
+- Your Agility scales your movement speed, including walking, running, and sprinting. Every point above 5 AGL increases your speed by 4%, and every point below that decreases it by the same amount.
 - Weapons now have recoil, increasing or decreasing based on your character's stats.
 - Automatic weapons now have selective fire modes for accuracy improvements (Auto, Single, and Burst).
 - There's a new BOTW-inspired system for quickly selecting weapons, throwables, and aid items.
@@ -89,10 +90,11 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Food heals less.
 - Loot is rarer and weapons & armour have lower conditions when found.
 - The Barter skill affects buying and selling prices significantly more.
-- You can no longer sell weapons & armour under 30% condition.
-- FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
-- The strip is more difficult to get into and costs 4000 caps the direct way now.
+- Weapons & armour under 25% condition will be worth nothing now, so you have to do some repairing before being able to sell them.
+- FO3-style item repair is back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
+- The Strip is more difficult to get into and costs 4000 caps the direct way now.
 - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
+- Sneak attack damage scales with your Sneak skill.
 
 ---
 
@@ -101,7 +103,9 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - They will have more emotion in dialogue.
 - Their loot distribution has been overhauled and should be more balanced.
 - Humanoids can sprint the same way you can.
+- Both humanoid and creature NPCs have had their AI and abilities enhanced and should be much more effective in combat.
 - NPC accuracy changes based on their faction and class.
+- Legionaries have received a vanilla-plus overhaul to their equipment.
 - Securitron faces look more detailed and will change when they enter combat mode.
 - NPCs will immersively react to guns being pointed at them.
 
@@ -113,10 +117,11 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - DLCs get delayed until you reach their appropriate level or until you visit their respective starting locations, instead of all being dumped into your quest log at the start of the game.
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.
 - New dungeons to explore and loot to be found.
-- Previously vendor exclusive GRA weapons have been hand-placed in various locations across the Mojave, incentivising exploration. If you want spoilers, you can find their locations [here](/docs/UsefulInformation).
+- One new weapon has been added: the Assault Rifle from FO3 (and a unique variant), filling a role that was previously lacking in New Vegas' arsenal.
+- Unique equipment that used to be vendor exclusive has been hand-placed in various locations across the Mojave, incentivising exploration. If you want spoilers, you can find their locations [here](/docs/UsefulInformation).
 - NPCs will patrol the roads, travelling between towns, occupying locations, exploring the desert, and reacting dynamically to your choices throughout the game.
-- Hundreds of hand-placed, levelled, vanilla-friendly creature spawn points throughout the whole Mojave.
-- 2 new enemies, Exploding Mole Rats and Mutated Raiders.
+- Hundreds of hand-placed and vanilla-friendly creature & raider spawn points in appropriate locations throughout the whole Mojave.
+- 2 new enemy types, Exploding Mole Rats and Mutated Raiders.
 - Ghoul variants have been expanded.
 
 ---
@@ -124,9 +129,10 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ### ![](../static/img/LocationOverhaul.webp) Location Overhauls:
 
 - Significantly more detailed environments. Locations that were previously lackluster and forgettable have been enhanced.
-- Freeside has been lightly overhauled.
-- The Strip is now cleaner and more secure, with improved lighting throughout.
-- Many more NPCs can be found inside The Strip and in the casinos.
+- The urban areas surrounding Vegas have been massively overhauled, making them feel much more fitting to a major pre-war population centre.
+- Freeside has been lightly overhauled and has new enterable interiors, helping the location feel more organic.
+- The Strip has been overhauled to be much cleaner, more detailed, and more secure, with improved lighting throughout.
+- Many more NPCs can be found inside the Strip and in the casinos.
 - Many interiors have been overhauled to be more useful, cluttered, atmospheric, unique, and lived-in.
 - Neon signs around the Mojave are now illuminated.
 
@@ -140,8 +146,8 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - All energy weapons have built-in iron sights.
 - Redesigned blood, particle effects, and gore textures that fit within the New Vegas art style.
 - New and improved ballistic impact effects.
-- Bullet holes & casings match ammo.
-- Bullet tracers and bullet trails.
+- Bullet holes and casings match ammo.
+- Bullet trails and tracer effects.
 - Radiation and drowning visuals.
 - Various vanilla-plus tweaks to textures.
 - High quality LODs.
@@ -152,8 +158,8 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 - Almost all guns, melee weapons, and throwables have had their animations completely revised.
 - First-person weapon inertia when moving the camera and improved weapon locomotion animations.
-- Your player character can now move diagonally in third-person.
-- Various chems now have animations when consumed.
+- Your player character can move diagonally in third-person.
+- Various chems have animations when consumed.
 - New first-person pickup and interaction animations.
 - Turning on the Pip-Boy light now has a dedicated animation.
 - A subtle camera shake effect has been added for certain actions like moving and getting hit.
@@ -165,7 +171,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Ambient tracks have been seamlessly and tastefully rescored, bringing a darker and more somber atmosphere that feels closer to the classic Fallout games.
 - Radio New Vegas, Mojave Music Radio, and Mysterious Broadcast have many additional songs that fit the vibe of each station.
 - Higher quality main menu music and Fallout 1 & 2 songs.
-- Modernised ambient soundscape with an object based directional sound system.
+- Atmospheric ambient sounds have been added to many environments across the Mojave.
 - Full replacement of all ballistic, explosive, and energy weapon sounds.
 - Subtle, immersive equip and ADS sounds.
 - Custom pickup sounds for item looting.
