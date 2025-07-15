@@ -76,6 +76,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Weapons can jam even during regular firing at low conditions.
 - Bullet sponges at higher difficulty have been reduced noticeably.
 - Head DT/DR is now separated from the body, meaning helmets are necessary for head protection.
+- FO3-style item repair is back. The max repair amount of equipment will be capped based on the player's Repair skill. Formula: (Repair Skill * 0.6) + 40.
 - Power Armor is now big and bulky with custom animations and sounds.
 - You can bash enemies with your weapon like in FO4.
 - Some dialogue checks have been changed from Speech to Charisma where logically applicable, giving the once useless SPECIAL stat more of a reason to exist.
@@ -91,7 +92,6 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Loot is rarer and weapons & armour have lower conditions when found.
 - The Barter skill affects buying and selling prices significantly more.
 - Weapons & armour under 25% condition will be worth nothing now, so you have to do some repairing before being able to sell them.
-- FO3-style item repair is back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
 - The Strip is more difficult to get into and costs 4000 caps the direct way now.
 - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
 - Sneak attack damage scales with your Sneak skill.
