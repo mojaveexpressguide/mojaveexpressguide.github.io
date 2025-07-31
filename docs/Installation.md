@@ -57,16 +57,37 @@ This operation is required because Windows can block MO2 and mod files from load
 
 ### Root Mods:
 
-1. In your **Installation Location**, open the <span class="custom-text">**__Files Requiring Manual Install**</span> folder.
-<p>![FilesRequiringManualInstall](../static/img/FilesRequiringManualInstall.webp)</p>
+<details>
+
+<summary className="big-summary">**GOG or Steam Only**</summary>
+
+1. In your **Installation Location**, open the <span class="custom-text">**__GOG or STEAM ONLY Files Requiring Manual Install**</span> folder.
+<p>![FilesRequiringManualInstall](../static/img/GOGorSteamFilesRequiringManualInstall.webp)</p>
 2. Copy **everything** inside to the game's **Root folder**.
-<p>![RootModsInstall](../static/img/RootModsInstall.webp)</p>
+<p>![RootModsInstall](../static/img/SteamRootModsInstall.webp)</p>
 3. Still in the game's Root folder, double-click on **FNVpatch.exe** to run it.
 4. A command prompt window will open and it should say:
     `FalloutNV.exe patched!`
 5. Close the command prompt and a file named **FalloutNV_backup.exe** should appear in the same folder.
 
+</details>
+
+<details>
+
+<summary className="big-summary">**Epic Only**</summary>
+
+1. In your **Installation Location**, open the <span class="custom-text">**__EPIC ONLY Files Requiring Manual Install**</span> folder.
+<p>![FilesRequiringManualInstall](../static/img/EpicFilesRequiringManualInstall.webp)</p>
+2. Copy **everything** inside to the game's **Root folder**.
+<p>![RootModsInstall](../static/img/EpicRootModsInstall.webp)</p>
+3. Still in the game's Root folder, double-click on **Patcher.exe** to run it.
+4. A command prompt window will open and it should say:
+    `FalloutNV.exe patched!`
+5. Close the command prompt and a file named **FalloutNV_backup.exe** should appear in the same folder.
+
+</details>
 ---
+
 
 ### Radio Fix:
 

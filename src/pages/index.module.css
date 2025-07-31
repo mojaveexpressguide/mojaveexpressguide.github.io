@@ -9,7 +9,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: #000000 url(@site/static/img/MojaveExpressWabbajackWebsiteBanner.png) center center/cover
+  background: #000000 url(@site/static/img/MojaveExpressWabbajackWebsiteBanner.webp) center center/cover
     no-repeat;
   color: #f8f8f2;
 }

@@ -12,9 +12,9 @@
 
 <details>
 
-  <summary><h2>Summary name </h2></summary>
+<summary className="big-summary">**Steam**</summary>
 
-blah blah blah
+
 
 </details>
 

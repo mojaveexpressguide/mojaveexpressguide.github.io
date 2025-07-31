@@ -117,7 +117,6 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - DLCs get delayed until you reach their appropriate level or until you visit their respective starting locations, instead of all being dumped into your quest log at the start of the game.
 - You can now continue your playthrough after the credits and see the world change based on the consequences of your choices.
 - New dungeons to explore and loot to be found.
-- One new weapon has been added: the Assault Rifle from FO3 (and a unique variant), filling a role that was previously lacking in New Vegas' arsenal.
 - Unique equipment that used to be vendor exclusive has been hand-placed in various locations across the Mojave, incentivising exploration. If you want spoilers, you can find their locations [here](/docs/UsefulInformation).
 - NPCs will patrol the roads, travelling between towns, occupying locations, exploring the desert, and reacting dynamically to your choices throughout the game.
 - Hundreds of hand-placed and vanilla-friendly creature & raider spawn points in appropriate locations throughout the whole Mojave.

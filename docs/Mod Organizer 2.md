@@ -17,7 +17,7 @@ sidebar_position: 4
 ### Configuring Game Settings:
 
 
-1. Open the game launcher using the **Fallout Launcher** option in MO2.
+1. Select the **Fallout Launcher** option in MO2 and click **Run**.
     <p>![FalloutLauncher](../static/img/FalloutLauncher.webp)</p>
 2. Inside the launcher, click Options and do the following:
     - Select **Ultra Preset**.
@@ -34,6 +34,7 @@ sidebar_position: 4
         - **`iSize W`** = your screen width
         - **`iSize H`** = your screen height
     </details>
+
 
 3. Close the New Vegas Launcher.
 

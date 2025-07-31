@@ -34,7 +34,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 - **Paciencia:** <span class="hover-spoiler">Cazador Nest </span>
 - **Cleansing Flame:** <span class="hover-spoiler">Sawtooth Caverns</span>
-- **MF Hyperbreeder AlphaB:** <span class="hover-spoiler">Biohazard Disposal Site</span>
+- **MF Hyperbreeder Alpha:** <span class="hover-spoiler">Biohazard Disposal Site</span>
 - **Medicine Stick:** <span class="hover-spoiler">Deathclaw Sanctuary</span>
 - **Li'l Devil:** <span class="hover-spoiler">Vipers' Lair</span>
 - **Nuka-Breaker:** <span class="hover-spoiler">SunnySet Storage & Maintenance</span>
