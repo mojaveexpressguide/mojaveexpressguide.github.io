@@ -18,7 +18,7 @@ In general, on most modern CPUs you can expect performance improvements by using
 
 ### MO2 Performance Profile:
 
-You can enable the <span class="custom-text">**Mojave Express Wabbajack - Performance Preset**</span> if you need the extra performance.
+You can select the <span class="custom-text">**Mojave Express Wabbajack - Performance Preset**</span> if you need some extra fps.
 
 ![MO2PerformancePreset](../static/img/MO2PerformancePreset.webp) 
 
