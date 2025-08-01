@@ -2,11 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>Mojave Express Wabbajack Blog</title>
-    <updated>2025-06-28T00:00:00.000Z</updated>
+    <updated>2025-07-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>Mojave Express Wabbajack Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1.2+ Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.2+ Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.2+ Update"/>
+        <updated>2025-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[@Announcements MEW - 1.2+ Update]]></summary>
+        <content type="html"><![CDATA[<p>@Announcements <strong>MEW - 1.2+ Update</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>Revised Mojave</li>
+<li>Desert Interiors - Atmos Compatible Version</li>
+<li>Freeside Interiors</li>
+<li>Simple AI Merge</li>
+<li>Enhanced Creatures</li>
+<li>Revamped Fiend Headgear</li>
+<li>LARP - Legion Armor Revamp Project</li>
+<li>Better Transitions</li>
+<li>Stim Your Friends - Fallout 4 Style NPC Stim - ESPless</li>
+<li>Sweet Scarcity - (Values should be similar to famine but may be tweaked in the future)</li>
+<li>ySI - Additional Icons</li>
+<li>Fallout 3 Karma</li>
+<li>Added support for Epic Games version</li>
+<li>Added Performance Preset - (More info on the Performance &amp; Optimisation page)</li>
+</ul>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>ML Utilities Checker - (MEW Patches now contains a version made by Qolore7)</li>
+<li>CBBE due to Enhanced Creatures changes being preferred</li>
+<li>Famine - Replaced by Sweet Scarcity</li>
+<li>New Vegas Suburban Overhaul - Due to conflicts with Revised Mojave</li>
+<li>Lived in AIO - Due to conflicts with Revised Mojave</li>
+<li>16 LOD mods that are only required for LOD generation</li>
+<li>Consumables Widget - Issue with consumables staying on screen after death</li>
+<li>Bash Perks Hidden - Changes integrated into MEW - Tweaks</li>
+<li>PerkOut - SkilledAlt - Changes integrated into MEW - Tweaks</li>
+<li>Vanilla Underwear Replacer</li>
+</ul>
+<p><strong>TWEAKED:</strong></p>
+<ul>
+<li>Fixed small issue with Pipboy Holo Panel ESPless breaking when selecting unarmed with Quick Select in power armour</li>
+<li>MEW - Patches<!-- -->
+<ul>
+<li>Includes utility mod checker by Qolore7</li>
+<li>Fixed issue with Pyromaniac perk not using the explosives skill</li>
+<li>Changed some Lock difficulties</li>
+<li>Made levelling up actually 50% slower</li>
+</ul>
+</li>
+<li>MEW - INI's and Configs<!-- -->
+<ul>
+<li>Reduced base sprint speed to 60% but boosted agility speed scaling</li>
+<li>Added Enhanced Creatures INI</li>
+</ul>
+</li>
+</ul>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>New Vegas Script Extender (NVSE xNVSE)</li>
+<li>NVTF - (Stutter should be reduced further)</li>
+<li>Meshes and Collision - Totally Enhanced Nifs (MAC-TEN)</li>
+<li>YUPDate - YUP Tweaks and Fixes</li>
+<li>Vanilla Plus Terrain</li>
+<li>MAPMO - Main and Pause Menus Overhaul</li>
+<li>Companion Map Icons - ESPless</li>
+<li>PipBoy UI Tweaks</li>
+<li>3D Grenade Indicator - ESPless</li>
+<li>Sleep Wait Hardcore Needs</li>
+<li>ySI - Contextual Prompts</li>
+<li>Local Map Overhaul</li>
+<li>Enhanced Movement</li>
+<li>Locks Overhaul</li>
+<li>Ghouls Inflict Radiation Damage - ESPless</li>
+<li>Point That Somewhere Else</li>
+<li>Raiderfolk Mutated Raiders</li>
+<li>NPCs Sprint kNVSE</li>
+<li>Lived-In Strip</li>
+<li>Mojave Scenery Overhaul</li>
+<li>Curated Tweaks and Restorations</li>
+<li>Goodies</li>
+<li>FPGE - Functional Post Game Ending</li>
+<li>Advanced 3rd Person Camera ESPless</li>
+<li>Radiation Visuals - ESPless</li>
+<li>Crafting and Repair Animations</li>
+<li>Explosion Reactions - ESPless</li>
+<li>Vanilla Script Micro-Optimizations</li>
+<li>MEW - Object LOD Output - (New rock texture colour and new black rock mesh exclusive to MEW)</li>
+</ul>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong> - (Hopefully)</p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a></p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="July" term="July"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.1 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/1.1 Update</id>
