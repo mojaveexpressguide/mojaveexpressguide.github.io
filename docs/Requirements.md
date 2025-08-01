@@ -22,8 +22,8 @@ The game is much more CPU-intensive than GPU-intensive, and actually scales with
 
 ## Software Requirements:
 
-- An **English** copy of the game with **all DLCs** from either **[Steam](https://store.steampowered.com/sub/13435/)** or **[GOG](https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition)**.
-    - The Microsoft Store and Epic Games versions are **not supported!**
+- An **English** copy of the game with **all DLCs** from either **[Steam](https://store.steampowered.com/sub/13435/)**, **[GOG](https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition)**, or the [Epic Games Store](https://store.epicgames.com/en-US/p/fallout-new-vegas). 
+    - The Microsoft Store versions are **not supported!**
     - Only the English version of the game is supported for maximum compatibility - translations can conflict with mods and cause issues.
     - The Polish-Czech-Russian (PCR) version of Fallout: New Vegas is fully supported as long as the game itself is in English.
     - The German release uses a "No Gore" version, making it also incompatible with xNVSE.

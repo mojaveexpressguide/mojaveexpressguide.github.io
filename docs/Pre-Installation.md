@@ -53,6 +53,16 @@ As the game is available on **Steam or GOG** there are separate instructions for
 
 </details>
 
+<details>
+
+<summary className="big-summary">**Epic**</summary>
+
+1. Open the Epic Games Launcher and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Click on 3 dots and select uninstall from the menu.
+4. Navigate to `Documents\My Games\FalloutNV_Epic` and delete all INI files inside it.
+
+</details>
 ---
 
 ## Installing the game:
@@ -101,6 +111,17 @@ If you already have Steam installed outside of any default windows folders then 
 
 </details>
 
+<details>
+
+<summary className="big-summary">**Epic**</summary>
+
+1. Open the Epic Games Launcher and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Click on the game to install it.
+    - It is **required** to install the game outside of any default Windows folders (e.g., `Program Files x86`).
+
+</details>
+
 ---
 
 ## Generating Fresh INI Files:
@@ -115,7 +136,7 @@ If you already have Steam installed outside of any default windows folders then 
 
 ## Key Terminology:
 
-Now that the game is installed, there are two folders from it that will be referred to in the guide often: 
+Now that the game is installed, there are two folders that will be referred to on the website often: 
 
 
 - **Root Folder:** Where the game is installed.
@@ -125,6 +146,10 @@ Now that the game is installed, there are two folders from it that will be refer
 
   - For GOG:
     <p>`GOG Galaxy\Games\Fallout New Vegas`</p>
+    (Unless you manually changed the installation path).
+
+  - For Epic Games:
+    <p>`Epic Games\FalloutNewVegas\Fallout New Vegas English`</p>
     (Unless you manually changed the installation path).
 
 - **Installation Location:** Where MEW is installed.

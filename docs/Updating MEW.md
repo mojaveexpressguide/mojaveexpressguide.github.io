@@ -18,9 +18,29 @@ Make sure that the update is marked as **Safe Mid-Game** before playing on the s
 
 You can update your current installation by following these steps:
 
+<details>
+
+<summary className="big-summary">**GOG or Steam Only**</summary>
+
 1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
 2. **Verify files** on Steam or GOG Galaxy.
 3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
 4. In your games **Root Folder** re-run the **FNVpatch.exe**
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
+
+</details>
+
+<details>
+
+<summary className="big-summary">**Epic Only**</summary>
+
+1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
+2. **Verify files** on Epic Games.
+3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
+4. In your games **Root Folder** re-run the **Patcher.exe**
+5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
+6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
+
+</details>
+

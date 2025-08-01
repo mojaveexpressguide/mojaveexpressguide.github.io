@@ -53,7 +53,7 @@ You will need to launch the game through **MO2** everytime you intend to play th
 
 1. Once the game has reached the main menu, wait a few seconds and you will see a message box from the **Utilities Checker**. 
     - If any check fails and the comment doesn't help you find a solution, open a support thread in the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) discord server. 
-2. Close the game and disable the **ML Utilities Checker** under the Utilities separator (left pane).
+2. Close the game and disable the **Utilities Checker** under the Tweaks, Configs & Patches separator (left pane).
 
 
 :::tip You have now successfully installed the Mojave Express Wabbajack list. You can now start playing!
