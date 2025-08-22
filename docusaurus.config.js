@@ -129,7 +129,7 @@ const config = {
             "aria-label": "GitHub repository",
           },
           {
-            href: 'https://discord.gg/SFpZYpAuUz',
+            href: 'https://discord.gg/5bH7Kd49hx',
             label: 'Discord',
             position: 'right',
           },
@@ -193,7 +193,7 @@ const config = {
             items: [
               {
                 label: 'Mojave Express',
-                to: 'https://discord.gg/SFpZYpAuUz',
+                to: 'https://discord.gg/5bH7Kd49hx',
               },
               {
                 label: 'Viva New Vegas',
