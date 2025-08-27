@@ -38,7 +38,6 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Medicine Stick:** <span class="hover-spoiler">Deathclaw Sanctuary</span>
 - **Li'l Devil:** <span class="hover-spoiler">Vipers' Lair</span>
 - **Nuka-Breaker:** <span class="hover-spoiler">SunnySet Storage & Maintenance</span>
-- **Two-step goodbye:** <span class="hover-spoiler">Radscorpion Cave</span>
 - **Gehenna:** <span class="hover-spoiler">Infested Cave</span>
 - **Sleepytyme:** <span class="hover-spoiler">Fiend Hideout</span>
 - **The Smitty Special:** <span class="hover-spoiler">Fiend Bunker</span>

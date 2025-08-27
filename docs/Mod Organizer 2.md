@@ -13,6 +13,16 @@ sidebar_position: 4
 2. If you see a pop-up called **FalloutNV_lang.esp was found**, select **Yes**.
 3. If you see a pop-up called **Register?**, select **Yes**.
 
+<details>
+
+<summary className="big-summary">**Epic Only Step**</summary>
+
+1. Select the **Modify Executables** icon in the top left of **MO2**.
+2. Select **New Vegas** and add <span class="custom-text"><b>-EpicPortal</b></span> in the Arguments section, press apply and ok.
+<p>![EpicExecutableArgument](../static/img/EpicExecutableArgument.webp)</p>
+3. Repeat this for **Fallout Launcher**.
+</details>
+---
 
 ### Configuring Game Settings:
 
@@ -52,7 +62,7 @@ You will need to launch the game through **MO2** everytime you intend to play th
 ### Testing Utilities:
 
 1. Once the game has reached the main menu, wait a few seconds and you will see a message box from the **Utilities Checker**. 
-    - If any check fails and the comment doesn't help you find a solution, open a support thread in the [Mojave Express Wabbajack](https://discord.gg/SFpZYpAuUz) discord server. 
+    - If any check fails and the comment doesn't help you find a solution, open a support thread in the [Mojave Express Wabbajack](https://discord.gg/5bH7Kd49hx) discord server. 
 2. Close the game and disable the **Utilities Checker** under the Tweaks, Configs & Patches separator (left pane).
 
 

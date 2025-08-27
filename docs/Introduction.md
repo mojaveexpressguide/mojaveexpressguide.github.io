@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the full modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-guide).**
+The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion. It takes a heavily curated "less is more" approach, only including highly polished mods that seamlessly integrate into the vanilla game and will ensure a cohesive vision throughout the entire experience, adding some much needed depth and additional elements that feel like were supposed to be there from the very beginning. **See the full modlist [here](https://loadorderlibrary.com/lists/mew-mojave-express-wabbajack).**
 
 **MEW** is constantly getting updated with the latest and greatest mods, and includes innumerable amounts of bug fixes, performance & stability improvements, and engine enhancements to provide you with the smoothest experience possible. There are many custom patches and configurations exclusive to the list that tie the whole experience together in a way you won't be able to get anywhere else, ensuring a fun and challenging playthrough from beginning to end.
 
