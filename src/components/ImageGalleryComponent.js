@@ -100,6 +100,18 @@ const images = [
     original: '/img/gallery/24.webp',
     thumbnail: '/img/gallery/24.webp',
   },
+  {
+    original: '/img/gallery/25.webp',
+    thumbnail: '/img/gallery/25.webp',
+  },
+  {
+    original: '/img/gallery/26.webp',
+    thumbnail: '/img/gallery/26.webp',
+  },
+  {
+    original: '/img/gallery/27.webp',
+    thumbnail: '/img/gallery/27.webp',
+  },
 ];
 
 export default function ImageGalleryComponent() {
