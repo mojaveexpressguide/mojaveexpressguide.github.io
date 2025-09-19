@@ -23,7 +23,7 @@ A **clean game installation** is <span class="custom-text">**mandatory**</span> 
 
 :::tip Note:
 
-If you never installed the game before, go directly to the **Installing the game** section. 
+If you have never installed the game before, go directly to the **Installing the game** section. 
 
 :::
 
