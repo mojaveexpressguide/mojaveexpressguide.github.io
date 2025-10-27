@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"August","permalink":"/blog/tags/August","description":"August","count":2},{"label":"July","permalink":"/blog/tags/july","description":"July","count":1},{"label":"June","permalink":"/blog/tags/June","description":"June","count":2}]}')}}]);
