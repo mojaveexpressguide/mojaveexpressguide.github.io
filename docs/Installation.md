@@ -57,6 +57,9 @@ This operation is required because Windows can block MO2 and mod files from load
 
 ### Root Mods:
 
+:::danger This step is mandatory! Failure to do this will result in your game crashing!
+:::
+
 <details>
 
 <summary className="big-summary">**GOG or Steam Only**</summary>
@@ -80,7 +83,7 @@ This operation is required because Windows can block MO2 and mod files from load
 <p>![FilesRequiringManualInstall](../static/img/EpicFilesRequiringManualInstall.webp)</p>
 2. Copy **everything** inside to the game's **Root folder**.
 <p>![RootModsInstall](../static/img/EpicRootModsInstall.webp)</p>
-3. Still in the game's Root folder, double-click on **Patcher.exe** to run it.
+3. Still in the game's Root folder, double-click on **Patcher.exe** to run it   .
 4. A command prompt window will open and it should say:
     `FalloutNV.exe patched!`
 5. Close the command prompt and a file named **FalloutNV_backup.exe** should appear in the same folder.

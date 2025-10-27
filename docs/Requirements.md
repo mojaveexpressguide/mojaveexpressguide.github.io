@@ -12,9 +12,9 @@ The game is much more CPU-intensive than GPU-intensive, and actually scales with
 
 :::info Hardware
 
-- **CPU:** Any quad-core processor (2.5GHz or more).
+- **CPU:** Any modern quad-core processor (2.5GHz or more).
 - **RAM:** 8GB or more.
-- **GPU:** Matching or surpassing the performance of NVIDIA's 600 series or AMD's 5500 series.
+- **GPU:** Matching or surpassing the performance of NVIDIA's 700 series or AMD's 200 series.
 
 :::
 
@@ -66,7 +66,7 @@ Please install the redistributables even if you have them installed already, as 
 
 Before we start, it is important to enable **file extensions** in Windows.
 
-By default, File Explorer will not show file extensions (such as .exe, .dll, or .esp). These extensions are very important pre and installation, so it is highly recommended to enable visible file extensions:
+By default, File Explorer will not show file extensions (such as .exe, .dll, or .esp). These extensions are very important during installation, so it is highly recommended to enable visible file extensions:
 
 
 1. Open File Explorer.

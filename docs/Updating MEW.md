@@ -25,7 +25,8 @@ You can update your current installation by following these steps:
 1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
 2. **Verify files** on Steam or GOG Galaxy.
 3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
-4. In your games **Root Folder** re-run the **FNVpatch.exe**
+    - For example: `C:\Modding\MEW`
+4. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**FNVpatch.exe**</span>.
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
 
@@ -38,7 +39,8 @@ You can update your current installation by following these steps:
 1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
 2. **Verify files** on Epic Games.
 3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
-4. In your games **Root Folder** re-run the **Patcher.exe**
+    - For example: `C:\Modding\MEW`
+4. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**Patcher.exe**</span>.
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
 

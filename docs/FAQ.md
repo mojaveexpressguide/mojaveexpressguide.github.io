@@ -90,8 +90,20 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
+<summary className="big-summary">**Black Sky**</summary>
+
+- This is due to not having the in-game HDR enabled. (This is not the same as typical display HDR)
+
+    - Run  the <span class="custom-text">**Fallout Launcher**</span> through MO2 and enable HDR, then close the launcher and proceed to run the game through the <span class="custom-text">**New Vegas**</span> option.
+
+</details>
+
+<details>
+
 <summary className="big-summary">**General Answers**</summary>
 
 - You will **need** to start a new Save after installing **MEW**!
 
 </details>
+
+

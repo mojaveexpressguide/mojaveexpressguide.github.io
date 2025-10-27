@@ -84,7 +84,7 @@ If you already have Steam installed outside of any default windows folders then 
 
 1. Completely exit out of Steam using Task Manager or System Tray.
 <p>![ExitingSteam](../static/img/ExitingSteam.webp)</p>
-2. Download the **steam_library_setup_tool-3.2.exe** file from [here](https://github.com/LostDragonist/steam-library-setup-tool/releases).
+2. Download the **steam_library_setup_tool-3.2.exe** file from [here](https://github.com/LostDragonist/steam-library-setup-tool/releases/download/3.2/steam_library_setup_tool-3.2.exe).
 3. Once downloaded, run the file and add a new entry by clicking **Add Row**.
 4. Type the chosen path under **Path**, e.g. `C:\Games\Steam`
 5. Click **Accept** then **Yes**  if prompted to create a new folder.

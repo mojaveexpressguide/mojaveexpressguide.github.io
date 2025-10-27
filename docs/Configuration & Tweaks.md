@@ -6,8 +6,10 @@ sidebar_position: 4
 
 ---
 
+Although the guide has many tweaks and configurations setup for instant play, you can edit many of them these using the below: 
+
 ### Changing FOV:
-Although the guide has many tweaks and configurations setup for instant play, you can edit many of them these using the below: Open up Console -> Hold the Right Alt key -> Roll the Mousewheel
+Open up Console > Hold the <span class="custom-text">**'Right Alt'**</span> key > Scroll the <span class="custom-text">**'Mousewheel'**</span>
 
 ### Mod Configuration Menu:
 Some mods may have a **Mod Configuration Menu**. When in game > enter the **Pause Menu** > press <span class="custom-text">**'M'**</span> to open up the **Mod Configuration Menu**.
