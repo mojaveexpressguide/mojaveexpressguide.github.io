@@ -10,7 +10,7 @@ It is highly recommended to read the [performance guide](https://performance.mod
 
 ### FPS Limiting:
 
-It is extremely important that your fps is capped to <span class="custom-text">**120 or less**</span>. At framerates higher than this you can expect some weirdness but more importantly this can cause <span class="custom-text">**crashes!**</span>
+It is extremely important that your fps is capped to <span class="custom-text">**120 or less**</span>. At framerates higher than this you can expect some weirdness but more importantly this can cause <span class="custom-text">**crashes!**</span> Read [Recommended Limiters](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters) for more information.
 
 ### DXVK:
 

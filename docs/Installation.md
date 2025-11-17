@@ -93,6 +93,7 @@ This operation is required because Windows can block MO2 and mod files from load
 
 
 ### Radio Fix:
+This makes the added radios songs play on the radios throughout the world.
 
 1. In your **Installation Location**, open the <span class="custom-text">**__Radio Fix**</span> folder.
 <p>![RadioFixInstallation](../static/img/RadioFixInstallation.webp)</p>
