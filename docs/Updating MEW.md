@@ -22,13 +22,15 @@ You can update your current installation by following these steps:
 
 <summary className="big-summary">**GOG or Steam Only**</summary>
 
-1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
+1. If you added any mods to the list after installation, add a `[NoDelete]` prefix to the start their name in the left pane of MO2.
+    - For example: `[NoDelete] Slop Mod`
 2. **Verify files** on Steam or GOG Galaxy.
-3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
+3. Go into Wabbajack and **Reinstall the list** with the exact same **Installation Location** as your current install.
     - For example: `C:\Modding\MEW`
-4. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**FNVpatch.exe**</span>.
-5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
-6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
+4. Once installed redo the [Root Mods](docs/Installation#root-mods) step fully to account for updates to xNVSE.
+5. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**FNVpatch.exe**</span>.
+6. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
+7. Then optionally redo the [BSA Decompressor](/docs/Installation#bsa-decompressor) step as well.
 
 </details>
 
@@ -36,13 +38,14 @@ You can update your current installation by following these steps:
 
 <summary className="big-summary">**Epic Only**</summary>
 
-1. If you added any mods to the list after installation, add the `[NoDelete]` prefix to their name in the left pane.
+1. If you added any mods to the list after installation, add a `[NoDelete]` prefix to the start their name in the left pane of MO2.
+    - For example: `[NoDelete] Slop Mod`
 2. **Verify files** on Epic Games.
-3. **Reinstall the list** from Wabbajack with the same **Installation Location** as your current install.
+3. Go into Wabbajack and **Reinstall the list** with the exact same **Installation Location** as your current install.
     - For example: `C:\Modding\MEW`
-4. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**Patcher.exe**</span>.
+4. Once installed redo the [Root Mods](/docs/Installation#root-mods) step fully to account for updates to xNVSE.
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
-6. Then optionally redo the [BSA Decompressor](http://localhost:3000/docs/Installation#bsa-decompressor) step as well.
+6. Then optionally redo the [BSA Decompressor](/docs/Installation#bsa-decompressor) step as well.
 
 </details>
 
