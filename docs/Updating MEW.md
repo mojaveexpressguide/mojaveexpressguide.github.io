@@ -27,8 +27,7 @@ You can update your current installation by following these steps:
 2. **Verify files** on Steam or GOG Galaxy.
 3. Go into Wabbajack and **Reinstall the list** with the exact same **Installation Location** as your current install.
     - For example: `C:\Modding\MEW`
-4. Once installed redo the [Root Mods](docs/Installation#root-mods) step fully to account for updates to xNVSE.
-5. In your games [**Root Folder**](/docs/Pre-Installation#key-terminology) re-run the <span class="custom-text">**FNVpatch.exe**</span>.
+4. Once installed redo the whole [Root Mods](/docs/Installation#root-mods) step fully to account for updates to xNVSE.
 6. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 7. Then optionally redo the [BSA Decompressor](/docs/Installation#bsa-decompressor) step as well.
 
@@ -43,7 +42,7 @@ You can update your current installation by following these steps:
 2. **Verify files** on Epic Games.
 3. Go into Wabbajack and **Reinstall the list** with the exact same **Installation Location** as your current install.
     - For example: `C:\Modding\MEW`
-4. Once installed redo the [Root Mods](/docs/Installation#root-mods) step fully to account for updates to xNVSE.
+4. Once installed redo the whole [Root Mods](/docs/Installation#root-mods) step fully to account for updates to xNVSE.
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 6. Then optionally redo the [BSA Decompressor](/docs/Installation#bsa-decompressor) step as well.
 
