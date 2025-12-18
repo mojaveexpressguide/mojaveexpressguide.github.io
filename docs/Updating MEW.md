@@ -47,5 +47,6 @@ You can update your current installation by following these steps:
 5. You will need to redo the [Radio Fix](/docs/Installation#radio-fix) step again.
 6. Then optionally redo the [BSA Decompressor](/docs/Installation#bsa-decompressor) step as well.
 
+
 </details>
 
