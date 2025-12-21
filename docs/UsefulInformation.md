@@ -51,7 +51,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 - **Perks** and **traits** have been completely overhauled. You will want to look at [Perkout](https://www.nexusmods.com/newvegas/mods/80309?tab=description) before going your usual build.
 - Flame weapons now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
-- **Weapon requirements** matter significantly more now! You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
+- **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
 - FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
 <details>
 <summary>To turn off FO3-style item repair:</summary>
@@ -68,6 +68,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p> **These can all be safely disabled in the left pane of MO2 under the Difficulty Overhauls separator. ⮯** </p>
+- <span class="custom-text">[**Reload Reloaded**]</span> - Your agility scales your reload speed and strength scales throwing speed and distance.
 - <span class="custom-text">[**Food Effect Tweaks**]</span> - Food heals less.
 - <span class="custom-text">[**Bad Touch NVSE**]</span> - Fire burns, electricity shocks, cacti poke, and more!
 - <span class="custom-text">[**RAD - Overhaul**]</span> - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
@@ -76,8 +77,9 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - <span class="custom-text">[**Famine**]</span> - Loot is rarer and weapons & armour have lower conditions when found.
 - <span class="custom-text">[**Harder Barter Faster Stronger**]</span> - The barter skill matters significantly more for buying and selling prices.
 - <span class="custom-text">[**STALKER Barter**]</span> - You can no longer sell weapons & armour under 30% condition.
-- <span class="custom-text">[**Simple Harder Credit Check and Passport**]</span> - The strip is slightly more difficult to get into and costs 4000 caps the direct way now.
-
+- <span class="custom-text">[**Simple Harder Credit Check and Passport**]</span> - The Strip is more difficult to get into and costs 4000 caps the direct way now.
+- <span class="custom-text">[**Skill Based Pickpocketing**]</span> - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
+- <span class="custom-text">[**Corpse Looting Restrictions**]</span> - Adds restrictions to looting corpses, NPCs will attack if you loot their fallen allies.
 
 
 
