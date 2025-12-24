@@ -4,10 +4,252 @@
         <title>MOJAVE EXPRESS WABBAJACK Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>MOJAVE EXPRESS WABBAJACK Blog</description>
-        <lastBuildDate>Sun, 31 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[1.5.2 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/1.5.2 Update</link>
+            <guid>https://www.mojaveexpressguide.com/blog/1.5.2 Update</guid>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEW - 1.5.2 Update]]></description>
+            <content:encoded><![CDATA[<p><strong>MEW - 1.5.2 Update</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>Pip-Boy Screen Always On (No Plugin) - Issues should be fixed</li>
+<li>Hit - Crafting Animations</li>
+<li>Wild Wasteland Alien Encounter</li>
+</ul>
+<hr>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>Mojave Raiders - No NPC Throwing Weapon Consumption - Unbalanced</li>
+<li>Clear Scope for B42 Optics - Has some small issues with certain weapons</li>
+<li>Holo Panel Map - Causes the black pipboy with Realtime PipBoy Map. You can add this back if you want.</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Followers Outpost door link</li>
+<li>Fixed some clipping objects in Prospector Saloon and Ranger Andy's bungalow</li>
+<li>Fixed some issues with Strip 2026 and Revised Mojave</li>
+<li>Actually placed Greased Lightning</li>
+<li>Updated some iron sight alignments</li>
+<li>Halved backpack spawn chance on NPC's</li>
+<li>Slight nerfs to NPC ranges</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>Realtime PipBoy Map - ESPless</li>
+<li>New Vegas Mesh Improvement Mod - NVMIM</li>
+<li>NPCs Sprint kNVSE - ESPless</li>
+<li>Animated Moments - ESPless</li>
+<li>Enhanced Movement</li>
+<li>Dead Man's Stash</li>
+<li>Modern Help Menu - ESPless</li>
+<li>lStewieAl's Tweaks and Engine Fixes</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content:encoded>
+            <category>December</category>
+        </item>
+        <item>
+            <title><![CDATA[1.5.1 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/1.5.1 Update</link>
+            <guid>https://www.mojaveexpressguide.com/blog/1.5.1 Update</guid>
+            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEW - 1.5.1 Update]]></description>
+            <content:encoded><![CDATA[<p><strong>MEW - 1.5.1 Update</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>One Tweak - For convenience</li>
+<li>Lip Motion Singing</li>
+<li>ySI - Additional Icons</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Enabled some accidentally disabled mods for the MO2 Performance Preset</li>
+<li>Decompressed all records</li>
+<li>Fixed Jacklyn being purple</li>
+<li>Fixed 2 weapon meshes missing</li>
+<li>Fixed some NPC's having no clothing</li>
+<li>Further adjustments to levelled lists</li>
+<li>Changed Veronica Outfit Replacer from Scavenger to Recon version - Due to Scavenger using a vault suit underneath the hood.</li>
+<li>Improved some iron sight alignments</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>Weapon Based Hands Clip Distance</li>
+<li>JLM Grab Tweak</li>
+<li>New Vegas Mesh Improvement Mod - NVMIM</li>
+<li>Point That Somewhere Else</li>
+<li>Colorful Icons Support</li>
+<li>Dead Man's Stash</li>
+<li>Pip-Boy UI Tweaks</li>
+<li>Overcharge - Energy Weapons Evolved</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content:encoded>
+            <category>December</category>
+        </item>
+        <item>
+            <title><![CDATA[1.5 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/1.5 Update</link>
+            <guid>https://www.mojaveexpressguide.com/blog/1.5 Update</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEW - 1.5 Update]]></description>
+            <content:encoded><![CDATA[<p><strong>MEW - 1.5 Update</strong></p>
+<p>Big update focused on content, balancing and difficulty <strong>REQUIRES A NEW SAVE</strong>.</p>
+<p>New armours and weapons have been integrated and distributed into the world. Many of these are levelled.</p>
+<p>There will probably be some changes you like and some you hate. Expect more updates to fix any issues and continued balance changes. Future small updates will be save compatible.</p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>B42 HOT BNB</li>
+<li>CIBS - Customizable Integrated Backpack System</li>
+<li>Canvas Backpacks - FNV - TTW</li>
+<li>Spice of Life Vanilla Bodies Patched - (Integrated into MEW - Armours)</li>
+<li>DVA - Distributed Variety Armors - (Integrated into MEW - Armours)</li>
+<li>Tammers Armor Pack - (Integrated into MEW - Armours)</li>
+<li>FG's Armors For All - (Integrated into MEW - Armours)</li>
+<li>Better Benny Bodyguards</li>
+<li>Veronica Outfit Replacer - Scavenger</li>
+<li>Legion Armor Reflects Player Strength</li>
+<li>Supplementary Weapons Pack - (Integrated into MEW - Weapons)</li>
+<li>NS AK47 - (Integrated into MEW - Weapons)</li>
+<li>Hunting Revolver Iron Sights</li>
+<li>Clear Scope for B42 Optics</li>
+<li>Lighting Enhanced Normal Textures</li>
+<li>MCM Extender</li>
+<li>Depth Resolve - NVSE</li>
+<li>Vanilla Plus Particles</li>
+<li>Vanilla Plus AO</li>
+<li>Party Banter 2.0</li>
+<li>Slightly more interesting - Gun Runners - Lighter than the mod previously used</li>
+<li>Strip 2026 - This is an exclusive to MEW for now.</li>
+<li>Bison Steve Layout Fix</li>
+<li>Techatticup Uncut - Voiced Legion Quest Expansion</li>
+<li>Lucky Jim's Cache</li>
+<li>Goodsprings Mine</li>
+<li>Prospector Saloon - An Overhaul</li>
+<li>Modern Help Menu - ESPless</li>
+<li>Dynamic Camera Shake</li>
+<li>Realtime PipBoy Map - ESPless</li>
+<li>Modern Minimap - Requirement for Realtime PipBoy Map - ESPless</li>
+<li>Animated Location Discovery</li>
+<li>Holo Panel Map</li>
+<li>Dead Man's Stash</li>
+<li>Explosive Overhaul (ESPless)</li>
+<li>Mojave Raiders - No NPC Throwing Weapon Consumption</li>
+<li>Accurate NASA Stars</li>
+<li>Player Voiceset Project</li>
+<li>Quest XP Overhaul ESPless</li>
+<li>Better Geiger Counter Sounds</li>
+<li>Ed-E Sneak Animations</li>
+<li>Corpse Looting Restrictions</li>
+<li>Lip Motion Fix</li>
+</ul>
+<hr>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>Enhanced Mojave Plus - Searchlight - It's been replaced by the Revised Mojave update</li>
+<li>DM's Gun Runners Gone Shootin - Although cool it has an unnecessarily large bsa, left over forms and out of place magazines.</li>
+<li>Functional Post Game Ending - It's just underwhelming. The game ends at hoover dam which you will never reach anyway.</li>
+<li>Quick Select - The mod is incompatible with B42 HOT BNB and the vanilla system is fine</li>
+<li>Quick Select Throwables - Necessary as the above has been removed.</li>
+<li>Walking Intertia - Gets annoying and does not work nicely with enhanced creatures.</li>
+<li>Subtle Camera Shake (NVSE) replaced by Dynamic Camera Shake</li>
+<li>Fixed NPC Karma Alignments - Weird balancing and karma is just weak in this game anyway.</li>
+<li>MCM BugFix 2 - Redundant with MCM Extender.</li>
+<li>Faction Disguise De-Scripter - No longer required due to EVEM update</li>
+<li>Pipboy Holo Panel ESPless Rebuild Patch - No longer needed with latest Holo Panel update.</li>
+<li>Pip-Boy Screen Always On (No Plugin) - Issues with Realtime PipBoy Map - ESPless</li>
+<li>Legion Armor Revamp Project 2.0 - Replaced by Legion Armor Reflects Player Strength</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Many new weapons and armours have been integrated and distributed</li>
+<li>Removed the need to manually reload (Sounded better in theory)</li>
+<li>Changed Freeside Interiors to Freeside Interiors - No Sewers</li>
+<li>Changed Afterglow to Afterglow (No JIP) - For Stability</li>
+<li>Changed Lived-in Strip to Lived-in Casino</li>
+<li>Updated Stewie Tweaks<!-- -->
+<ul>
+<li>Added: Radiation Causes Radio Static</li>
+</ul>
+</li>
+<li>Backpacks have been rebalanced</li>
+<li>Enabled bLowerXPRewards=1 in JSUE ini</li>
+<li>Enabled bNewSteakRecipes=1 in JSUE ini</li>
+<li>Changed default difficulty to Normal instead of Hard</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>xNVSE</li>
+<li>Point That Somewhere Else</li>
+<li>Mojave Skylines - Exteriors</li>
+<li>JohnnyGuitar NVSE</li>
+<li>Consumables Widget</li>
+<li>Repurposed Combat Dialogue</li>
+<li>JohnnyGuitar NVSE</li>
+<li>Afterglow -- Neon illumination</li>
+<li>Explosion Reactions - ESPless</li>
+<li>Drowning Visuals - ESPless</li>
+<li>MCM Extender</li>
+<li>JohnnyGuitar NVSE</li>
+<li>Freeside Gates</li>
+<li>Revised Mojave</li>
+<li>Lived-In Strip</li>
+<li>Goodies</li>
+<li>Mojave Scenery Overhaul</li>
+<li>Meshes and Collision - Totally Enhanced Nifs (MAC-TEN)</li>
+<li>Freeside Interiors</li>
+<li>MCM Extender</li>
+<li>ShowOff xNVSE Plugin</li>
+<li>Ghouls Inflict Radiation Damage - ESPless</li>
+<li>Doctor's House</li>
+<li>LARP</li>
+<li>Mojave Scenery Overhaul</li>
+<li>Freeside Interiors</li>
+<li>The Great Mojave Interior Overhaul</li>
+<li>lStewieAl's Tweaks and Engine Fixes</li>
+<li>Better Brotherhood</li>
+<li>LOD Flicker Fix - NVSE</li>
+<li>Skinned Mesh Improvement Mod</li>
+<li>Enhanced Creatures</li>
+<li>Colorful Icons Support</li>
+<li>Consistent Pip-Boy Icons v4</li>
+<li>ySI - Additional Icons</li>
+<li>Explosion Reactions - ESPless</li>
+<li>Condition Meter Icons - espless</li>
+<li>Some UI Sounds (SUS)</li>
+<li>YUP</li>
+<li>YUPDate</li>
+<li>Balanced Discounts and Barter Fixes</li>
+<li>Unofficial Patch NVSE Plus</li>
+<li>B42 Weapon Inertia</li>
+<li>Essential Vanilla Enhancements Merged</li>
+<li>Depth of Field Fix - NVSE</li>
+<li>Lime's Fort Overhaul</li>
+<li>Skill Based Pickpocketing - ESPless</li>
+<li>Essential Vanilla Enhancements Merged - PINIS</li>
+<li>New Vegas Mesh Improvement Mod - NVMIM</li>
+<li>Advanced 3rd Person Camera ESPless</li>
+<li>WMIM - Iron Sights for Energy Weapons (ISEW)</li>
+<li>ATMOS Ambience Overhaul</li>
+</ul>
+<hr>
+<p><strong>NOT SAFE TO UPDATE MID-SAVE</strong> - Due to large changes from the goodies update, new strip mod and multiple levelled list changes.</p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content:encoded>
+            <category>December</category>
+        </item>
         <item>
             <title><![CDATA[1.4 Update]]></title>
             <link>https://www.mojaveexpressguide.com/blog/1.4 Update</link>
