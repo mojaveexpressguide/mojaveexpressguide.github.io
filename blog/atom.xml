@@ -2,11 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>MOJAVE EXPRESS WABBAJACK Blog</title>
-    <updated>2025-12-24T00:00:00.000Z</updated>
+    <updated>2026-01-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>MOJAVE EXPRESS WABBAJACK Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[1.5.4 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.5.4 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.5.4 Update"/>
+        <updated>2026-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW - 1.5.4 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW - 1.5.4 Update</strong></p>
+<p>Small update to fix some issues, rebalance and optimize some things.</p>
+<p>NOTE: If you have any active stashes these will be removed upon updating.</p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>Faction Disguise De-Scripter - its back again</li>
+<li>Immersive Weapon Switching NVSE</li>
+</ul>
+<hr>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>Animated Location Discovery - It gets very annoying fast</li>
+<li>Hit - B42 Interact Skinning - same reason as above and the blood looks terrible</li>
+<li>Desert interiors - Has some out of place assets and lacks navmesh changes</li>
+<li>Repurposed Combat Dialogue - Cryo was complaining</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Door issue with Hostetler Home</li>
+<li>Lowered amount of stash notes in loot massively</li>
+<li>Various balance changes to the added weapons</li>
+<li>Made stimpaks heal companions instantly in hardcore</li>
+<li>Slightly increased strength of effect for B42 Dynamic Pip-Boy</li>
+<li>Extended weather transition time</li>
+<li>Various adjustments to specular, environment, light and decal fade to improve performance</li>
+<li>Packed more assets into BSA's - Should reduce stutter</li>
+<li>Fixed some nifs added by clothing and weapon mods</li>
+<li>Compressed and resized some textures</li>
+<li>Slightly increased night brightness</li>
+<li>Slightly reduced weapon jams</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>Party Banter 2.0</li>
+<li>Yvile's Crash Logger</li>
+<li>Advanced 3rd Person Camera ESPless</li>
+<li>ySI - Additional Icons</li>
+<li>Some Additional Sounds (SAS)</li>
+<li>Yukichigai Unofficial Patch - YUP</li>
+<li>Animated Moments - ESPless</li>
+<li>Realtime PipBoy Map - ESPless</li>
+<li>Point That Somewhere Else</li>
+<li>Instant and Faster Pipboy (No Stutter)</li>
+<li>Enhanced Locomotion</li>
+<li>Enhanced Movement</li>
+<li>Enhanced Creatures</li>
+<li>Decent LOD Kit - For me</li>
+<li>Meshes and Collision - Totally Enhanced Nifs (MAC-TEN)</li>
+<li>Dead Man's Stash</li>
+<li>Skill Based Pickpocketing - ESPless</li>
+<li>New Vegas Mesh Improvement Mod - NVMIM</li>
+<li>Pipboy Holo Panel ESPless</li>
+<li>Titans of The New West 2.0</li>
+<li>Point That Somewhere Else - NPCs React to Weapons</li>
+<li>Yukichigai Unofficial Patch - YUP</li>
+<li>Realtime PipBoy Map - ESPless</li>
+<li>Desert Natural Weathers - NV - TTW</li>
+<li>Character Expansions Revised</li>
+<li>Dead Man's Stash</li>
+<li>Restored Physics Sounds</li>
+<li>PipBoy UI Tweaks - ESPless</li>
+<li>MCM Extender</li>
+<li>Sleep Wait Hardcore Needs</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong> - NOTE: If you have any active stashes these will be removed upon updating.</p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="January" term="January"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1.5.3 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.5.3 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.5.3 Update"/>
+        <updated>2025-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW - 1.5.3 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW - 1.5.3 Update</strong></p>
+<p>Yet another small update to fix some issues.</p>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>More changes to the levelled lists</li>
+<li>Fixed issues with invisible followers guards (You may need to do resetinventory in console on them)</li>
+<li>New weapons should take advantage of perks now</li>
+<li>Slight balance changes to shotguns</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>Crafting and Repair Animations</li>
+<li>Animated Location Discovery</li>
+<li>Explosion Reactions - ESPless</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="December" term="December"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.5.2 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/1.5.2 Update</id>
