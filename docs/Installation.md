@@ -89,8 +89,8 @@ This operation is required because Windows can block MO2 and mod files from load
 5. Close the command prompt and a file named **FalloutNV_backup.exe** should appear in the same folder.
 
 </details>
----
 
+---
 
 ### Radio Fix:
 This makes the added radios songs play on the radios throughout the world.

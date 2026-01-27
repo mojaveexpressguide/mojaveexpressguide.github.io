@@ -13,6 +13,16 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Classic Pack:** <span class="hover-spoiler">Wrecked Highwayman</span>
 - **Mercenary Pack:** <span class="hover-spoiler">Bradley's Shack</span>
 
+---
+
+### ![](../static/img/Weapons.webp) New Weapons:
+
+- **Pump-Action Shotgun** - 20ga earlygame shotgun.
+- **Police Submachine Gun** - 10mm early-midgame submachine.
+- **Mercenary Assault Rifle** - 5.56mm midgame assault rifle.
+- **Double-Barrel Shotgun** - 12ga midgame shotgun.
+- **Combat Rifle** - .308 mid-lategame sniper rifle.
+- **Military Sniper Rifle** - .308 mid-lategame sniper rifle.
 
 :::tip **Unique Relocations:**
 
@@ -30,7 +40,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Esther** <span class="hover-spoiler">Nopah Cave:</span>
 - **Embrace of the Mantis King!:** <span class="hover-spoiler">Two Skies Cave</span>
 
-<h3><span class="custom-text">**AWOLP Dungeons:**</span></h3>
+<h3><span class="custom-text">**New Dungeons:**</span></h3>
 
 - **Paciencia:** <span class="hover-spoiler">Cazador Nest </span>
 - **Cleansing Flame:** <span class="hover-spoiler">Sawtooth Caverns</span>

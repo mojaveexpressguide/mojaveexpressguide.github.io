@@ -12,7 +12,7 @@ The Mojave Express Wabbajack **(MEW)** is a modlist for Fallout: New Vegas with 
 
 Whether you're a veteran who's played the game countless times, someone who's coming back to the game after many years, or even a first time player who's looking for the definitive way to experience this classic title, this list could be ideal for you.
 
-**MEW** is a reincarnation of my previous Mojave Express Guide **(MEG)** which was a Viva New Vegas additions guide. This time it's a [Wabbajack](https://www.wabbajack.org/) which allows me unrestricted mod choice and gives you a semi-automated mod downloading process (a Nexus Premium account is needed for fully automated downloading).
+**MEW** is a reincarnation of my previous Mojave Express Guide **(MEG)** which was a Viva New Vegas additions guide. This time it's an independant [Wabbajack](https://www.wabbajack.org/) which allows me unrestricted mod choice and gives you a semi-automated mod downloading process (a Nexus Premium account is needed for fully automated downloading).
 
 
 
@@ -24,7 +24,7 @@ There are very few **"texture mods"** in the guide, the visual mods included mai
 
 :::danger Important!
 
-This list is **NOT** designed to be a stable base for you to add your own mods as everything has been designed to work together as is! Unless you have a good general understanding of modding, the mods used, and xEdit, you should not try to add anything! If you are looking for something vanilla focused that is more suitable to be modified then try out [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html).
+This list is **NOT** designed to be a stable base for you to add your own mods, as everything has been designed to work together as is! Unless you have a good general understanding of modding, the mods used, and xEdit, you should not try to add anything! If you are looking for something vanilla focused that is more suitable to be modified then try out [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html).
 
 :::
 

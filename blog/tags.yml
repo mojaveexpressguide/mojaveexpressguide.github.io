@@ -32,3 +32,18 @@ August:
   label: August
   permalink: /August
   description: August
+
+December:
+  label: December
+  permalink: /December
+  description: December
+
+January:
+  label: January
+  permalink: /January
+  description: January
+
+Feburary:
+  label: Feburary
+  permalink: /Feburary
+  description: Feburary
