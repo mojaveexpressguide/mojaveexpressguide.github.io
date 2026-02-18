@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>MOJAVE EXPRESS WABBAJACK Blog</title>
-    <updated>2026-01-09T00:00:00.000Z</updated>
+    <updated>2026-02-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>MOJAVE EXPRESS WABBAJACK Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[1.5.5 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.5.5 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.5.5 Update"/>
+        <updated>2026-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW - 1.5.5 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW - 1.5.5 Update</strong></p>
+<p>Small update to fix some issues. <strong>You will not be able to alt-tab in fullscreen mode without DXVK.</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>NPC Combat Dodge</li>
+<li>WMILF - Weapon Mesh Improvements and Lovely Forms</li>
+<li>Wasted Pines</li>
+<li>Enhanced Animations - 3rd Person Movement</li>
+<li>Animated Greetings</li>
+<li>Holo Panel Map - Should work now</li>
+<li>Third Person Aim Fix NVSE</li>
+<li>Wasted Pines</li>
+<li>UI Improvements</li>
+<li>The Platinum Vault</li>
+<li>Mojave Mountains</li>
+<li>EXE - Effect teXtures Enhanced</li>
+<li>ySI - Recipe Menu Support</li>
+</ul>
+<hr>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>Weapon Mesh Improvement Mod</li>
+<li>WMIM - ISEW - JSUE Version</li>
+<li>3rd Person Aim Fix - ESPless</li>
+<li>Longer Weather Transitions - Has some weird issues</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Set bUseDefaultPoolForTextures = 1 in NVTF - INI. This will reduce any out of memory issues. However, alt-tab will break in fullscreen mode without DXVK.</li>
+<li>Added 1st time pickup anims for more weapons</li>
+<li>Fixed some inconsistencies with power armor and TOTNW</li>
+<li>Fixed ranger armor issue in 1st person</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>B42 Weapon Inertia</li>
+<li>MCM Extender</li>
+<li>Advanced 3rd Person Camera ESPless</li>
+<li>Sleep Wait Hardcore Needs</li>
+<li>Configurable Pip-Boy Light Color</li>
+<li>MAPMO - Main and Pause Menus Overhaul</li>
+<li>NPC Combat Dodge</li>
+<li>Enhanced Creatures</li>
+<li>Desert Natural Weathers - NV - TTW</li>
+<li>Vanilla Plus AO</li>
+<li>Titans of The New West 2.0</li>
+<li>Crafting and Repair Animations</li>
+<li>PipBoy UI Tweaks - ESPless</li>
+<li>ShowOff xNVSE Plugin</li>
+<li>Enhanced Movement</li>
+<li>Immersive Weapon Switching NVSE</li>
+<li>Meshes and Collision - Totally Enhanced Nifs (MAC-TEN)</li>
+<li>The Living Desert</li>
+<li>YUP</li>
+<li>Lucky Jim's Cache</li>
+<li>Lime's Faction Safehouse Overhaul</li>
+<li>3rd Person Animation Fixpack</li>
+<li>Enhanced Creatures</li>
+<li>Titans of The New West 2.0</li>
+<li>MAPMO - Main and Pause Menus Overhaul</li>
+<li>FNV Mod Limit Fix</li>
+<li>Radiation Visuals - ESPless</li>
+<li>Modern Help Menu - ESPless</li>
+<li>Dead Man's Stash</li>
+<li>Realtime PipBoy Map - ESPless</li>
+<li>Subtle Rifle Equip Sound</li>
+<li>Cell Offset Generator - NVSE</li>
+<li>Pip-Boy Screen Always On</li>
+<li>Dialogue Emotion Expansion</li>
+<li>FNV Mod Limit Fix</li>
+<li>Explosive Overhaul</li>
+<li>Unofficial Patch NVSE Plus</li>
+<li>Point That Somewhere Else</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong> - NOTE: If you have any active stashes these will be removed upon updating.</p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="February" term="February"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.5.4 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/1.5.4 Update</id>
@@ -145,7 +236,7 @@
 <li>Followers Outpost door link</li>
 <li>Fixed some clipping objects in Prospector Saloon and Ranger Andy's bungalow</li>
 <li>Fixed some issues with Strip 2026 and Revised Mojave</li>
-<li>Actually placed Greased Lightning</li>
+<li>Actually placed Greased Lightning+</li>
 <li>Updated some iron sight alignments</li>
 <li>Halved backpack spawn chance on NPC's</li>
 <li>Slight nerfs to NPC ranges</li>
