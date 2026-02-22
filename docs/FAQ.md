@@ -58,6 +58,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 </details>
 
+
 <details>
 
 <summary className="big-summary">**Application Load Error**</summary>
@@ -70,6 +71,19 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 </details>
 
+
+<details>
+
+<summary className="big-summary">**Mouse cursor not appearing**</summary>
+
+- Ensure you don't have a controller, tablet or anything similar plugged in. If that fails do the below:
+- Go into **falloutprefs.ini** and change <span class="custom-text">**bDisable360Controller**</span> to **`1`**
+<p>![Disable360Controller](../static/img/bDisable360Controller.webp)</p>
+
+
+</details>
+
+
 <details>
 
 <summary className="big-summary">**Bouncing NPCs Or Sped-up Game**</summary>
@@ -77,6 +91,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 - **Lock your FPS** below <span class="custom-text">**120**</span> according to the Performance Guide. 
 
 </details>
+
 
 <details>
 
@@ -88,6 +103,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 </details>
 
+
 <details>
 
 <summary className="big-summary">**Black Sky**</summary>
@@ -98,11 +114,12 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 </details>
 
+
 <details>
 
 <summary className="big-summary">**General Answers**</summary>
 
-- You will **need** to start a new Save after installing **MEW**!
+- You will **need** to start a new save after installing **MEW**!
 
 </details>
 

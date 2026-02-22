@@ -66,11 +66,12 @@ You will need to launch the game through **MO2** everytime you intend to play th
 2. Close the game and disable the **Utilities Checker** under the Tweaks, Configs & Patches separator (left pane).
 
 
-:::tip You have now successfully installed the Mojave Express Wabbajack list. You can now start playing!
+:::tip You have now successfully installed the Mojave Express Wabbajack list.
 
-It is highly recommended to follow the [**Performance & Optimization**](/docs/Performance) step next! You can additionally check out the **Useful Information**, **Configuration & Tweaks**, and **Controls Guide** as well.
+Please follow the [**Performance & Optimization**](/docs/Performance) step next to solve Alt-Tab and performance issues!
 
 :::
+
 
 - If anything fails please check out the [**FAQ**](/docs/FAQ) page!
 
