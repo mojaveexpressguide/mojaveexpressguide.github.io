@@ -4,10 +4,57 @@
         <title>MOJAVE EXPRESS WABBAJACK Blog</title>
         <link>https://www.mojaveexpressguide.com/blog</link>
         <description>MOJAVE EXPRESS WABBAJACK Blog</description>
-        <lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[1.5.6 Update]]></title>
+            <link>https://www.mojaveexpressguide.com/blog/1.5.6 Update</link>
+            <guid>https://www.mojaveexpressguide.com/blog/1.5.6 Update</guid>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[MEW - 1.5.6 Update]]></description>
+            <content:encoded><![CDATA[<p><strong>MEW - 1.5.6 Update</strong></p>
+<p>Small update to fix some issues.</p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>NVTF - Windowed (D3D9 Patch) - In case you cannot use DXVK</li>
+<li>Gambling Luck Rebalanced</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Removed Salt-Upon-Wounds' power fist from Radscorpion Cave</li>
+<li>Pip-boy perk preview key to R to fix conflict</li>
+<li>Increased nighttime brightness</li>
+<li>Changed pip-boy light color</li>
+<li>Slightly reduced ambient occlusion samples (May improve performance)</li>
+<li>Adjusted third person camera slightly</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>Modern Minimap</li>
+<li>Modern Help Menu</li>
+<li>MCM Extender</li>
+<li>Better Character Creation</li>
+<li>ShowOff xNVSE</li>
+<li>High Resolution Screens</li>
+<li>High Resolution Water Fog</li>
+<li>Muzzle Flash Light Fix - NVSE</li>
+<li>Viewmodel Shake Fix - NVSE</li>
+<li>External Emittance Fix - NVSE</li>
+<li>Shader Loader - NVSE</li>
+<li>Mojave Radio Selects</li>
+<li>Hymn of The New West</li>
+<li>UI Improvements</li>
+<li>Yukichigai Unofficial Patch</li>
+</ul>
+<hr>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content:encoded>
+            <category>February</category>
+        </item>
         <item>
             <title><![CDATA[1.5.5 Update]]></title>
             <link>https://www.mojaveexpressguide.com/blog/1.5.5 Update</link>
@@ -91,7 +138,7 @@
 <li>Point That Somewhere Else</li>
 </ul>
 <hr>
-<p><strong>SAFE TO UPDATE MID-SAVE</strong> - NOTE: If you have any active stashes these will be removed upon updating.</p>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong></p>
 <p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content:encoded>
             <category>February</category>
         </item>
