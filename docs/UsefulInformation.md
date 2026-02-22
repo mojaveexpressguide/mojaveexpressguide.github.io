@@ -78,18 +78,22 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p> **These can all be safely disabled in the left pane of MO2 under the Difficulty Overhauls separator. ⮯** </p>
-- <span class="custom-text">[**Reload Reloaded**]</span> - Your agility scales your reload speed and strength scales throwing speed and distance.
-- <span class="custom-text">[**Food Effect Tweaks**]</span> - Food heals less.
-- <span class="custom-text">[**Bad Touch NVSE**]</span> - Fire burns, electricity shocks, cacti poke, and more!
-- <span class="custom-text">[**RAD - Overhaul**]</span> - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
-- <span class="custom-text">[**Ghouls Inflict Radiation Damage**]</span> - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
-- <span class="custom-text">[**Water Depth Radiation**]</span> - Water radiation is ramped up based upon depth.
-- <span class="custom-text">[**Famine**]</span> - Loot is rarer and weapons & armour have lower conditions when found.
-- <span class="custom-text">[**Harder Barter Faster Stronger**]</span> - The barter skill matters significantly more for buying and selling prices.
-- <span class="custom-text">[**STALKER Barter**]</span> - You can no longer sell weapons & armour under 30% condition.
-- <span class="custom-text">[**Simple Harder Credit Check and Passport**]</span> - The Strip is more difficult to get into and costs 4000 caps the direct way now.
-- <span class="custom-text">[**Skill Based Pickpocketing**]</span> - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
-- <span class="custom-text">[**Corpse Looting Restrictions**]</span> - Adds restrictions to looting corpses, NPCs will attack if you loot their fallen allies.
+
+- [[**Reload Reloaded**]](https://www.nexusmods.com/newvegas/mods/62266) - Your agility scales your reload speed and strength scales throwing speed and distance.
+- [[**Food Effect Tweaks**]](https://www.nexusmods.com/newvegas/mods/75103) - Food heals less.
+- [[**Bad Touch NVSE**]](https://www.nexusmods.com/newvegas/mods/83782) - Fire burns, electricity shocks, cacti poke, and more!
+- [[**RAD - Overhaul**]](https://www.nexusmods.com/newvegas/mods/71541) - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
+- [[**Ghouls Inflict Radiation Damage**]](https://www.nexusmods.com/newvegas/mods/77401) - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
+- [[**Enhanced Creatures**]](https://www.nexusmods.com/newvegas/mods/92824) - Enhances creatures in multiple ways making them significantly more difficult.
+- [[**NPC Combat Dodge**]](https://www.nexusmods.com/newvegas/mods/94702) - Allows NPC's to dodge when being aimed at.
+- [[**Water Depth Radiation**]](https://www.nexusmods.com/newvegas/mods/89347) - Water radiation is ramped up based upon depth.
+- [[**Famine**]](https://www.nexusmods.com/newvegas/mods/74985) - Loot is rarer and weapons & armour have lower conditions when found.
+- [[**Harder Barter Faster Stronger**]](https://www.nexusmods.com/newvegas/mods/80360) - The barter skill matters significantly more for buying and selling prices.
+- [[**STALKER Barter**]](https://www.nexusmods.com/newvegas/mods/92340) - You can no longer sell weapons & armour under 30% condition.
+- [[**Balanced Discounts and Barter Fixes**]](https://www.nexusmods.com/newvegas/mods/90644) - Reduces the economy-breaking discounts
+- [[**Simple Harder Credit Check and Passport**]](https://www.nexusmods.com/newvegas/mods/90465) - The Strip is more difficult to get into and costs 4000 caps the direct way now.
+- [[**Skill Based Pickpocketing**]](https://www.nexusmods.com/newvegas/mods/92546) - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
+- [[**Corpse Looting Restrictions**]](https://www.nexusmods.com/newvegas/mods/94065) - Adds restrictions to looting corpses, NPCs will attack if you loot their fallen allies.
 
 
 
