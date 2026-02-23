@@ -14,7 +14,7 @@ By default you will not be able to Alt-Tab in **Fullscreen Mode**! In order to s
 
 :::
 
-In general, you should try to install **DXVK** as it will fix your Alt-Tabbing issues and typically improves performance. However, the installation and compatiblity of this depends entirely on your hardware. Read [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) for more information including installation and configuration. 
+In general, you should try to install **DXVK** as it will fix your Alt-Tabbing issues and typically improves performance. However, the installation and compatiblity depends entirely on your hardware. Read [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) for more information including installation and configuration. 
 
 
 

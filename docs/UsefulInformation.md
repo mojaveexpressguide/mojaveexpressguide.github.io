@@ -52,6 +52,7 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 - **Sleepytyme:** <span class="hover-spoiler">Fiend Hideout</span>
 - **The Smitty Special:** <span class="hover-spoiler">Fiend Safehouse, inside the Fiend Bunker</span>
 - **Two-Step Goodbye:** <span class="hover-spoiler">Super Mutant Hideout</span>
+- **Greased Lightning:** <span class="hover-spoiler">Early Dawn School Lower Level</span>
 
 </p>
 
