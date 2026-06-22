@@ -6,6 +6,9 @@ sidebar_position: 4
 
 ---
 
+
+Every mod and setting is pre-configured for you, making adjustments may break balance.
+
 You will not get the **Courier's Stash** DLC weapons when you start a new character due to [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592). Instead the items are moved to the following locations: 
 
 - **Tribal Pack:** <span class="hover-spoiler">Lucky Jim Mine House</span>

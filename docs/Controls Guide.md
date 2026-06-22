@@ -37,6 +37,14 @@ sidebar_position: 5
 
 - Use the <span class="custom-text">**Scroll Wheel**</span> to adjust **zoom** and <span class="custom-text">**TAB**</span> to adjust **night vision** on supported scopes.
 
+**Hold Breath**
+
+- Hold <span class="custom-text">**L-ALT**</span> to hold your breath whilst scoped.
+
+**Open Map**
+
+- Press <span class="custom-text">**M**</span> to open the pip-boy world map quicky.
+
 ---
 
 ## 🎮 Controller:

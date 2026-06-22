@@ -106,6 +106,30 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
+<summary className="big-summary">**Ultrawide Support**</summary>
+
+1. Select the <span class="custom-text">**INI Editor**</span> at the top of MO2.
+
+2. Select the **FalloutPrefs.ini** tab.
+
+![MO2Tools](../static/img/MO2Ultrawide.webp)
+
+3. Change the following settings in the <span class="custom-text">**Display**</span> section: 
+    - `iSize W` = your screen width. 
+    - `iSize H` = your screen height. 
+
+4. Start the game and in the main menu, select **settings** > **tweaks**.
+
+5. Filter for `Ultrawide` then enable the support tweak.
+
+6. Restart your game.
+
+
+</details>
+
+
+<details>
+
 <summary className="big-summary">**Black Sky**</summary>
 
 - This is due to not having the in-game HDR enabled. (This is not the same as typical display HDR)
