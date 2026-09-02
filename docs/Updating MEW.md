@@ -8,13 +8,13 @@ sidebar_position: 4
 
 ## Updating the modlist:
 
-Whenever a new version of the MEW is released you can easily update it by re-running the **Wabbajack**.
-
 :::danger Before you update!
 
 Make sure that the update is marked as **Safe Mid-Game** before playing on the same save!
 
 :::
+
+Whenever a new version of the **MEW** is released you can easily update it by re-running the **Wabbajack**.
 
 You can update your current installation by following these steps:
 

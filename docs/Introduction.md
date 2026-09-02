@@ -28,7 +28,7 @@ This list is **NOT** designed to be a stable base for you to add your own mods, 
 
 :::
 
-
+---
 
 ## Showcase
 
@@ -36,6 +36,7 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 <ImageGalleryComponent />
 
+---
 
 ## Overview
 

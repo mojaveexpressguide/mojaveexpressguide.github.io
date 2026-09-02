@@ -31,17 +31,17 @@ Decompresses archives for better loading time and fixes vanilla audio not playin
 
 <details>
 
-<summary className="big-summary">**Decompression Step**</summary>
+<summary className="big-summary">**BSA Patcher Step**</summary>
 
-1. In **MO2**, open the **Tweaks, Configs & Patches** separator and find the mod <span class="custom-text">**Patched BSAs**</span> at the bottom.
+1. In **MO2**, open the **Tweaks, Configs & Patches** separator and find the mod <span class="custom-text">**[No Delete] Patched BSAs**</span> at the bottom.
 <p>![PatchedBSAsMO2](../static/img/PatchedBSAsMO2.webp)</p>
-2. Right click the mod and select open in explorer
-3. Copy the **file path** at the top of your windows explorer
+2. Right click the mod and select **Open in Explorer**
+3. Copy the **file path** at the top of your Windows Explorer
 4. In your **Installation Location**, open the <span class="custom-text">**___Vanilla BSAs Patcher**</span> folder. 
-5. Double-click on **Vanilla BSAs Patcher.exe**.
+5. Double-click on <span class="custom-text">**Vanilla BSAs Patcher.exe**</span>.
 6. In the **Custom output path** paste the file path you copied from earlier.
-<p>![BSAPatcher](../static/img/BSAPatcher.webp)</p>
-7. Press the **>** button and wait for the process the finish, then exit the program once finished.
+<p>![VanillaBSAPatcher](../static/img/VanillaBSAPatcher.webp)</p>
+7. Press the ► button and wait for the process the finish, then exit the program once finished.
 
 </details>
 ---

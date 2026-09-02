@@ -52,7 +52,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 - You have incompatible mods lingering in your game's Data folder, this is why a clean slate is required.
 - If you are using an AMD GPU, make sure that your drivers are updated to the [**latest version**](https://www.amd.com/en/support)!
 - If you are using a third-party antivirus, add exclusions to the folder Mod Organizer 2 is in. If that doesn't work, try disabling the antivirus completely and rely solely on Windows Defender (which should work fine once exclusions are present).
-- Close or uninstall Overwolf.
+- Close or uninstall **Overwolf**.
 - Most programs that ship with pre-built computers or laptops (such as OMEN Gaming Hub for HP OMEN systems) will be prone to issues and should be uninstalled or temporarily closed.
 - Lock your FPS below **120** according to the [**Performance Guide**](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters).
 
@@ -99,7 +99,7 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 - Verify your game files.
 
-    - You will need to reapply the 4GB Patcher and re-run the BSA Decompressor and after doing this.
+    - You will need to reapply the 4GB Patcher after doing this.
 
 </details>
 

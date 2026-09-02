@@ -40,7 +40,7 @@ sidebar_position: 4
 
 ### Exclusions:
 
-This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.
+This operation is required because Windows can block **MO2** and mod files from loading due to how MO2's virtualized filesystem works.
 
 
 1. Open <button onClick={() => window.location.href = 'ms-settings:windowsdefender'}> Windows Security </button>

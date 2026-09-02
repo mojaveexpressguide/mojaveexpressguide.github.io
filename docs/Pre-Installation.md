@@ -63,6 +63,7 @@ As the game is available on **Steam or GOG** there are separate instructions for
 4. Navigate to `Documents\My Games\FalloutNV_Epic` and delete all INI files inside it.
 
 </details>
+
 ---
 
 ## Installing the game:

@@ -7,9 +7,25 @@ sidebar_position: 4
 ---
 
 
-Every mod and setting is pre-configured for you, making adjustments may break balance.
+### Game Information:
 
-You will not get the **Courier's Stash** DLC weapons when you start a new character due to [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592). Instead the items are moved to the following locations: 
+- **Max level** is 50 but with 2 reduced skill points per level.
+- **Levelling** is 33% slower.
+- **Perks** have been completely overhauled. You will want to look at [Perkout](https://www.nexusmods.com/newvegas/mods/80309?tab=description) before going your usual build.
+- **Charisma** is now a more useful stat, as it is now used in many dialogues.
+- **Weapon condition** now affects the spread of the weapon instead of the damage.
+- **Flame weapons** now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
+- **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
+- **Some weapons** have had their ammo types changed, and there is now a new ammo .30-06 added to the game.
+- **FO3-style item repair** is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40. You can turn this off under the **Difficulty Overhaul** section.
+
+---
+
+### DLC's:
+
+You will not receive the DLC radio's and quests at the start of the game. Instead you will receive these when you reach the appropriate level or by going to the starting area directly.
+
+You will not receive the **Courier's Stash** DLC weapons when you start a new character due to [Dead Hand](https://www.nexusmods.com/newvegas/mods/94982). Instead the items are moved to the following locations: 
 
 - **Tribal Pack:** <span class="hover-spoiler">Lucky Jim Mine House</span>
 - **Caravan Pack:** <span class="hover-spoiler">Hell's Motel</span>
@@ -20,36 +36,40 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 ### ![](../static/img/Weapons.webp) New Weapons:
 
+6 Vanilla friendly weapons have been added and integrated in the levelled lists:
+
 - **Pump-Action Shotgun** - 20ga earlygame shotgun.
 - **Police Submachine Gun** - 10mm early-midgame submachine.
 - **Mercenary Assault Rifle** - 5.56mm midgame assault rifle.
 - **Double-Barrel Shotgun** - 12ga midgame shotgun.
-- **Combat Rifle** - .308 mid-lategame sniper rifle.
-- **Military Sniper Rifle** - .308 mid-lategame sniper rifle.
+- **Combat Rifle** - .308 mid-lategame rifle.
+- **Military Sniper Rifle** - .30-06 mid-lategame sniper rifle.
 
-:::tip **Unique Relocations:**
+---
+
+### Unique Weapon Relocations:
 
 <details>
 
-<summary>Many unique weapons, the majority being GRA have been relocated to the below locations:</summary>
+<summary>Many unique weapons have been relocated to the below locations:</summary>
 
 <p>![GRAIntegratedMap](../static/img/GRAIntegratedMap.webp)</p>
 
 <p>
-- **Bozar:** <span class="hover-spoiler">Quarry Junction</span>
-- **Sprtel-Wood 9700:** <span class="hover-spoiler">Deathclaw Promontory</span>
-- **Lucky:** <span class="hover-spoiler">Town Hall Steyn's Office</span>
-- **That Gun:** <span class="hover-spoiler">REPCONN Basement</span>
-- **Esther** <span class="hover-spoiler">Nopah Cave:</span>
+- **Bozar:** <span class="hover-spoiler">Near the deathclaw eggs at **Quarry Junction**</span>
+- **Sprtel-Wood 9700:** <span class="hover-spoiler"> Near the dead corpses at **Deathclaw Promontory**</span>
+- **Lucky:** <span class="hover-spoiler">In the safe in **Town Hall Steyn's Office**</span>
+- **That Gun:** <span class="hover-spoiler">At the bottom of **REPCONN Basement**</span>
+- **Esther** <span class="hover-spoiler">Next to Super Mutant Master in **Nopoah Cave**:</span>
 - **Embrace of the Mantis King!:** <span class="hover-spoiler">Two Skies Cave</span>
 
 <h3><span class="custom-text">**New Dungeons:**</span></h3>
 
 - **Paciencia:** <span class="hover-spoiler">Cazador Nest </span>
-- **Cleansing Flame:** <span class="hover-spoiler">Sawtooth Caverns</span>
+- **Cleansing Flame:** <span class="hover-spoiler">On Cook-Cook</span>
 - **MF Hyperbreeder Alpha:** <span class="hover-spoiler">Radiological Research Facility</span>
 - **Medicine Stick:** <span class="hover-spoiler">Deathclaw Sanctuary</span>
-- **Li'l Devil:** <span class="hover-spoiler">Vipers' Lair</span>
+- **Li'l Devil:** <span class="hover-spoiler">On boss in Vipers' Lair</span>
 - **Nuka-Breaker:** <span class="hover-spoiler">SunnySet Storage & Maintenance</span>
 - **Gehenna:** <span class="hover-spoiler">Infested Cave</span>
 - **Sleepytyme:** <span class="hover-spoiler">Fiend Hideout</span>
@@ -61,50 +81,21 @@ You will not get the **Courier's Stash** DLC weapons when you start a new charac
 
 </details>
 
-:::
-
----
-
-- **Perks** and **traits** have been completely overhauled. You will want to look at [Perkout](https://www.nexusmods.com/newvegas/mods/80309?tab=description) before going your usual build.
-- Flame weapons now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
-- **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
-- FO3-style item repair is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
-<details>
-<summary>To turn off FO3-style item repair:</summary>
-- In left pane of MO2 open the **Tweaks, Configs & Patches** separator
-- Double-click <span class="custom-text">**MEW - INI's and Configs**</span>
-- Click the **INI Files** tab at the top
-- Find and click `nvse\plugins\jip_nvse.ini` near the bottom
-- Change bEnableFO3Repair=1 to **0**
-- Press `Ctrl+S` to save changes.
-
-</details>
-
 ---
 
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
+
 <p> **These can all be safely disabled in the left pane of MO2 under the Difficulty Overhauls separator. ⮯** </p>
 
 - [[**Reload Reloaded**]](https://www.nexusmods.com/newvegas/mods/62266) - Your agility scales your reload speed and strength scales throwing speed and distance.
 - [[**Food Effect Tweaks**]](https://www.nexusmods.com/newvegas/mods/75103) - Food heals less.
 - [[**Bad Touch NVSE**]](https://www.nexusmods.com/newvegas/mods/83782) - Fire burns, electricity shocks, cacti poke, and more!
 - [[**RAD - Overhaul**]](https://www.nexusmods.com/newvegas/mods/71541) - Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
-- [[**Ghouls Inflict Radiation Damage**]](https://www.nexusmods.com/newvegas/mods/77401) - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
+- [[**Creature Radiation Damage**]](https://www.nexusmods.com/newvegas/mods/77401) - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
 - [[**Enhanced Creatures**]](https://www.nexusmods.com/newvegas/mods/92824) - Enhances creatures in multiple ways making them significantly more difficult.
 - [[**NPC Combat Dodge**]](https://www.nexusmods.com/newvegas/mods/94702) - Allows NPC's to dodge when being aimed at.
 - [[**Water Depth Radiation**]](https://www.nexusmods.com/newvegas/mods/89347) - Water radiation is ramped up based upon depth.
 - [[**Famine**]](https://www.nexusmods.com/newvegas/mods/74985) - Loot is rarer and weapons & armour have lower conditions when found.
-- [[**Harder Barter Faster Stronger**]](https://www.nexusmods.com/newvegas/mods/80360) - The barter skill matters significantly more for buying and selling prices.
 - [[**STALKER Barter**]](https://www.nexusmods.com/newvegas/mods/92340) - You can no longer sell weapons & armour under 30% condition.
-- [[**Balanced Discounts and Barter Fixes**]](https://www.nexusmods.com/newvegas/mods/90644) - Reduces the economy-breaking discounts
-- [[**Simple Harder Credit Check and Passport**]](https://www.nexusmods.com/newvegas/mods/90465) - The Strip is more difficult to get into and costs 4000 caps the direct way now.
-- [[**Skill Based Pickpocketing**]](https://www.nexusmods.com/newvegas/mods/92546) - NPCs can't be pickpocketed at all unless you invest into the Sneak skill.
 - [[**Corpse Looting Restrictions**]](https://www.nexusmods.com/newvegas/mods/94065) - Adds restrictions to looting corpses, NPCs will attack if you loot their fallen allies.
-
-
-
-
-
-
-
-
+- **FO3 Repair** -  The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40.
