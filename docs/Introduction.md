@@ -49,12 +49,12 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 ---
 
 ### ![](../static/img/UserInterface.webp) User Interface:
-- Various basic modernisations; including dynamic crosshairs, hit markers, visual quest markers, and a quick loot menu.
+- Various basic modernisations; including dynamic crosshairs, hit markers, visual quest markers, and a Quick Loot menu.
 - Simplified FO4 style HUD display.
 - Higher resolution HUD and icons.
 - Text size and style adjustments.
 - Visibility tweaks and display modernisations from the newer games.
-- Power Armor exclusive Pip-Boy holo panel.
+- Power Armor exclusive Pip-Boy holographic panel.
 - Cleaner and more readable world map.
 - All items have an icon in menus to make them more readable and help with organisation.
 - Consumables will display a dedicated HUD widget after use showing how long it'll take until they wear off.
@@ -63,12 +63,13 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ### ![](../static/img/Gameplay.webp) Gameplay Overhauls:
 - Tons of Quality of Life tweaks. 
-- Many aspects of the game have been rebalanced from top to bottom courtesy of [Dead Hand](https://www.nexusmods.com/newvegas/mods/94982). Tweaking character progression, health, carry weight, loot distribution, item values, and more.
-- Player character's level is capped at 50, with 2 less skill points per level up and levelling up speed 33% slower.
-- Perks and traits have been completely overhauled. See [PerkOut](https://www.nexusmods.com/newvegas/mods/80309?tab=description) for more info.
+- Many aspects of the game have been rebalanced from top to bottom courtesy of [Dead Hand](https://www.nexusmods.com/newvegas/mods/94982). Tweaking character progression, health, carry weight, loot distribution, item stats, and more.
+- Vanilla level cap of 50 is preserved, but you get 2 less skill points per level, and levelling speed is 33% slower.
+- Perks have been completely overhauled. See [PerkOut](https://www.nexusmods.com/newvegas/mods/80309?tab=description) for more info.
 - You can now sprint, with custom animations and sounds. Higher Endurance allows you to sprint for longer before getting tired.
 - Your Agility scales your movement speed, including walking, running, and sprinting. Every point above 5 AGL increases your speed by 3%, and every point below that decreases it by the same amount.
 - Weapons now have recoil, increasing or decreasing based on your character's stats.
+- The game's economy has been entirely revamped. Item values are much more logical and less inflated across the board, repairs are actually affordable, the Barter skill affects buying and selling prices significantly more, casinos are harder, the credit check for getting into the Strip is doubled, and much more.
 - GRA custom weapons are seamlessly merged with their vanilla counterparts, so you don't have to worry about having the correct version to attach mods to.
 - Weapon mods can be found rarely on NPC's weapons.
 - Weapon requirements actually matter now and will have a much greater impact on their handling.
@@ -77,7 +78,6 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 - Bullet sponges at higher difficulty have been noticeably reduced.
 - Head DT/DR is now separated from the body, meaning helmets are necessary for head protection.
 - Power Armor is now big and bulky with custom animations and sounds.
-- You can bash enemies with your weapon like in FO4.
 - You can use your Pip-Boy as a real-time immersive minimap by holding "Q".
 - Some dialogue checks have been changed from Speech to Charisma where logically applicable, giving the once useless SPECIAL stat more of a reason to exist.
 
@@ -85,26 +85,24 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ### ![](../static/img/Difficulty.webp) Difficulty Overhauls: 
 <p><span class="custom-text">**These can all be safely disabled ⮯**</span></p>
-- Radiation is actually dangerous, reducing your HP and AP (in hardcore mode) like FO4.
+- Radiation is actually dangerous, reducing your max HP the more irradiated you get. In hardcore mode, your max AP will also be reduced based on how thirsty, hungry, and tired you are.
 - Ghouls, Centaurs, Spore Carriers, Tunnelers, Mantis, Radroaches, and Molerats inflict radiation damage.
 - Water radiation is ramped up based upon depth.
 - Food heals less.
 - Weapons & armour have a lower condition when found.
-- Weapons & armour under 25% condition will be worth nothing now, so you have to do some repairing before being able to sell them.
+- Weapons & armour under 25% condition will be worth nothing, so you have to do some repairing before being able to sell them.
 - FO3-style item repair is back. The max repair amount of equipment will be capped based on the player's Repair skill. Formula: (Repair Skill * 0.6) + 40.
-- The Barter skill affects buying and selling prices significantly more.
 - NPCs may attack you if they see you looting the corpses of their fallen allies unless you are liked by the faction.
-- The Strip is more difficult to get into and costs 4000 caps the direct way now.
 - Sneak attack damage scales with your Sneak skill.
 
 ---
 
 ### ![](../static/img/NPC.webp) NPC Overhauls: 
 - Thousands of small character face edits with subtle improvements.
-- They will show more emotion during conversations and their lip-syncing will match their dialogue much better.
+- They will show more emotion during conversations and their lip-syncing will match their dialogue much more closely.
 - Their loot distribution has been overhauled and should be more balanced.
 - Humanoids can sprint the same way you can.
-- Both humanoid and creature NPCs have had their AI and abilities enhanced and should be much more effective in combat.
+- Both humanoid and creature NPCs have had their AI and abilities enhanced and are now much more effective in combat.
 - NPC accuracy changes based on their faction and class.
 - The Legion have received a vanilla-plus overhaul to their equipment. Legionaries will get stronger armour as the player progresses through the game.
 - Securitron faces look more detailed and will change when they enter combat mode.
@@ -114,16 +112,17 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ### ![](../static/img/Content.webp) Content:
 - A plethora of restored content, consistency fixes, integrated content, and "grey area" bug fixes thanks to [Goodies](https://www.nexusmods.com/newvegas/mods/91028).
-- A collection of small vanilla-friendly gameplay improvements from [EVEM](https://www.nexusmods.com/newvegas/mods/78877).
+- A collection of small vanilla-friendly gameplay improvements from [EVEM](https://www.nexusmods.com/newvegas/mods/78877) and [EDEM](https://www.nexusmods.com/newvegas/mods/73803).
 - DLCs get delayed until you reach their appropriate level or until you visit their respective starting locations, instead of all being dumped into your quest log at the start of the game.
 - New dungeons to explore and loot to be found.
 - Balanced backpacks have been added to the game, providing you a choice for more carrying capacity at the cost of mobility.
 - Many new pieces of armour and clothes have been added and distributed, greatly increasing equipment variety and making some unique NPCs stand out more.
 - A small, curated collection of new weapons has been added to fill some gaps present in the vanilla arsenal, and some of the vanilla weapons have been revised and rebalanced.
 - Unique equipment that used to be vendor exclusive has been hand-placed in various locations across the Mojave, incentivising exploration. If you want spoilers, you can find their locations [here](/docs/UsefulInformation).
+- Mojave Express Dropboxes have been overhauled to be much more useful, and now serve as an expanding upgradable universal storage system.
 - NPCs will patrol the roads, travelling between towns, occupying locations, exploring the desert, and reacting dynamically to your choices throughout the game.
-- Hundreds of hand-placed and vanilla-friendly creature & raider spawn points in appropriate locations throughout the whole Mojave.
-- Ghoul outfits and armour have been expanded.
+- Hundreds of hand-placed and vanilla-friendly enemy spawn points in appropriate locations throughout the whole Mojave.
+- Ghoul variety has been expanded with more outfits and armour.
 
 ---
 
@@ -141,10 +140,10 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ### ![](../static/img/Visuals.webp) Visuals:
 
-- Brand new weathers, with a much more naturalistic tone compared to the yellow color filter of vanilla, including 360 panoramic cloud textures, greatly improved lighting and tonemapping.
+- Brand new weathers, with a much more naturalistic tone compared to the yellow color filter of vanilla, including 360 panoramic cloud textures, and greatly improved lighting and tonemapping.
 - Overhauls to interior lighting to give them a more dynamic and atmospheric look.
-- Ambient Occlusion has been implemented into the game's renderer.
-- Parallax effects have been added to all terrain/landscape textures, giving them much more depth than before.
+- Ambient Occlusion has been implemented, giving the visuals more depth.
+- Parallax effects have been added to all terrain/landscape textures, which gives them a much more 3D look.
 - Dual-Render Scopes with variable zoom levels and night vision toggle on supported scopes.
 - Most energy weapons have built-in iron sights.
 - Redesigned blood, particle effects, and gore textures that fit within the New Vegas art style.
@@ -159,10 +158,11 @@ import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
 
 ### ![](../static/img/Animation.webp) Animations:
 
-- Almost all guns, melee weapons, and throwables have had their animations completely revised.
-- First-person weapon inertia when moving the camera and improved weapon locomotion animations.
+- Almost all guns, melee weapons, and throwables have had their animations completely remade.
+- First-person weapon inertia when moving the camera and improved weapon locomotion animations when walking.
+- Improved third-person movement animations for the player character and all NPCs.
 - Your player character can move diagonally in third-person.
-- Various chems have animations when consumed.
+- Various chems, food, and aid items have animations when consumed.
 - Many new immersive first-person interaction animations.
 - Turning on the Pip-Boy light has a dedicated animation.
 - A subtle camera shake effect has been added for certain actions like moving and getting hit.
