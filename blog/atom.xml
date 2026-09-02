@@ -2,11 +2,197 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>MOJAVE EXPRESS WABBAJACK Blog</title>
-    <updated>2026-02-22T00:00:00.000Z</updated>
+    <updated>2026-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>MOJAVE EXPRESS WABBAJACK Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[1.6 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.6 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.6 Update"/>
+        <updated>2026-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW - 1.6 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW - 1.6 Update</strong></p>
+<p>Massive Update - <strong>REQUIRES NEW SAVE!</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>Enhanced Console Autocomplete</li>
+<li>Fallout 4 Super Mutant Suiciders</li>
+<li>Coherent Follower's Outpost</li>
+<li>Assorted UI Textures</li>
+<li>The Great DLC Interior Overhaul</li>
+<li>Simple Economy eXpansion</li>
+<li>Lucky 38 Lighting Overhaul</li>
+<li>Dead Hand</li>
+<li>New Vegas Interior Optimization Project</li>
+<li>Desktop Interface ESPless</li>
+<li>Moth's Chinese AKs - Integrated into MEW - Weapons</li>
+<li>Simple Maps</li>
+<li>Radio Remaster</li>
+<li>Pip and the Boys</li>
+<li>ITR NVSE</li>
+<li>1111 NVSE</li>
+<li>Floating Subtitles NVSE</li>
+<li>Legion Military Dialogue Expanded</li>
+<li>Powder Ganger Dialogue Expanded</li>
+<li>Goodsprings Dialogue Expanded</li>
+<li>NCR Dialogue Expansion</li>
+<li>Hit The Gunslinger 357 Anims</li>
+<li>Hit - Millenia Animations - Part 2</li>
+<li>The Strip 2026</li>
+<li>DiaMoveNVSE Patched</li>
+<li>Dog Sneak Animations</li>
+<li>Smooth Terrain</li>
+<li>Kid Clothes</li>
+<li>Combat AI Tweaks</li>
+<li>NPC Semi-Auto Burst Fix</li>
+<li>There Stands the Grass</li>
+<li>Immersive Hollow Point Ammo</li>
+<li>Immersive Gun Condition</li>
+<li>Diagonal Movement NPC</li>
+<li>Dialogue History</li>
+<li>Canon Courier Dusters</li>
+<li>Damage Type Icons</li>
+<li>Jason Bright Head Fix</li>
+<li>Simple Weapon Lowering (ESPless)</li>
+<li>Delay DLC Lite</li>
+<li>RPG Gameplay Tweaks</li>
+<li>Supplementary Fixes And Tweaks</li>
+<li>Narrative Consistent Gameplay Tweaks</li>
+<li>ELMO</li>
+<li>More Repair Vendors</li>
+<li>The Freepost Mojave Express Expansion</li>
+<li>Stealth Suit Mk.II Helmet and VR Sim</li>
+<li>Curated Visual Enhancements</li>
+<li>Jason Bright Head Fix</li>
+<li>Hardcore Companion Revive NVSE</li>
+<li>Comprehensible Think Tank Dialogues</li>
+<li>Fallout 4-Style Gamepad Hotkeys - For controller users</li>
+<li>Sexout 2 in 4D</li>
+</ul>
+<hr>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>YUPDate - No longer supported</li>
+<li>JSUE - Replaced by Dead Hand</li>
+<li>Exploding Mole Rats - They can be kinda buggy</li>
+<li>Dead man's stash - Cool idea but it just feels out of place, super gamey and the backpack is repetitive</li>
+<li>B42 FireMode - I only really cared for the first shot accuracy improvement</li>
+<li>B42 Bash - I don't think it really adds much</li>
+<li>Wasted normals - It's included in mac-ten</li>
+<li>Simple AI Merge - Changes way too much and the AI is too unpredictable to test adjustments. Combat AI Tweaks is a replacement I guess.</li>
+<li>Overcharge - Whilst a cool concept i'm not sure it fits and isn't really what I wanted</li>
+<li>FG's Armors for all - Has clipping issues, holes, not optimised and lacks female variants</li>
+<li>Harder Barter Faster Stronger - Redundant with Simple Economy eXpansion</li>
+<li>Balanced Discounts and Barter Fixes - Redundant with Simple Economy eXpansion</li>
+<li>Simple Harder Credit Check - Redundant with Actually Useful Charisma/Simple Economy eXpansion</li>
+<li>NS AK47 - Replaced by Moth's Chinese AKs</li>
+<li>Basic Console Autocomplete - Replaced by Enhanced Console Autocomplete</li>
+<li>Platinum Radio - Unfortunately doesn't fit well with the remastered radio due to inferior quality and inconsistent volume</li>
+<li>Mojave Radio - Unfortunately doesn't fit well with the remastered radio due to inferior quality and inconsistent volume</li>
+<li>M.R.E. - Mysterious Radio Extended - Unfortunately doesn't fit well with the remastered radio due to inferior quality and inconsistent volume</li>
+<li>New World Map for New Vegas - Doesn't cover DLC maps unfortunately</li>
+<li>Skill Based Pickpocketing - Seems like an unnecessary change</li>
+<li>Radio Fix Step for MEW.</li>
+<li>Diagonal movement - replaced by DiaMoveNVSE Patched, hopefully works better</li>
+<li>Smooth Notifications - replaced by ELMO</li>
+<li>Colorful Icons Support - looks better without</li>
+<li>Faded Inventory Ycons - looks better without</li>
+<li>Curated Tweaks and Restorations - replaced by Curated Visual Enhancements</li>
+<li>Feral Ghouls And Jason Bright Brotherhood Robes - Integrated into Curated Visual Enhancements</li>
+<li>Revamped Fiend Headgear - prefer them without</li>
+<li>Don't Block Me - redundant with ITR</li>
+<li>Controller Support NVSE - not needed anymore</li>
+</ul>
+<hr>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Changed the BSA decompressing process. You no longer need to redo this step after updating post 1.6</li>
+<li>Changed any mod requiring YUP to their non-YUP versions</li>
+<li>Controller should now work properly</li>
+<li>Stewie Tweaks:<!-- -->
+<ul>
+<li>Adjusted repair pricing and barter skill adjustments</li>
+<li>Enabled Repair all confirmation</li>
+<li>Enabled Crippled legs scale jump height</li>
+<li>Enabled Critical hit messages list limb</li>
+<li>Enabled explosion radius buff</li>
+<li>Turn further whilst seated</li>
+<li>Changed Agility Scales Speed tweak, 2.5% &gt; 3% to be in line with reload and equip speed changes</li>
+</ul>
+</li>
+<li>Increased NPC dodge cooldown from 1s to 2s, lowered dodge speed from 150% to 130%</li>
+<li>Reload Reloaded:<!-- -->
+<ul>
+<li>Reduced agility point modifier, 5% &gt; 3% reload and equip speed</li>
+</ul>
+</li>
+<li>Fixed the Mercenary Assault Rifle not spawning on NPC's</li>
+<li>Implemented new ammo types .30-06 used by the and Battle Rifle, Automatic Rifle and Military Sniper Rifle</li>
+<li>Cleansing Flame moved to Cook-Cook</li>
+<li>Reduced charisma requirements on a number of dialogues (many required 8)</li>
+<li>Implemented many weapon rebalances</li>
+<li>Max level is now back to 50 but with 2 reduced skill points per level</li>
+<li>Levelling is 33% slower, it was previously around 50%</li>
+<li>Disabled the trait changes from perkout</li>
+<li>Base carry weight is now 75</li>
+<li>Weapon condition now affects the spread of the weapon instead of damage</li>
+</ul>
+<hr>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>UI Improvements</li>
+<li>External Emittance Fix - NVSE</li>
+<li>Mojave Raiders</li>
+<li>Depth Resolve - NVSE</li>
+<li>Vanilla Objects Parallaxed</li>
+<li>Immersive Weapon Switching NVSE</li>
+<li>Better Caravan</li>
+<li>The Great Mojave Interior Overhaul</li>
+<li>Point That Somewhere Else</li>
+<li>Essential Vanilla Enhancements Merged</li>
+<li>Goodies</li>
+<li>Famine</li>
+<li>Mojave Arsenal</li>
+<li>Yvile's Crash Logger</li>
+<li>Prospector Saloon - An Overhaul</li>
+<li>FNV Mod Limit Fix</li>
+<li>Essential DLC Enhancements Merged</li>
+<li>JohnnyGuitar NVSE</li>
+<li>ShowOff</li>
+<li>The Platinum Vault</li>
+<li>Prospector Saloon - An Overhaul</li>
+<li>Mojave Arsenal</li>
+<li>Meshes and Collision - Totally Enhanced Nifs (MAC-TEN)</li>
+<li>Unofficial Patch NVSE Plus</li>
+<li>Better Character Creation</li>
+<li>Cell Offset Generator - NVSE</li>
+<li>Point That Somewhere Else</li>
+<li>Gambling Luck Rebalanced</li>
+<li>PipBoy UI Tweaks</li>
+<li>Vanilla Objects Parallaxed</li>
+<li>Radiation Visuals - ESPless</li>
+<li>Modern Help Menu - ESPless</li>
+<li>ATMOS Ambience Overhaul</li>
+<li>lStewieAl's Tweaks and Engine Fixes</li>
+<li>Better Caravan</li>
+<li>Third Person Aim Fix NVSE</li>
+<li>Revised Mojave</li>
+<li>Realtime PipBoy Map</li>
+<li>B42 Weapon Inertia</li>
+<li>Explosive Overhaul</li>
+<li>Mojave Mountains</li>
+</ul>
+<hr>
+<p><strong>REQUIRES NEW SAVE!</strong></p>
+<p>Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a>.</p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="September" term="September"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.5.6 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/1.5.6 Update</id>
