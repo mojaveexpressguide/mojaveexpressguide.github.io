@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Performance & Optimization
+# Performance & Optimisation
 
 ---
 
@@ -47,7 +47,7 @@ You can select the <span class="custom-text">**Mojave Express Wabbajack - Perfor
 ![MO2PerformancePreset](../static/img/MO2PerformancePreset.webp) 
 
 **This preset does the following:**
-- Disabled the Vanilla Plus AO mod 
+- Disables the Vanilla Plus AO mod 
 - Disables the Vanilla Terrain Parallaxed mod
 - Disables the Vanilla Objects Parallaxed mod
 - Disables the Weapon blur and DOF effects mod
