@@ -18,6 +18,32 @@ hola:
   permalink: /hola
   description: Hola tag description
 
+
+January:
+  label: January
+  permalink: /January
+  description: January
+
+February:
+  label: February
+  permalink: /February
+  description: February
+
+March:
+  label: March
+  permalink: /March
+  description: March
+
+April:
+  label: April
+  permalink: /April
+  description: April
+
+May:
+  label: May
+  permalink: /May
+  description: May
+
 June:
   label: June
   permalink: /June
@@ -33,17 +59,22 @@ August:
   permalink: /August
   description: August
 
+September:
+  label: September
+  permalink: /September
+  description: September
+
+October:
+  label: October
+  permalink: /October
+  description: October
+
+November:
+  label: November
+  permalink: /November
+  description: November
+
 December:
   label: December
   permalink: /December
   description: December
-
-January:
-  label: January
-  permalink: /January
-  description: January
-
-Feburary:
-  label: February
-  permalink: /Feburuary
-  description: Feburuary

@@ -106,6 +106,22 @@ The <span class="custom-text">**most common**</span> reason is below:
 
 <details>
 
+<summary className="big-summary">**Audio stutter/cutting in/crackling**</summary>
+
+There can be **multiple** reasons for this:
+
+- Bluetooth sound devices do not work correctly with Fallout: New Vegas. One solution is to play some type of video or music in the background when launching the game, which then can be turned off after loading. Another solution is to download and run the [**Soundkeeper 64 executable**](https://veg.by/en/projects/soundkeeper/). It plays a constant imperceptible tone to fix any audio lag or connection oddities when using bluetooth headphones.
+
+- You can try downloading and installing something like [**k-lite codecs**](https://codecguide.com/download_kl.htm). The basic version is fine. Restart your PC afterwards.
+
+    - If that doesn't work then try downloading the [**Media Feature Pack for Windows**](https://codecguide.com/windows_media_codecs.htm).
+
+
+
+</details>
+
+<details>
+
 <summary className="big-summary">**Ultrawide Support**</summary>
 
 1. Select the <span class="custom-text">**INI Editor**</span> at the top of MO2.

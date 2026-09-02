@@ -26,12 +26,6 @@ sidebar_position: 5
 
 - Press <span class="custom-text">**Middle Mouse Button**</span> to change map mode.
 
-**B42 Bash**:
-- Press <span class="custom-text">**X**</span> to **bash**.
-
-**B42 Firemode:**
-
-- Press <span class="custom-text">**C**</span> to change **firemode** with automatic weapons.
 
 **B42 Scopes:**
 
@@ -49,9 +43,9 @@ sidebar_position: 5
 
 ## 🎮 Controller:
 
-You may want to enable the <span class="custom-text">**Soft-Lock Aim-Assist**</span> mod in the **Utilities** separator in the left pane of **MO2**.
+You may want to enable the <span class="custom-text">**Soft-Lock Aim-Assist**</span> mod in the **Tweaks, Configs & Patches** separator in the left pane of **MO2**.
 
 <p>**MEW** uses a modernized control scheme that is closer to later titles like FO4.</p>
 
-<p>![ControllerLayout](../static/img/ControllerLayout.webp)</p>
+<p>![MEWController](../static/img/MEWController.webp)</p>
 

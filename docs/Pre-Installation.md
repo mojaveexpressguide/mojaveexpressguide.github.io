@@ -55,7 +55,7 @@ As the game is available on **Steam or GOG** there are separate instructions for
 
 <details>
 
-<summary className="big-summary">**Epic**</summary>
+<summary className="big-summary">**Epic Games**</summary>
 
 1. Open the Epic Games Launcher and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list.
@@ -113,7 +113,7 @@ If you already have Steam installed outside of any default windows folders then 
 
 <details>
 
-<summary className="big-summary">**Epic**</summary>
+<summary className="big-summary">**Epic Games**</summary>
 
 1. Open the Epic Games Launcher and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list.

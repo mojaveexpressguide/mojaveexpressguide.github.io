@@ -119,7 +119,6 @@ const config = {
             position: 'left',
             label: 'FAQ',
           },
-
           {to: '/blog', label: 'Changelog', position: 'left'},
           {
             href: "https://github.com/mojaveexpressguide/mojaveexpressguide.github.io",
@@ -127,6 +126,12 @@ const config = {
             position: "right",
             className: "header-github-link",
             "aria-label": "GitHub repository",
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Resources',
+            position: 'left',
+            label: 'Resources',
           },
           {
             href: 'https://discord.gg/5bH7Kd49hx',

@@ -79,7 +79,7 @@ This operation is required because Windows can block MO2 and mod files from load
 
 <details>
 
-<summary className="big-summary">**Epic Only**</summary>
+<summary className="big-summary">**Epic Games Only**</summary>
 
 1. In your **Installation Location**, open the <span class="custom-text">**__EPIC ONLY Files Requiring Manual Install**</span> folder.
 <p>![FilesRequiringManualInstall](../static/img/EpicFilesRequiringManualInstall1.webp)</p>
@@ -94,25 +94,3 @@ This operation is required because Windows can block MO2 and mod files from load
 
 </details>
 
----
-
-### Radio Fix:
-This makes the added radios songs play on the radios throughout the world.
-
-1. In your **Installation Location**, open the <span class="custom-text">**__Radio Fix**</span> folder.
-<p>![RadioFixInstallation](../static/img/RadioFixInstallation.webp)</p>
-2. Double-click on **Run This.bat**.
-3. A command prompt window will open and start encoding files.
-4. Once its finished it will say `Radio Fix has been successfully installed!`
-
----
-
-### BSA Decompressor:
-Decompresses the vanilla BSA files to reduce loading times and stuttering. Can also fix certain sound effects not playing.
-
-1. In your **Installation Location**, open the <span class="custom-text">**__BSA Decompressor**</span> folder. 
-2. Double-click on **FNV BSA Decompressor.exe**.
-<p>![BSADecompressorInstallation](../static/img/BSADecompressorInstallation.webp)</p>
-3. The Fallout: New Vegas and Decompressed Archives paths should be filled by default (Root folder and Data folder respectively).
-        - If they aren't, close the program and re-run your game launcher to generate the required registry key.
-5. Click **Decompress**, wait for the process the finish, then exit the program once finished.

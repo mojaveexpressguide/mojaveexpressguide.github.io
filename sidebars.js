@@ -45,15 +45,20 @@ const sidebars = {
     'Known Issues',
   ],
 
-    Benchmarks: [
+  Benchmarks: [
     'Benchmarks',
   ],
 
-      FAQ: [
+  FAQ: [
     'FAQ',
   ],
 
-
+  Resources: [
+    'Communities',
+    'Modding Tools',
+    'General Modding Info',
+    'Niche Game Info',
+  ],
 };
 
 

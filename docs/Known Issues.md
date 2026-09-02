@@ -6,5 +6,4 @@ sidebar_position: 4
 
 ---
 
-**Scopes look weird (show normal map) when looking at water:**
-<p>This is due to B42 Optics and happens randomly, there is nothing I can do about this.</p>
+- **On a new save, occasionally your weapons may not holster correctly. If you save and restart the game, that should fix it.**
