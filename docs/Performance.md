@@ -52,6 +52,8 @@ You can select the <span class="custom-text">**Mojave Express Wabbajack - Perfor
 - Disables the Vanilla Objects Parallaxed mod
 - Disables the Weapon blur and DOF effects mod
 - Disables the Afterglow mod
+- Disabled the Smooth Terrain mod
 - Disables NPC shadows
-- For B42 Optics - Reduces the resolution of the scope and removes DOF
+- Enables B42 Optics - Performance Preset
+- Enables MEW - Performance INI's
 - Slightly reduces various LOD distances

@@ -16,8 +16,9 @@ sidebar_position: 4
 - **Weapon condition** now affects the spread of the weapon instead of the damage.
 - **Flame weapons** now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
 - **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
-- **Some weapons** have had their ammo types changed, and there is now a new ammo .30-06 added to the game.
+- **New ammo type** .30-06 added to the game. This is similar in function to .308.
 - **FO3-style item repair** is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40. You can turn this off under the **Difficulty Overhaul** section.
+- **Many weapons** have been lightly [rebalanced](https://docs.google.com/spreadsheets/d/1imY0eoVwJZYfzQlPWnO3y0bX_HlbZD3PCwVbBC3NMsE/edit?usp=sharing).
 
 ---
 
