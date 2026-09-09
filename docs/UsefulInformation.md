@@ -15,16 +15,10 @@ sidebar_position: 4
 - **Charisma** is now a more useful stat, as it is now used in many dialogue checks.
 - **Weapon condition** now affects the spread of the weapon instead of the damage.
 - **Flame weapons** now utilize the **Explosives** skill instead of Energy Weapons. See [Burning Desire](https://www.nexusmods.com/newvegas/mods/91581) for more info.
-<<<<<<< HEAD
-- **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
-- **New ammo type** .30-06 added to the game. This is similar in function to .308.
-- **FO3-style item repair** is now back. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40. You can turn this off under the **Difficulty Overhaul** section.
-- **Many weapons** have been lightly [rebalanced](https://docs.google.com/spreadsheets/d/1imY0eoVwJZYfzQlPWnO3y0bX_HlbZD3PCwVbBC3NMsE/edit?usp=sharing).
-=======
 - **Weapon requirements** matter significantly more now! Meeting the strength and skill requirements is important. You can expect more sway, lower attack speeds, and explosives may fail or explode prematurely. See [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) for more info.
-- **Some weapons** have had their ammo types changed, and there is now a new ammo type (.30-06) added to the game.
+- **New ammo type** .30-06 added to the game. This is similar in function to .308.
 - **FO3-style item repair** has been implemented. The max repair amount of items will be capped to the player's (Repair Skill * 0.6) + 40. You can turn this off under the **Difficulty Overhaul** section.
->>>>>>> 193b40e36cfb12b8d535d42fcc3d1f41f7895616
+- **Many weapons** have been lightly [rebalanced](https://docs.google.com/spreadsheets/d/1imY0eoVwJZYfzQlPWnO3y0bX_HlbZD3PCwVbBC3NMsE/edit?usp=sharing).
 
 ---
 
@@ -35,10 +29,10 @@ You will not receive the DLC radios and quests at the start of the game. Instead
 You will not receive the **Courier's Stash** DLC weapons when you start a new character due to [Dead Hand](https://www.nexusmods.com/newvegas/mods/94982). Instead the items are moved to the following locations: 
 
 - **Tribal Pack:** <span class="hover-spoiler">Lucky Jim Mine House</span>
-- **Caravan Pack:** <span class="hover-spoiler">Hell's Motel</span>
+- **Caravan Pack:** <span class="hover-spoiler">Harper's Shack</span>
 - **Classic Pack:** <span class="hover-spoiler">Wrecked Highwayman</span>
 - **Mercenary Pack:** <span class="hover-spoiler">Bradley's Shack</span>
-- **Scavenger's Pack (NEW):** <span class="hover-spoiler">blank</span>
+- **Scavenger's Pack (NEW):** <span class="hover-spoiler">Muck pool outside REPCONN Test Site </span>
 
 ---
 
