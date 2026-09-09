@@ -2,11 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mojaveexpressguide.com/blog</id>
     <title>MOJAVE EXPRESS WABBAJACK Blog</title>
-    <updated>2026-09-01T00:00:00.000Z</updated>
+    <updated>2026-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mojaveexpressguide.com/blog"/>
     <subtitle>MOJAVE EXPRESS WABBAJACK Blog</subtitle>
     <icon>https://www.mojaveexpressguide.com/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[1.6.1 Update]]></title>
+        <id>https://www.mojaveexpressguide.com/blog/1.6.1 Update</id>
+        <link href="https://www.mojaveexpressguide.com/blog/1.6.1 Update"/>
+        <updated>2026-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEW 1.6.1 Update]]></summary>
+        <content type="html"><![CDATA[<p><strong>MEW 1.6.1 Update</strong></p>
+<p>Update to fix some issues. <strong>SAFE TO UPDATE MID-SAVE</strong></p>
+<p><strong>ADDED:</strong></p>
+<ul>
+<li>Lived-In Casinos - I accidentally removed this</li>
+</ul>
+<p><strong>REMOVED:</strong></p>
+<ul>
+<li>Casino Crowds - They have weird collision issues for some reason</li>
+<li>Super Mutant Suiciders - Kinda out of place</li>
+<li>The Freepost Mojave Express Expansion - Somehow related to interior fading</li>
+<li>Desktop Interface ESPless - Honestly doesn't look very good</li>
+</ul>
+<p><strong>FIXED/CHANGED:</strong></p>
+<ul>
+<li>Increased values for immersive gun condition</li>
+<li>Adjusted world radio volume</li>
+<li>Fixed the weapon rebalance not actually working</li>
+<li>Adjusted pipboy light values</li>
+<li>Re-enabled optimized ammo but with nerfed values</li>
+<li>Deleted Ultrawide MAPMO Preset as probably broken and now unsupported</li>
+<li>Adusted Gloria's vendor inventory</li>
+<li>Floating box in Silver Rush</li>
+<li>Fixed some enemies spawning with 5.56 instead of 22lr when using the varmint rifle</li>
+<li>Fixed missing pip-boy icons on .30-06 ammo</li>
+<li>Removed hud colour change when in power armour</li>
+<li>Adjusted some weapon sight alignments</li>
+<li>Adjusted a ton of item values</li>
+<li>Added NVAO anims to Scavenger Rifle</li>
+<li>Changed hunting revolver scope mod to correct one</li>
+<li>UI Improvements<!-- -->
+<ul>
+<li>Disabled ExpandedAttributeInfo - Causes stutter</li>
+<li>Disabled ExpandedSkillInfo - Causes stutter</li>
+</ul>
+</li>
+</ul>
+<p><strong>UPDATED:</strong></p>
+<ul>
+<li>FNV Mod Limit Fix</li>
+</ul>
+<p><strong>SAFE TO UPDATE MID-SAVE</strong>
+Read <a href="https://mojaveexpressguide.com/docs/Updating%20MEW" target="_blank" rel="noopener noreferrer">Updating MEW</a></p>]]></content>
+        <author>
+            <name>Biggie404</name>
+            <uri>https://github.com/mojaveexpressguide</uri>
+        </author>
+        <category label="September" term="September"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.6 Update]]></title>
         <id>https://www.mojaveexpressguide.com/blog/1.6 Update</id>
